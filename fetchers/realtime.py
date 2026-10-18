@@ -45,7 +45,10 @@ def fuel_of(type_text, unit_name):
 
 
 def find_rows(obj):
-    if isinstance(obj, list) and obj and isinstance(obj[0], list):
+    """找出機組資料列：支援「列為陣列」與「列為物件」兩種格式。"""
+    if isinstance(obj, list) and obj and isinstance(obj[0], (list, dict)):
+        if isinstance(obj[0], dict) and not any(_key(obj[0], k) for k in ("name",)):
+            return None
         return obj
     if isinstance(obj, dict):
         for v in obj.values():
@@ -53,6 +56,35 @@ def find_rows(obj):
             if rows:
                 return rows
     return None
+
+
+KEY_HINTS = {
+    "type": ["機組類型", "能源別", "type", "Type"],
+    "name": ["機組名稱", "name", "Name"],
+    "cap": ["裝置容量", "capacity", "Capacity"],
+    "gen": ["淨發電量", "發電量", "generation", "Generation"],
+}
+
+
+def _key(d, field):
+    for k in d.keys():
+        if any(h in k for h in KEY_HINTS[field]):
+            if field == "gen" and ("比" in k or "%" in k or "ratio" in k.lower()):
+                continue
+            return k
+    return None
+
+
+def row_fields(row):
+    """回傳 (類型原文, 機組名稱, 裝置容量, 淨發電量)。"""
+    if isinstance(row, dict):
+        kt, kn, kc, kg = (_key(row, f) for f in ("type", "name", "cap", "gen"))
+        g = lambda k: row.get(k) if k else None  # noqa: E731
+        return str(g(kt) or ""), TAG_RE.sub("", str(g(kn) or "")).strip(), num(TAG_RE.sub("", str(g(kc) or ""))), num(TAG_RE.sub("", str(g(kg) or "")))
+    cells = [TAG_RE.sub("", str(c)).strip() for c in row]
+    if len(cells) < 5:
+        return None
+    return str(row[0]), cells[2], num(cells[3]), num(cells[4])
 
 
 def find_time(obj):
@@ -63,19 +95,31 @@ def find_time(obj):
     return None
 
 
+def describe(payload):
+    """格式診斷：失敗時存下資料結構樣本，方便調整解析程式。"""
+    def shape(o, depth=0):
+        if depth > 3:
+            return "…"
+        if isinstance(o, dict):
+            return {k: shape(v, depth + 1) for k, v in list(o.items())[:12]}
+        if isinstance(o, list):
+            return [shape(o[0], depth + 1), f"(共 {len(o)} 筆)"] if o else []
+        return str(o)[:80]
+    return shape(payload)
+
+
 def parse(payload):
     rows = find_rows(payload) or []
     by_fuel = {}
     units = 0
     for row in rows:
-        cells = [TAG_RE.sub("", str(c)).strip() for c in row]
-        if len(cells) < 5:
+        f = row_fields(row)
+        if not f:
             continue
-        name = cells[2]
+        type_text, name, cap, gen = f
         if not name or "小計" in name or "合計" in name:
             continue
-        fuel = fuel_of(str(row[0]), name)
-        cap, gen = num(cells[3]), num(cells[4])
+        fuel = fuel_of(type_text, name)
         if fuel is None or cap is None:
             continue
         b = by_fuel.setdefault(fuel, {"cap_mw": 0.0, "gen_mw": 0.0, "units": 0})
@@ -90,21 +134,32 @@ def parse(payload):
     return {"time": t, "units": units, "by_fuel": by_fuel}
 
 
-def fetch_payload():
+def candidate_urls():
     urls = []
     try:
         urls += resource_urls(DATASETS["realtime_units"], "JSON")
     except Exception as e:  # noqa: BLE001
-        print("realtime: data.gov.tw API failed, using fallback:", e)
-    urls += REALTIME_FALLBACK_URLS
-    last = None
-    for u in urls:
+        print("realtime: data.gov.tw API failed:", e)
+    return urls + [u for u in REALTIME_FALLBACK_URLS if u not in urls]
+
+
+def fetch_snapshot():
+    """逐一嘗試各網址，回傳第一個能解析出足夠機組的結果。"""
+    errors, samples = [], []
+    for u in candidate_urls():
         try:
-            r = get(u)
-            return json.loads(r.content.decode("utf-8-sig"))
+            payload = json.loads(get(u).content.decode("utf-8-sig"))
         except Exception as e:  # noqa: BLE001
-            last = e
-    raise last or RuntimeError("沒有可用的即時資料網址")
+            errors.append(f"{u.split('/')[2]}: {e}")
+            continue
+        snap = parse(payload)
+        if snap["units"] >= 20:
+            return snap
+        samples.append({"url": u, "units": snap["units"], "shape": describe(payload)})
+        errors.append(f"{u.split('/')[2]}: 只解析到 {snap['units']} 部機組")
+    if samples:
+        save_json("debug/realtime_sample.json", {"time": now_iso(), "samples": samples})
+    raise RuntimeError("；".join(errors) + ("（格式樣本已存到 data/debug/realtime_sample.json）" if samples else ""))
 
 
 def accumulate(monthly, snap):
@@ -120,9 +175,7 @@ def accumulate(monthly, snap):
 
 def run():
     try:
-        snap = parse(fetch_payload())
-        if snap["units"] < 20:
-            raise RuntimeError(f"只解析到 {snap['units']} 部機組，格式可能已變動")
+        snap = fetch_snapshot()
         latest = load_json("realtime/latest.json", {}) or {}
         hist = latest.get("history", [])
         if not hist or hist[-1]["time"] != snap["time"]:

@@ -20,10 +20,17 @@ export function t(key, vars = {}) {
   return s;
 }
 
+// 快取參數：平常每小時換一次；手動更新後立即換新，確保讀到最新資料
+export function bumpCache() { try { localStorage.setItem("tpw.bust", String(Date.now())); } catch { /* 無法使用 localStorage 時略過 */ } }
+function cacheKey() {
+  let manual = 0;
+  try { manual = Number(localStorage.getItem("tpw.bust") || 0); } catch { /* 略過 */ }
+  return `${Math.floor(Date.now() / 3.6e6)}-${manual}`;
+}
+
 export async function loadJSON(name) {
   try {
-    const bust = Math.floor(Date.now() / 3.6e6); // 每小時更新快取
-    const r = await fetch(`data/${name}?v=${bust}`);
+    const r = await fetch(`data/${name}?v=${cacheKey()}`, { cache: "no-cache" });
     if (!r.ok) return null;
     return await r.json();
   } catch {
@@ -48,7 +55,7 @@ export async function init(active) {
     <div class="wrap">
       <div class="masthead__top">
         <a class="brand" href="index.html"><span class="brand__name">${t("site.name")}</span><span class="brand__tag">${t("site.tagline")}</span></a>
-        <span class="masthead__date">${today}</span>
+        <span class="masthead__right"><span class="masthead__date">${today}</span><a class="masthead__update" href="data.html#update">手動更新</a></span>
       </div>
       <nav class="nav" aria-label="主選單">
         ${NAV.map((k) => `<a href="${HREF[k] || k + ".html"}"${k === active ? ' aria-current="page"' : ""}>${t("nav." + k)}</a>`).join("")}

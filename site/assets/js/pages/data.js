@@ -1,7 +1,10 @@
 import { init, loadJSON, esc } from "../app.js";
+import { mountUpdater } from "../updater.js";
 
 await init("data");
 const meta = await loadJSON("meta.json");
+mountUpdater(document.getElementById("update"));
+if (location.hash === "#update") document.getElementById("update").scrollIntoView();
 const SOURCES = [
   ["capacity_annual", "發電裝置容量（年）", "經濟部能源署", "https://data.gov.tw/dataset/16480", "每月 5、15 日", "capacity_annual.json"],
   ["daily_supply", "每日電力供需", "台灣電力公司", "https://data.gov.tw/dataset/19995", "每月 5、15 日", "daily_supply.json"],
@@ -16,5 +19,5 @@ document.getElementById("sources").innerHTML = SOURCES.map(([key, name, org, url
   const s = key ? meta?.sources?.[key] : null;
   const status = !key ? "人工維護" : !s ? "尚未執行" : s.ok ? `<span class="ok">正常</span>` : `<span class="fail">失敗</span>`;
   return `<tr><td>${url ? `<a href="${url}" target="_blank" rel="noopener">${esc(name)}</a>` : esc(name)}</td><td>${esc(org)}</td><td>${freq}</td>
-    <td>${status}${s && !s.ok && s.message ? `<br><small>${esc(s.message)}</small>` : ""}</td><td>${fmtT(s?.last_success)}</td><td><a href="data/${file}" download>JSON</a></td></tr>`;
+    <td>${status}${s && s.message ? `<small class="msg">${esc(s.message)}</small>` : ""}</td><td>${fmtT(s?.last_success)}</td><td><a href="data/${file}" download>JSON</a></td></tr>`;
 }).join("");

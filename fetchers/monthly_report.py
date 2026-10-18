@@ -11,6 +11,8 @@ import re
 from common import ROOT, get, load_json, now_iso, num, record_status, save_json
 
 LIST_FILE = os.path.join(ROOT, "fetchers", "monthly_reports.txt")
+LOCAL_DIR = os.path.join(ROOT, "reports")  # 手動放入（或從網頁上傳）的月報 PDF
+MIRROR_HOSTS = ["www.taipower.com.tw", "hc.taipower.com.tw", "hc2.taipower.com.tw", "dr.taipower.com.tw", "demo2024.taipower.com.tw"]
 
 PATTERNS = {
     "capacity_kw": r"總裝置容量為([\d,]+)瓩",
@@ -61,30 +63,92 @@ def read_list():
     return items
 
 
-def run():
-    import pdfplumber
+def month_from_filename(name):
+    """11305簡明月報.pdf → 2024-05；2024-05.pdf → 2024-05。"""
+    m = re.match(r"^(\d{4})-(\d{2})", name)
+    if m:
+        return f"{m.group(1)}-{m.group(2)}"
+    m = re.match(r"^(\d{3})(\d{2})", name)
+    if m:
+        return f"{int(m.group(1)) + 1911}-{m.group(2)}"
+    return None
 
+
+def mirrors(url):
+    """台電同一份 PDF 常可在多個子網域取得，依序嘗試。"""
+    m = re.match(r"^https?://([^/]+)(/.*)$", url)
+    if not m or not m.group(1).endswith("taipower.com.tw"):
+        return [url]
+    return [url] + [f"https://{h}{m.group(2)}" for h in MIRROR_HOSTS if h != m.group(1)]
+
+
+def pdf_text(pdf_bytes):
+    import pdfplumber
+    with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
+        return "\n".join((p.extract_text() or "") for p in pdf.pages[:4])
+
+
+def parse_pdf(pdf_bytes):
+    vals = parse_text(pdf_text(pdf_bytes))
+    if len(vals) < 4:
+        raise RuntimeError("解析到的欄位太少，月報格式可能不同")
+    return vals
+
+
+def local_reports():
+    if not os.path.isdir(LOCAL_DIR):
+        return []
+    out = []
+    for name in sorted(os.listdir(LOCAL_DIR)):
+        if name.lower().endswith(".pdf"):
+            month = month_from_filename(name)
+            if month:
+                out.append((month, os.path.join(LOCAL_DIR, name)))
+    return out
+
+
+def run():
     data = load_json("monthly_reports.json", {"months": {}}) or {"months": {}}
     done, failed = 0, []
-    for month, url in read_list():
-        if month in data["months"] and data["months"][month].get("sales_kwh"):
+    have = lambda m: m in data["months"] and data["months"][m].get("sales_kwh")  # noqa: E731
+
+    # 1. 本機 PDF（不受台電網站阻擋影響）
+    for month, fpath in local_reports():
+        if have(month):
             continue
         try:
-            pdf_bytes = get(url, timeout=90).content
-            with pdfplumber.open(io.BytesIO(pdf_bytes)) as pdf:
-                text = "\n".join((p.extract_text() or "") for p in pdf.pages[:4])
-            vals = parse_text(text)
-            if len(vals) < 4:
-                raise RuntimeError("解析到的欄位太少，月報格式可能不同")
-            vals["source_url"] = url
+            with open(fpath, "rb") as f:
+                vals = parse_pdf(f.read())
+            vals["source_url"] = "reports/" + os.path.basename(fpath)
             data["months"][month] = vals
             done += 1
         except Exception as e:  # noqa: BLE001
-            failed.append(f"{month}: {e}")
+            failed.append(f"{month}（本機檔案）: {e}")
+
+    # 2. 清單中的網址，失敗時改試其他台電子網域
+    for month, url in read_list():
+        if have(month):
+            continue
+        last = None
+        for u in mirrors(url):
+            try:
+                vals = parse_pdf(get(u, timeout=90, retries=1).content)
+                vals["source_url"] = u
+                data["months"][month] = vals
+                done += 1
+                last = None
+                break
+            except Exception as e:  # noqa: BLE001
+                last = e
+        if last:
+            failed.append(f"{month}: {str(last)[:80]}")
     data["updated"] = now_iso()
     data["source"] = {"name": "台灣電力公司｜簡明月報", "url": "https://www.taipower.com.tw/"}
     save_json("monthly_reports.json", data)
-    record_status("monthly_reports", not failed, "; ".join(failed[:3]), rows=len(data["months"]))
+    msg = "；".join(failed[:3])
+    if failed:
+        msg += "。台電網站阻擋自動下載時，可從網站「資料來源」頁上傳 PDF。"
+    record_status("monthly_reports", done > 0 or not failed, msg, rows=len(data["months"]))
     print(f"monthly reports: {done} parsed, {len(failed)} failed")
 
 

@@ -87,6 +87,20 @@ def test_realtime_parse():
     assert m["months"]["2026-10"]["samples"] == 1
 
 
+def test_realtime_dict_rows():
+    rows = [{"機組類型": "燃煤(Coal)", "機組名稱": f"台中#{i}", "裝置容量(MW)": "550.0",
+             "淨發電量(MW)": "500.0", "淨發電量/裝置容量比(%)": "90.9%", "備註": ""} for i in range(1, 11)]
+    rows.append({"機組類型": "風力(Wind)", "機組名稱": "海能風場", "裝置容量(MW)": "376", "淨發電量(MW)": "120", "淨發電量/裝置容量比(%)": "31%", "備註": ""})
+    s = realtime.parse({"DateTime": "2026-10-18T14:30:00", "aaData": rows})
+    assert s["time"] == "2026-10-18 14:30"
+    assert s["by_fuel"]["coal"]["units"] == 10 and s["by_fuel"]["coal"]["gen_mw"] == 5000
+    assert s["by_fuel"]["wind_offshore"]["gen_mw"] == 120
+
+
+def test_report_month_name():
+    assert monthly_report.month_from_filename("11409簡明月報.pdf") == "2025-09"
+
+
 if __name__ == "__main__":
     for name, fn in list(globals().items()):
         if name.startswith("test_"):

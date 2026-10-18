@@ -24,6 +24,20 @@
 
 （選用）把每個 HTML 檔開頭的 `data-repo=""` 填入 repo 網址，頁尾就會出現原始碼連結。
 
+## 手動更新（網頁上操作）
+
+網站右上角「手動更新」會開啟「資料來源」頁的更新面板：
+
+- **重新載入最新資料**：任何人都能用，略過瀏覽器快取重新讀取資料。
+- **立即更新全部資料**：觸發「全部更新」工作流程，畫面會顯示進度（抓取 → 部署 → 完成）。需要管理者先設定 GitHub Token。
+- **上傳台電簡明月報 PDF**：台電網站會擋自動下載，可手動下載 PDF 後在這裡上傳，系統自動解析。
+
+Token 設定方式：GitHub → Settings → Developer settings → Personal access tokens → **Fine-grained tokens** → Generate new token。
+- Repository access：只選這個 repo
+- Permissions：**Actions: Read and write**；若要上傳月報，再加 **Contents: Read and write**
+
+Token 只存在你自己瀏覽器的 localStorage，不會進入 repo。建議設定到期日，也不要在公用電腦上設定。
+
 ## 自動更新排程
 
 | 工作流程 | 時間（台灣時間） | 內容 |
@@ -31,6 +45,7 @@
 | 更新電力資料 | 每月 5、15 日 09:00 | 能源署裝置容量、台電每日供需、兩個月預測、簡明月報 |
 | 即時發電取樣 | 每小時 | 台電各機組即時出力 → 估算月發電量與容量因數 |
 | 更新新聞 | 每天 06:00、17:00 | 電力、綠能、天然氣、碳費、AI 用電、國際 |
+| 全部更新 | 手動 | 網站「立即更新全部資料」按鈕使用 |
 | 部署網站 | 上述資料或 site/ 有更新時 | 發布到 GitHub Pages |
 
 某個來源失敗時，舊資料會保留，失敗原因會顯示在網站「資料來源」頁。
@@ -38,11 +53,13 @@
 ## 需要人工維護的部分
 
 - **`site/data/plants.json`、`outlook.json`、`facts.json`、`contract_capacity.json`**：電源開發計畫、需求預測、重點數字、契約容量。這些只出現在政府報告與新聞稿裡，沒有結構化資料。每年《全國電力資源供需報告》公布後（通常 6～9 月）更新一次；每筆都要附出處，官方沒公布的數字請留 `null`。
-- **`fetchers/monthly_reports.txt`**：台電簡明月報 PDF 清單。台電網址沒有固定規則，新月報公布後在檔案加一行「YYYY-MM 網址」即可。
+- **台電簡明月報**：從網站上傳 PDF 最簡單，或直接把 PDF 放進 `reports/` 資料夾 commit。`fetchers/monthly_reports.txt` 的網址清單也保留，但台電常擋 GitHub 主機下載。
 - **`fetchers/config.py`**：離岸風場關鍵字、新聞搜尋關鍵字、媒體 RSS。
 
 ## 已知限制
 
+- **即時資料格式**：若「各機組即時發電量」顯示失敗，程式會把資料格式樣本存到 `site/data/debug/realtime_sample.json`，可依此調整 `fetchers/realtime.py`。
+- **每日供需的時間落差**：台電資料集為「今年至上月」，且通常在月中後才更新上個月，所以 10 月上中旬可能只到 8 月底。
 - **海外 IP 存取**：GitHub Actions 主機在海外。台電官網有反爬蟲機制，部分政府網站也可能擋海外 IP。如果「資料來源」頁持續顯示失敗，改用自己伺服器當 self-hosted runner（Settings → Actions → Runners → New self-hosted runner），工作流程的 `runs-on` 改成 `self-hosted`。
 - **每日供需只有近兩年**：台電資料集只提供上一年度與今年。本站每次更新會累積合併，跑得越久歷史越完整；更早的年份需另外匯入。
 - **新聞縮圖**：Google News RSS 不含圖片，沒有圖的新聞會用分類色塊。在 `config.py` 的 `DIRECT_FEEDS` 加入媒體自有 RSS，就會抓取文章縮圖。

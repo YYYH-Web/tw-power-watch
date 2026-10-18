@@ -5,7 +5,7 @@ on:
     branches: [main]
     paths: ["site/**"]
   workflow_run:
-    workflows: ["更新電力資料", "更新新聞"]
+    workflows: ["更新電力資料", "更新新聞", "即時發電取樣", "全部更新"]
     types: [completed]
   workflow_dispatch:
 permissions:

@@ -1,0 +1,33 @@
+name: 部署網站
+# 機器人用 GITHUB_TOKEN 推送的 commit 不會觸發 push 事件，所以改用 workflow_run 串接。
+on:
+  push:
+    branches: [main]
+    paths: ["site/**"]
+  workflow_run:
+    workflows: ["更新電力資料", "更新新聞"]
+    types: [completed]
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+concurrency:
+  group: pages
+  cancel-in-progress: true
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

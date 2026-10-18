@@ -1,0 +1,51 @@
+{
+ "updated": "2026-10-18T12:54:23+08:00",
+ "source": {
+  "name": "台灣電力公司｜未來二個月電力供需預測",
+  "url": "https://data.gov.tw/dataset/103262"
+ },
+ "rows": [
+  {
+   "date": "2026-10-21",
+   "capacity_mw": 42911.0,
+   "peak_mw": 36209.0,
+   "reserve_mw": 6702.0,
+   "reserve_pct": 18.51
+  },
+  {
+   "date": "2026-11-01",
+   "capacity_mw": 40643.0,
+   "peak_mw": 35054.0,
+   "reserve_mw": 5589.0,
+   "reserve_pct": 15.94
+  },
+  {
+   "date": "2026-11-11",
+   "capacity_mw": 40119.0,
+   "peak_mw": 34312.0,
+   "reserve_mw": 5807.0,
+   "reserve_pct": 16.92
+  },
+  {
+   "date": "2026-11-21",
+   "capacity_mw": 39367.0,
+   "peak_mw": 33711.0,
+   "reserve_mw": 5656.0,
+   "reserve_pct": 16.78
+  },
+  {
+   "date": "2026-12-01",
+   "capacity_mw": 37171.0,
+   "peak_mw": 32954.0,
+   "reserve_mw": 4217.0,
+   "reserve_pct": 12.8
+  },
+  {
+   "date": "2026-12-11",
+   "capacity_mw": 35346.0,
+   "peak_mw": 32113.0,
+   "reserve_mw": 3233.0,
+   "reserve_pct": 10.07
+  }
+ ]
+}

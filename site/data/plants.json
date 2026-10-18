@@ -1,0 +1,35 @@
+{
+ "updated": "2026-10-18",
+ "note": "依經濟部、台電公告整理。官方未公布單機容量者以「—」表示，不自行推估。",
+ "summary": [
+  {"text": "2026 年新增燃氣機組合計約 5.2GW", "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"text": "2026–2035 年燃氣機組累計新增約 26GW", "source": {"name": "中央社 2026-06-18", "url": "https://www.cna.com.tw/news/afe/202606180283.aspx"}}
+ ],
+ "items": [
+  {"name": "台中電廠 新燃氣一號機", "fuel": "gas", "owner": "台電", "year": 2026, "status": "預計併網", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "台中電廠 新燃氣二號機", "fuel": "gas", "owner": "台電", "year": 2026, "status": "預計併網", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "興達電廠 新燃氣二號機", "fuel": "gas", "owner": "台電", "year": 2026, "status": "預計併網", "capacity_mw": null,
+   "note": "受 2025 年 9 月天然氣管線洩漏事故影響，延至 2026 年 5 月接受調度。",
+   "source": {"name": "新頭殼 2025-09-26", "url": "https://newtalk.tw/news/view/2025-09-26/995882"}},
+  {"name": "興達電廠 新燃氣三號機", "fuel": "gas", "owner": "台電", "year": 2026, "status": "預計併網", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "通霄電廠 新建燃氣機組", "fuel": "gas", "owner": "台電", "year": null, "period": "2026–2035", "status": "規劃中", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "大林電廠 新建燃氣機組", "fuel": "gas", "owner": "台電", "year": null, "period": "2026–2035", "status": "規劃中", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "協和電廠 新建燃氣機組", "fuel": "gas", "owner": "台電", "year": null, "period": "2026–2035", "status": "規劃中", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "國光電力 燃氣發電計畫", "fuel": "gas", "owner": "民營", "year": null, "period": "2026–2035", "status": "規劃中", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "麥寮汽電 燃氣發電計畫", "fuel": "gas", "owner": "民營", "year": null, "period": "2026–2035", "status": "規劃中", "capacity_mw": null,
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"name": "離岸風電區塊開發 第 3-3 期", "fuel": "wind_offshore", "owner": "民營", "year": 2026, "status": "招商中", "capacity_mw": null,
+   "note": "能源署預計 2026 年底前完成選商。",
+   "source": {"name": "公視新聞網", "url": "https://news.pts.org.tw/article/813128"}},
+  {"name": "核三廠重啟", "fuel": "nuclear", "owner": "台電", "year": null, "status": "情境（未納入規劃）", "capacity_mw": null,
+   "note": "若兩部機組可發電，年發電約 150 億度；上線時間未定。",
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}}
+ ]
+}

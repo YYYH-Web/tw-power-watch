@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="zh-Hant-TW" data-repo="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>需求展望｜台灣電力觀測站</title>
+<meta name="description" content="經濟部全國電力資源供需報告的用電成長預測與歷年修正。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b57a4'/%3E%3Cpath d='M18 4 8 18h7l-2 10 11-15h-7z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&family=Noto+Serif+TC:wght@700&display=swap">
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.1/echarts.min.js" defer></script>
+</head>
+<body>
+<main class="wrap" id="main">
+<div class="page-head"><h1>需求展望</h1><p>官方用電需求預測、歷年修正，以及影響預測的主要因素。</p></div>
+<div class="row row--1-2">
+  <section class="panel"><h2>最新預測</h2><div id="headline"></div></section>
+  <section class="panel"><h2>歷年預測修正</h2><p class="sub">各版本對未來十年用電年均成長率的估計</p><div id="c-rev" class="chart chart--short"></div><div id="s-rev"></div></section>
+</div>
+<section class="panel"><h2>全國電力消費量路徑</h2><p class="sub">實線為官方公布，虛線為本站依官方成長率推算</p><div id="c-path" class="chart"></div><div id="s-path"></div></section>
+<section class="panel"><h2>報告重點</h2><ul class="facts" id="highlights"></ul></section>
+</main>
+<script type="module" src="assets/js/pages/outlook.js"></script>
+</body>
+</html>

@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-Hant-TW" data-repo="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>用電｜台灣電力觀測站</title>
+<meta name="description" content="台灣每日尖峰負載、備轉容量率、工業與民生用電、售電量與契約容量。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b57a4'/%3E%3Cpath d='M18 4 8 18h7l-2 10 11-15h-7z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&family=Noto+Serif+TC:wght@700&display=swap">
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.1/echarts.min.js" defer></script>
+</head>
+<body>
+<main class="wrap" id="main">
+<div class="page-head"><h1>用電</h1><p>尖峰負載、備轉容量、工業與民生用電，以及各縣市契約容量。</p></div>
+<section class="panel">
+  <div class="panel__head"><div><h2>每日尖峰負載與供電能力</h2><p class="sub">台電系統，可用滑鼠滾輪縮放</p></div><label>年度 <select id="year"></select></label></div>
+  <div id="c-peak" class="chart"></div><div id="s-peak"></div>
+</section>
+<div class="row row--2">
+  <section class="panel"><h2>每日備轉容量率</h2><p class="sub">虛線為 10%（綠燈）與 6%（橘燈）門檻</p><div id="c-res" class="chart"></div><div id="s-res"></div></section>
+  <section class="panel"><h2>工業與民生用電</h2><p class="sub">每日用電量</p><div id="c-use" class="chart"></div><div id="s-use"></div></section>
+</div>
+<div class="row row--2">
+  <section class="panel"><h2>未來兩個月供需預測</h2><p class="sub">台電每旬更新</p><div id="c-fc" class="chart"></div><div id="s-fc"></div></section>
+  <section class="panel"><h2>月售電量</h2><p class="sub">電力（產業）與電燈（民生）</p><div id="c-sales" class="chart"></div><div id="s-sales"></div></section>
+</div>
+<section class="panel">
+  <h2>契約容量</h2><p class="sub">電力用戶與台電約定的最高用電容量，依縣市</p>
+  <div class="row row--1-2"><div id="contract-total"></div><div id="c-contract" class="chart"></div></div>
+  <div id="s-contract"></div>
+</section>
+</main>
+<script type="module" src="assets/js/pages/demand.js"></script>
+</body>
+</html>

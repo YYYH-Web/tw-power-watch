@@ -1,0 +1,18 @@
+{
+ "year": 2023,
+ "roc_year": 112,
+ "unit": {"capacity": "kW", "sales": "kWh"},
+ "scope": "電力用戶（不含電燈用戶）",
+ "note": "目前僅整理部分縣市；完整 22 縣市待從台電年度 PDF 補齊。",
+ "total": {"customers": 334943, "contract_kw": 37636118, "sales_kwh": 164012890622},
+ "counties": [
+  {"name": "臺中市", "customers": 31060, "contract_kw": 5395498, "sales_kwh": 24661941611},
+  {"name": "臺南市", "customers": 30953, "contract_kw": 5379779, "sales_kwh": 27682157343},
+  {"name": "高雄市", "customers": 35217, "contract_kw": 5175952, "sales_kwh": 23530764449},
+  {"name": "桃園市", "customers": 18935, "contract_kw": 4856666, "sales_kwh": 21890953297},
+  {"name": "新北市", "customers": 38136, "contract_kw": 3289274, "sales_kwh": 10111161336},
+  {"name": "臺北市", "customers": 23584, "contract_kw": 2564169, "sales_kwh": 8389015277},
+  {"name": "宜蘭縣", "customers": 5358, "contract_kw": 567317, "sales_kwh": 2223782140}
+ ],
+ "source": {"name": "台電｜112年縣市別售電（電力）", "url": "https://hc.taipower.com.tw/media/kqqksm1w/112年縣市別售電-電力1.pdf"}
+}

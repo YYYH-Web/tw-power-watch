@@ -1,0 +1,7 @@
+# 台電《簡明月報》清單：每行「YYYY-MM 網址」
+# 到台電官網 > 資訊揭露 > 簡明月報 找到 PDF 連結後貼上即可，下次排程會自動解析。
+2024-05 https://www.taipower.com.tw/media/31jjvhtp/11305簡明月報.pdf
+2023-05 https://demo2024.taipower.com.tw/media/0wpdd5xw/11205簡明月報.pdf
+2022-06 https://demo2024.taipower.com.tw/media/ggydzzqs/11106簡明月報.pdf
+2021-04 https://demo2024.taipower.com.tw/media/da1b13an/11004簡明月報.pdf
+2021-03 https://demo2024.taipower.com.tw/media/ebvcsc0p/11003簡明月報.pdf

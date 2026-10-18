@@ -1,0 +1,32 @@
+{
+ "updated": "2026-10-18",
+ "note": "本檔為人工整理的官方公告數字，每年《全國電力資源供需報告》公布後更新。",
+ "forecasts": [
+  {"period": "2024–2033", "cagr": 2.8, "label": "經濟部前次預估（歷年最高）",
+   "source": {"name": "中央社 2026-06-18", "url": "https://www.cna.com.tw/news/afe/202606180283.aspx"}},
+  {"period": "2025–2034", "cagr": 1.7, "label": "113年度全國電力資源供需報告",
+   "source": {"name": "新頭殼 2025-09-26", "url": "https://newtalk.tw/news/view/2025-09-26/995882"}},
+  {"period": "2026–2035", "cagr": 2.5, "label": "114年度全國電力資源供需報告",
+   "source": {"name": "中央社 2026-06-18", "url": "https://www.cna.com.tw/news/afe/202606180283.aspx"}}
+ ],
+ "past_decade": {"period": "2016–2025", "cagr": 1.24,
+   "source": {"name": "中央社 2026-06-18", "url": "https://www.cna.com.tw/news/afe/202606180283.aspx"}},
+ "consumption": {
+  "base_year": 2024, "base_100gwh": 2838.5, "base_growth_pct": 2.92,
+  "base_source": {"name": "科技新報 2025-10-07（引 113年度供需報告）", "url": "https://technews.tw/2025/10/07/ai-electricity-question/"},
+  "y2025_growth_pct": -0.3, "y2025_gdp_pct": 8.72,
+  "y2025_source": {"name": "聯合新聞網 2026-06-18", "url": "https://udn.com/news/story/7238/9574746"}
+ },
+ "highlights": [
+  {"text": "2026–2035 年燃氣機組累計新增約 26GW，含台電台中、興達、通霄、大林、協和新機組及國光電力、麥寮汽電等民營計畫。",
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"text": "AI 資料中心已提出的用電申請近 1.2GW，另預備 2～3GW 因應額外需求。",
+   "source": {"name": "中央社 2026-06-18", "url": "https://www.cna.com.tw/news/afe/202606180283.aspx"}},
+  {"text": "2025 年備轉容量率高於 10%（綠燈）的天數為 342 天。",
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}},
+  {"text": "官方未來改以再生能源裝置容量作為滾動檢討指標，不再公布綠能發電占比目標值；2026 年綠能發電占比初估約 15%。",
+   "source": {"name": "聯合新聞網 2026-06-18", "url": "https://udn.com/news/story/7238/9574746"}},
+  {"text": "核三若重啟兩部機組，年發電約 150 億度，但上線時間未定，未納入供需規劃。",
+   "source": {"name": "自由時報 2026-06-19", "url": "https://ec.ltn.com.tw/article/paper/1759427"}}
+ ]
+}

@@ -1,0 +1,11 @@
+{
+ "updated": "2026-10-18",
+ "source": {"name": "台灣電力公司｜簡明月報", "url": "https://www.taipower.com.tw/"},
+ "months": {
+  "2024-05": {"capacity_kw": 32324232, "gross_gen_kwh": 15577860022, "net_gen_kwh": 15002852874,
+   "peak_mw": 35484.72, "avg_load_mw": 28823.93, "purchased_kwh": 6464044239,
+   "purchased_thermal_kwh": 3753579000, "purchased_re_kwh": 1086908117,
+   "sales_kwh": 20261915344, "sales_lighting_kwh": 5607321285, "sales_power_kwh": 14654594059,
+   "source_url": "https://www.taipower.com.tw/media/31jjvhtp/11305簡明月報.pdf"}
+ }
+}

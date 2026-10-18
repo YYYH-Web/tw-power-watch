@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="zh-Hant-TW" data-repo="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>資料來源｜台灣電力觀測站</title>
+<meta name="description" content="台灣電力觀測站的資料來源、更新頻率、統計口徑與下載。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b57a4'/%3E%3Cpath d='M18 4 8 18h7l-2 10 11-15h-7z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&family=Noto+Serif+TC:wght@700&display=swap">
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.1/echarts.min.js" defer></script>
+</head>
+<body>
+<main class="wrap" id="main">
+<div class="page-head"><h1>資料來源</h1><p>每項資料的出處、更新頻率與最近一次更新狀態。</p></div>
+<section class="panel">
+  <h2>來源與更新狀態</h2>
+  <div class="table-wrap"><table>
+    <thead><tr><th>資料</th><th>發布單位</th><th>更新頻率</th><th>狀態</th><th>最近成功更新</th><th>下載</th></tr></thead>
+    <tbody id="sources"></tbody>
+  </table></div>
+</section>
+<section class="panel prose">
+  <h2>統計口徑</h2>
+  <p><strong>台電系統</strong>：台電自有電廠加上台電收購的民營電廠與再生能源，是調度與備轉容量計算的範圍，首頁一律採用此口徑。</p>
+  <p><strong>全國</strong>：台電系統再加上自用發電設備（例如工廠汽電共生自發自用、自用太陽光電）。只有能源署的年度統計提供。</p>
+  <p><strong>估算值</strong>：標示「估算」的圖表，是以台電每 10 分鐘更新的各機組即時出力，每小時取樣一次後換算。月發電量＝當月平均出力×當月時數；容量因數＝平均出力÷裝置容量。官方數字以台電簡明月報為準。</p>
+  <p><strong>供電燈號</strong>：備轉容量率 10% 以上為綠燈、6%～10% 為黃燈、未滿 6% 為橘燈；備轉容量低於 90 萬瓩為紅燈、低於 50 萬瓩為黑燈。</p>
+  <p><strong>人工整理資料</strong>：電源開發計畫、需求展望與契約容量來自政府報告與新聞稿，每筆都附上出處。官方未公布的數字一律留白，不自行推估。</p>
+</section>
+</main>
+<script type="module" src="assets/js/pages/data.js"></script>
+</body>
+</html>

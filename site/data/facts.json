@@ -1,0 +1,21 @@
+{
+ "updated": "2026-10-18",
+ "renewables": [
+  {"key": "offshore_capacity", "value": 4.8, "unit": "GW", "label": "離岸風電累計裝置容量", "asof": "2026-06-12",
+   "detail": "完成第 500 座離岸風機；2025 年新增量全球第 3、累計全球第 5。",
+   "source": {"name": "公視新聞網", "url": "https://news.pts.org.tw/article/813128"}},
+  {"key": "re_generation_2025", "value": 386, "unit": "億度", "label": "2025 年再生能源發電量", "asof": "2025",
+   "detail": "以太陽光電與風電為主要來源。",
+   "source": {"name": "公視新聞網", "url": "https://news.pts.org.tw/article/813128"}},
+  {"key": "wind_2022", "value": 158.1, "unit": "萬瓩", "label": "2022 年底風力裝置容量", "asof": "2022",
+   "detail": "陸域 83.6 萬瓩、離岸 74.5 萬瓩。",
+   "source": {"name": "自由時報 2023-04-09（引能源局統計）", "url": "https://ec.ltn.com.tw/article/breakingnews/4264726"}},
+  {"key": "solar_growth", "value": 925.1, "unit": "萬瓩", "label": "2022 年 11 月太陽光電裝置容量", "asof": "2022-11",
+   "detail": "2016 年為 124.5 萬瓩，6 年成長約 6.8 倍。",
+   "source": {"name": "自由時報 2023-04-09（引能源局統計）", "url": "https://ec.ltn.com.tw/article/breakingnews/4264726"}}
+ ],
+ "wind_split": [
+  {"year": 2022, "onshore_mw": 836, "offshore_mw": 745, "source": {"name": "自由時報 2023-04-09", "url": "https://ec.ltn.com.tw/article/breakingnews/4264726"}},
+  {"year": 2026, "onshore_mw": null, "offshore_mw": 4800, "asof": "2026-06-12", "source": {"name": "公視新聞網", "url": "https://news.pts.org.tw/article/813128"}}
+ ]
+}

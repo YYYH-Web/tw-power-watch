@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="zh-Hant-TW" data-repo="">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>首頁｜台灣電力觀測站</title>
+<meta name="description" content="台灣每日供電燈號、發電結構、尖峰負載與電力新聞。">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%230b57a4'/%3E%3Cpath d='M18 4 8 18h7l-2 10 11-15h-7z' fill='%23fff'/%3E%3C/svg%3E">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;600&family=Noto+Serif+TC:wght@700&display=swap">
+<link rel="stylesheet" href="assets/css/style.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/echarts/5.5.1/echarts.min.js" defer></script>
+</head>
+<body>
+<main class="wrap" id="main">
+<section class="panel lights" aria-labelledby="lights-title">
+  <div class="lights__head">
+    <div>
+      <h1 class="lights__title" id="lights-title">每日供電燈號</h1>
+      <p class="sub" id="lights-sub" style="margin:4px 0 0">每一格是一天的尖峰備轉容量率，滑過可看數值</p>
+    </div>
+    <div class="lights__now" id="lights-now"></div>
+  </div>
+  <div id="strip-wrap"></div>
+  <div class="legend" id="lights-legend"></div>
+  <dl class="kpis" id="kpis"></dl>
+</section>
+
+<div class="section-head"><h2>電力新聞</h2><a href="news.html">看更多新聞</a></div>
+<div class="news-grid" id="front-news"></div>
+
+<div class="row row--3-1" style="margin-top:32px">
+  <section class="panel">
+    <h2>今年逐月發電結構<span class="tag-est">估算</span></h2>
+    <p class="sub">台電系統，依每小時即時取樣推估</p>
+    <div id="c-mix" class="chart"></div><div id="s-mix"></div>
+  </section>
+  <section class="panel">
+    <h2>最新供電組成</h2>
+    <p class="sub" id="rt-time">台電系統即時出力</p>
+    <div id="c-now" class="chart"></div><div id="s-now"></div>
+  </section>
+</div>
+
+<section class="panel">
+  <h2>每日尖峰負載與備轉容量率</h2>
+  <p class="sub">今年至上月；長條顏色對應當日燈號</p>
+  <div id="c-peak" class="chart"></div><div id="s-peak"></div>
+</section>
+
+<div class="row row--2">
+  <section class="panel">
+    <h2>今年預計加入系統的機組</h2>
+    <p class="sub">依經濟部、台電公告</p>
+    <ul class="timeline" id="plants-now"></ul>
+    <p style="margin:12px 0 0"><a href="plants.html">完整電源開發計畫</a></p>
+  </section>
+  <section class="panel">
+    <h2>未來十年用電展望</h2>
+    <div id="outlook-mini"></div>
+  </section>
+</div>
+</main>
+<script type="module" src="assets/js/pages/home.js"></script>
+</body>
+</html>

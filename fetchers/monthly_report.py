@@ -125,14 +125,18 @@ def run():
         except Exception as e:  # noqa: BLE001
             failed.append(f"{month}（本機檔案）: {e}")
 
-    # 2. 清單中的網址，失敗時改試其他台電子網域
+    # 2. 清單中的網址，失敗時改試其他台電子網域；所有網域都回 403 就判定被阻擋並停止
+    blocked = False
     for month, url in read_list():
         if have(month):
             continue
-        last = None
+        if blocked:
+            failed.append(f"{month}: 略過（台電網站阻擋自動下載）")
+            continue
+        last, n403 = None, 0
         for u in mirrors(url):
             try:
-                vals = parse_pdf(get(u, timeout=90, retries=1).content)
+                vals = parse_pdf(get(u, timeout=30, retries=1).content)
                 vals["source_url"] = u
                 data["months"][month] = vals
                 done += 1
@@ -140,8 +144,12 @@ def run():
                 break
             except Exception as e:  # noqa: BLE001
                 last = e
+                if "403" in str(e):
+                    n403 += 1
         if last:
             failed.append(f"{month}: {str(last)[:80]}")
+            if n403 == len(mirrors(url)):
+                blocked = True
     data["updated"] = now_iso()
     data["source"] = {"name": "台灣電力公司｜簡明月報", "url": "https://www.taipower.com.tw/"}
     save_json("monthly_reports.json", data)

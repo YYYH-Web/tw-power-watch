@@ -94,17 +94,30 @@ def collect():
     return items, errors
 
 
+def to_aware(s):
+    """'2026-06-19T05:30' 這類沒有時區的時間視為台灣時間。"""
+    t = dt.datetime.fromisoformat(s)
+    return t if t.tzinfo else t.replace(tzinfo=TZ)
+
+
 def merge(old, new):
     cutoff = dt.datetime.now(TZ) - dt.timedelta(days=NEWS_KEEP_DAYS)
     seen, out = set(), []
-    for it in sorted(new + old, key=lambda x: x["time"], reverse=True):
+    def sort_key(x):
+        try:
+            return to_aware(x["time"])
+        except Exception:  # noqa: BLE001
+            return cutoff
+    for it in sorted(new + old, key=sort_key, reverse=True):
         key = norm_title(it["title"])
         if not key or key in seen:
             continue
         try:
-            if dt.datetime.fromisoformat(it["time"]) < cutoff and not it.get("pinned"):
-                continue
-        except ValueError:
+            t = to_aware(it["time"])
+        except (ValueError, TypeError, KeyError):
+            continue
+        it["time"] = t.isoformat(timespec="minutes")
+        if t < cutoff and not it.get("pinned"):
             continue
         seen.add(key)
         out.append(it)
@@ -112,12 +125,16 @@ def merge(old, new):
 
 
 def run():
-    old = (load_json("news.json") or {}).get("items", [])
-    new, errors = collect()
-    items = merge(old, new)
-    save_json("news.json", {"updated": now_iso(), "items": items})
-    record_status("news", bool(new), "; ".join(errors[:3]), rows=len(items))
-    print(f"news: {len(new)} fetched, {len(items)} kept, {len(errors)} feed errors")
+    try:
+        old = (load_json("news.json") or {}).get("items", [])
+        new, errors = collect()
+        items = merge(old, new)
+        save_json("news.json", {"updated": now_iso(), "items": items})
+        record_status("news", bool(new), "; ".join(errors[:3]), rows=len(items))
+        print(f"news: {len(new)} fetched, {len(items)} kept, {len(errors)} feed errors")
+    except Exception as e:  # noqa: BLE001
+        record_status("news", False, f"{type(e).__name__}: {e}")
+        print("news failed:", e)
 
 
 if __name__ == "__main__":

@@ -144,7 +144,10 @@ export function monthlyEstimate(monthly) {
 function cssVar(name) { return getComputedStyle(document.documentElement).getPropertyValue(name).trim(); }
 
 export function chart(el, option) {
-  if (!window.echarts) { el.textContent = "圖表元件載入失敗，請重新整理頁面。"; return null; }
+  if (!window.echarts) {
+    el.innerHTML = `<div class="empty"><p>圖表元件（assets/vendor/echarts-5.5.1.min.js）沒有載入。請確認該檔案已上傳到 repo，再按 Ctrl＋F5 重新整理。</p></div>`;
+    return null;
+  }
   const ink2 = cssVar("--ink-2"), rule = cssVar("--rule"), paper = cssVar("--paper"), ink = cssVar("--ink");
   const c = echarts.init(el, null, { renderer: "svg" });
   const base = {

@@ -11,20 +11,26 @@ concurrency:
   cancel-in-progress: false
 jobs:
   news:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -r requirements.txt
       - run: cd fetchers && python news.py
+        continue-on-error: true
       - name: Commit data
+        if: always()
         run: |
           git config user.name "power-watch-bot"
           git config user.email "actions@users.noreply.github.com"
           git add site/data
           git diff --cached --quiet || git commit -m "data: 新聞更新 $(date -u +%F)"
-          git pull --rebase
-          git push
+          for i in 1 2 3; do
+            git pull --rebase -X theirs && git push && exit 0
+            git rebase --abort 2>/dev/null || true
+            sleep $((i * 10))
+          done
+          exit 1

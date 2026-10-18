@@ -1,1 +1,10 @@
-{"updated": null, "sources": {}}
+{
+ "updated": "2026-10-18T12:53:45+08:00",
+ "sources": {
+  "realtime": {
+   "last_attempt": "2026-10-18T12:53:45+08:00",
+   "ok": false,
+   "message": "只解析到 0 部機組，格式可能已變動"
+  }
+ }
+}

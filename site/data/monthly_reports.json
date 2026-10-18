@@ -1,11 +1,111 @@
 {
- "updated": "2026-10-18",
- "source": {"name": "台灣電力公司｜簡明月報", "url": "https://www.taipower.com.tw/"},
+ "updated": "2026-10-18T13:55:10+08:00",
+ "source": {
+  "name": "台灣電力公司｜簡明月報",
+  "url": "https://www.taipower.com.tw/"
+ },
  "months": {
-  "2024-05": {"capacity_kw": 32324232, "gross_gen_kwh": 15577860022, "net_gen_kwh": 15002852874,
-   "peak_mw": 35484.72, "avg_load_mw": 28823.93, "purchased_kwh": 6464044239,
-   "purchased_thermal_kwh": 3753579000, "purchased_re_kwh": 1086908117,
-   "sales_kwh": 20261915344, "sales_lighting_kwh": 5607321285, "sales_power_kwh": 14654594059,
-   "source_url": "https://www.taipower.com.tw/media/31jjvhtp/11305簡明月報.pdf"}
+  "2024-05": {
+   "capacity_kw": 32324232,
+   "gross_gen_kwh": 15577860022,
+   "net_gen_kwh": 15002852874,
+   "peak_mw": 35484.72,
+   "avg_load_mw": 28823.93,
+   "purchased_kwh": 6464044239,
+   "purchased_thermal_kwh": 3753579000,
+   "purchased_re_kwh": 1086908117,
+   "sales_kwh": 20261915344,
+   "sales_lighting_kwh": 5607321285,
+   "sales_power_kwh": 14654594059,
+   "source_url": "https://www.taipower.com.tw/media/31jjvhtp/11305簡明月報.pdf"
+  },
+  "2026-01": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 12688325263.0,
+   "net_gen_kwh": 12304376890.0,
+   "peak_mw": 30635.87,
+   "avg_load_mw": 26981.35,
+   "sales_kwh": 17883312443.0,
+   "sales_lighting_kwh": 4842846743.0,
+   "sales_power_kwh": 13040465700.0,
+   "source_url": "reports/11501簡明月報.pdf"
+  },
+  "2026-02": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 11820597722.0,
+   "net_gen_kwh": 11455659466.0,
+   "peak_mw": 30387.05,
+   "avg_load_mw": 25615.84,
+   "sales_kwh": 16038801351.0,
+   "sales_lighting_kwh": 4545842793.0,
+   "sales_power_kwh": 11492958558.0,
+   "source_url": "reports/11502簡明月報.pdf"
+  },
+  "2026-03": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 13580585496.0,
+   "net_gen_kwh": 13148974248.0,
+   "peak_mw": 33199.99,
+   "avg_load_mw": 27599.21,
+   "sales_kwh": 18706785186.0,
+   "sales_lighting_kwh": 4981690739.0,
+   "sales_power_kwh": 13725094447.0,
+   "source_url": "reports/11503簡明月報.pdf"
+  },
+  "2026-04": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 14379076808.0,
+   "net_gen_kwh": 13891653937.0,
+   "peak_mw": 36118.84,
+   "avg_load_mw": 29461.93,
+   "sales_kwh": 18562532835.0,
+   "sales_lighting_kwh": 4839061240.0,
+   "sales_power_kwh": 13723471595.0,
+   "source_url": "reports/11504簡明月報.pdf"
+  },
+  "2026-05": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 14118005570.0,
+   "net_gen_kwh": 13630318688.0,
+   "peak_mw": 41013.92,
+   "avg_load_mw": 30763.21,
+   "sales_kwh": 20113170227.0,
+   "sales_lighting_kwh": 5388117768.0,
+   "sales_power_kwh": 14725052459.0,
+   "source_url": "reports/11505簡明月報.pdf"
+  },
+  "2026-06": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 14603348488.0,
+   "net_gen_kwh": 14108496020.0,
+   "peak_mw": 40682.25,
+   "avg_load_mw": 32154.54,
+   "sales_kwh": 20215804611.0,
+   "sales_lighting_kwh": 5784374044.0,
+   "sales_power_kwh": 14431430567.0,
+   "source_url": "reports/11506簡明月報.pdf"
+  },
+  "2026-07": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 15778443374.0,
+   "net_gen_kwh": 15247160326.0,
+   "peak_mw": 40481.1,
+   "avg_load_mw": 33669.8,
+   "sales_kwh": 21889368743.0,
+   "sales_lighting_kwh": 6953452546.0,
+   "sales_power_kwh": 14935916197.0,
+   "source_url": "reports/11507簡明月報.pdf"
+  },
+  "2026-08": {
+   "capacity_kw": 32958886.0,
+   "gross_gen_kwh": 16184485308.0,
+   "net_gen_kwh": 15641584976.0,
+   "peak_mw": 40934.25,
+   "avg_load_mw": 33803.08,
+   "sales_kwh": 22553890549.0,
+   "sales_lighting_kwh": 7381578994.0,
+   "sales_power_kwh": 15172311555.0,
+   "source_url": "reports/11508簡明月報.pdf"
+  }
  }
 }

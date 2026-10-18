@@ -1,32 +1,1682 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-18T13:55:14+08:00",
  "items": [
   {
-   "title": "AI爆發帶動 能源署︰未來10年用電需求年增2.5%",
-   "source": "自由時報",
-   "url": "https://ec.ltn.com.tw/article/paper/1759427",
-   "time": "2026-06-19T05:30+08:00",
+   "title": "〈智慧能源週〉淨零展、智慧能源周3天吸引1.8萬專業買主 聚焦AI時代兼顧能源與減碳需求",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE16ckpnQUtrQWF0YktxR1ZEbWsyNTRsakJ6OXdZbGZHZUwwUERKa2JHUW5qeUxFRWNEOHp2dEE0YWtxNVpiNVNpUS1JVW1Qdm5feEZOczJWZHpxRXo3UXJmWm43LWE?oc=5",
+   "time": "2026-10-18T13:32+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "名家分享~高雄好過日》阿拉斯加直送高雄港：美國LNG將成台灣主要氣源之一",
+   "source": "自由評論網",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5QZGViWF91UzFESEUtZWE5NFR1YjR1WjNqVnpSX1E3ZURSaDVGTW1FZHl3dkxua1lSU1J6LUU2S2NPLXFrNWhhR21XX0pFZVFGR3VwSWZvYXpvNGtrR1dyY2VR0gFnQVVfeXFMT01pRDBSc2N2WFhHaUtpS3ZWSmhoVWZ2ZnlIZm5CU2kzbDVDM3JKSDJlY1B4bVNiNm4zc09UYWxvc1FXdHc3RjZEMElTSXBuMjBUMGJGcmd5MUVQZ2pGVC1McVFGc3Q5RQ?oc=5",
+   "time": "2026-10-18T13:30+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台電估半導體用電量上升 擬2035年前擴建燃氣機組",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxQWml0RUkzZExQcDNUWU9GTmJrYkVyemdycmhEc3RvQmZhUnZmYTdfT0ZzWlBUbkNLQVM1Z05Qb3hVbGYyYnlJR0VIMVBfcGVzakdXZm1wdndoNnVITUdPeDZ3aG9OWmVzaUNZSEFaNms2cVFVdWdyUi1qb25YbEJhc2l6QUstSlprRTJ3WkZHRDNHdDFTeXV6MHBLa2RvSEZMUkgtRTc1Z1l2MW1QR2JIMnI5VFk2SXNaNFJpUk9Td0YyOTBQQTMyUmN5V01rQWlLNy1OaDZ3ZzhUTzBRdGNIOXBGNV9GcW4zSjlDOGhkaWNMVVhnSS1qdGcyOG9neEJSN19WSmlpRnVxLTU4U0hYamNCd2JzZ3hvTnZkUFdxeXhIem42SDd2amR6NjRFdTQ5RVBiM3FfSEtndnRQVm5SU0dNRVl6SVQzbUE?oc=5",
+   "time": "2026-10-18T13:10+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Missouri pushes nuclear power to reduce reliance on out-of-s...",
+   "source": "Daily American Republic",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPekhnQ3FDWjhqWVZVcHc3S2lfWjRLSGJ4NjZMTXpzeEJ4alEyWjRoWHBoaGVfaVM1MTVtbW5TdGtFcmE4NVZHSnVjZmJoTkxnempGQU5TeG9mTVVONDBXd1B1TUNwQkRzTUZWb1RSOGU5eWFCdnpRQzA0QVJ0cWNaOXgycVkyR3BIN2taSVRocnBLQ3RBVGFIdER1Z3ZBak02S2gzclBQLTNNOUdWZ3RsOWVKZTQ?oc=5",
+   "time": "2026-10-18T13:05+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "聚焦能源韌性與淨零轉型！台灣國際淨零永續展、智慧能源週吸引 1.8 萬人參觀",
+   "source": "蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE13RC05bjZaTEpnNHAyZkVkLXVDaC02eDBkaGZaeUQzR3NVTFlfeTRvVlZoZDlBTHkydDQ0SDNJbE5zcVVjT1Qyc1dqVk5Rb0hSc2c?oc=5",
+   "time": "2026-10-18T12:18+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台電等國營事業新進職員開缺起薪約4.6萬元| 產經",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CVG5pYkFNaUhLRjd2RWVUQzZnQktEZGlhMGtWN25EVVJ4cmwyZ0ZreHpNdkNPTE1vczVEUGpQbkxHQi0zU0JPb3R3R1pvdFlfTDc2X0doSzNmWkxCZHc?oc=5",
+   "time": "2026-10-18T11:31+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電踩雷 九大公股行庫全陷富崴破產案 台電董座急會銀行團",
+   "source": "蕃新聞",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1XeTlNOU9OZ2tvcE0yaW5iTzZPY1ZOZGZVSW9ZWUZFWTFvY0VCMV9WM3JzVFltdjFNZk9GclpZMjNOc1U4ZEJ3Znh4OU4xSlptOWc?oc=5",
+   "time": "2026-10-18T11:10+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "郵政博物館與台電北部展示館攜手舉辦 郵電藝起-綻放女性芳華郵票特展 | 大媒體",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBtSElCX3N0YUhCMm1fX3ItNDJkOF81c1BmMmlqS19IRHBWNE8tU1lYSnlWMEJFbG1oVExLNm1oYmE3TWo5eUdjOGpEV3daSlV5OHlsa2RB?oc=5",
+   "time": "2026-10-18T10:47+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "新聞稿-經濟部所屬事業機構115年新進職員甄試於10月18日舉行，平均錄取率約7.72%",
+   "source": "台灣電力公司",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1hSUJhTjhrY0hzMzlXQ1JQcGZjbm5JRG0tX0o1RWNaQjRCX2FLRkdIZ1JSN0NBaHlYSGlBOVQ1TjZuT3hUZ0lUNUtGRElmRlFnWDUwTENZdWp6Q3A0VzFkbEIyWGc5ZEVwaHo4?oc=5",
+   "time": "2026-10-18T10:30+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "能源週、淨零展吸近1.8萬人！AI用電需求成焦點 明年10/27再登場",
+   "source": "壹蘋新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVkNQOWI3QXc3WlpqQ1QxeVhRRUZJX3VYcWk3VVNMc1Q0Ri1UUnNLTTVaT3NiWlBTLTVEc044Y3kzcll0VlZPYkdnMHVCZk9YV2lwZmhDTXZFWGR1SkZhSFpjeTNlYUk4NEU2dHJiak9ndGRqbHBmeHJ6X3JnUERoNVd3?oc=5",
+   "time": "2026-10-18T10:10+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 吃電怪獸逼出「二次能源革命」！傳統電網飽和，電力基礎設施迎來十年一遇洗牌巨浪",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBjeTctUWZjN0xqZ3ZSZWpYNkJrQzdvSVFkUXlrLTRHTm8zUnNZTXRhRXlwc2gyR3hkY1loa2s1MDU2ZmJYOVBzNF9pbGV6am8?oc=5",
+   "time": "2026-10-18T09:10+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI用電推高電網升級需求，重電與綠能誰先看到訂單-孔明投資長",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90RWt3WjhpY3B2RGtESFRJQUhYN083d1VIXzBmMDBrdHZieldJNFVBT1lSV3ZjWHM2eTc0SVRQaC14aU1CUjR1SWFBdEx5WXVkT190OXhEaDZ2cWRjX3ZaZ2VsOW5ZUHNhZV92RkhRWXZ1ZWtSM0hoS1M3RXFUdUk?oc=5",
+   "time": "2026-10-18T08:58+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "新聞內幕／孫公司逼包商買中國製零件 台電綠能標案藏國安隱憂",
+   "source": "鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9qWHhqN3BGVEZNRTE4Y0J5cHVlcENrZTJkeHdYUWtaWkJ6TzBZVHhFdFdZMzh2Um1TMk5yRGZOVnVRRmJzc3E3RVFJVVNSUXV1Q0tRUEZDdTFCR1XSAWBBVV95cUxQSUwtZWQwNEpjNXAzNjQ4QUduM3g1YTQxNkNReHhtcDBHZEVKMzFnTG9zY1F2WTFRZFBLZGZXbm9tam81c0dPUV81SzBzNEZ1Q0VHMjNmNEJUelRHSnc1aG0?oc=5",
+   "time": "2026-10-18T07:28+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "算力不是唯一瓶頸 AI搶電大戰升溫！電力需求暴增 5檔美股獲關注",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOU29oZjZYTUxIS1QwTC01VHhrU3VvM1JuTm40am11amdkb19LaVNXWUlxTHJDSTFMWnQ5SnFWSWwxb29hTTZhVnViZlo0WjduMF95MlZBVldrdnRoMFd6Nndwa3ZDbzlWRGRoUUVfOThfbHRmbXNHZnpwWDk3NnhzNVJxYTVlbVlDbHRZZVR1MThQMFYwd0NHdTFmUTJoY3h3RzZRUGpkZTV0QjBJRHg4N281Q3lZTXZZdjBINTdMc1NqUlNwcDRrMnVEc3pOX0tGUTl3M2NNcENuanJvcXlwQzkyYVBQYTRCWVJLYjE3TDhlc0ZmZDB2TG9aSmZyd0pYeFk3VXladWtCTE9WUjVtNkNTSjlYUFl4Um1GQUNzTFhvaTdocjg3ZV9zeko3dGFieXZ3cHg1dENLS1RENm1CYzdzZHFVbUNHQ2hzNWlkOTlSZ1FxS2JuVTItUklXMVlodEQ4eWdDTDQ2R21vX3UtbzFJX040OXBGLWdESE5ERVZGMDZseGZzYQ?oc=5",
+   "time": "2026-10-18T07:10+08:00",
    "category": "aidc",
    "lang": "zh",
-   "summary": "2025 年綠燈天數達 342 天；未來十年燃氣機組累計新增約 26GW。",
+   "summary": "",
    "image": null
   },
   {
-   "title": "經濟部公布電力供需報告! 推估未來10年用電大增 年均成長2.5%",
-   "source": "聯合新聞網",
-   "url": "https://udn.com/news/story/7238/9574746",
-   "time": "2026-06-18T17:00+08:00",
+   "title": "拿下台灣能源大單，川普得了便宜還不饒人／何溢誠",
+   "source": "PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVXgybktYd0I5Q0h5d0l3ekRQVU43WHBLUmVqbENQeVlXeTQtVEh2ekRHWFEzVngyQTdDQWtBbUJFTlVlbTRTT2J3d2FXM0pINV8wcGllUkVEN2RLQ09HcHhiWV9QLXhiMXV2eXQ4TzFrWUdDb29SN18tVUxuckNxeFhvZHZvcXVhdGg2WW1hVzZYaEE?oc=5",
+   "time": "2026-10-18T06:59+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "投書：AI要電不等於就是要核電",
+   "source": "鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vM3R4RURiaTgxZ0tmU3p3bWFIX2dNR3lUWEZNMVlkX0VxM3l5dEs4RnJiR0tKejBzRjJXeXFHeHVLRVZheU9vQllYNXVkdUZkZDk3ZkQyTjFvaUxiTm1VSVpsd9IBaEFVX3lxTE1Rd0xNZmNJY216WWNycTBfakhFMlZLZ3BvbUdTazNxdS1FcnRuQ1JkNzlCR1VVcjhKM1B1MVJyNXFweGxWM1o1QW5kUUl6S2I3c3BPeHRzb1hpLXZkbkk4NmdLaVJiQk5U?oc=5",
+   "time": "2026-10-18T06:10+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電出包！九大行庫聯貸踩雷 台電董事長親自出面開會",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9nM3RmeEx6aEtneTY4emFONXl5bDI3b2c3STVEOTIxU1hyNG40bXB3ZS1BbHNlZUZDQTRDclplMUVFeEt5elhrbnhHQkpXRFNQ0gFWQVVfeXFMT1ZrRHlPOHcwLWJoWDBuRGdxcVl4aWVNNXRSY3c0MHZ6ZF9ZaFZVVTh2cVBQNlZDb3dBZkRzZzI2b2VXU1ppZWNXTkVRQTNTb2NqbmFTeEE?oc=5",
+   "time": "2026-10-18T00:00+08:00",
    "category": "power",
    "lang": "zh",
-   "summary": "去年經濟成長 8.72%，用電卻減少 0.3%。",
+   "summary": "",
    "image": null
   },
   {
-   "title": "能源署公布全國電力資源供需報告 規畫多元能源建置確保供電穩定",
-   "source": "聯合新聞網",
-   "url": "https://udn.com/news/story/7238/9574952",
-   "time": "2026-06-18T16:00+08:00",
+   "title": "爛尾工程 台電剩27支風機 年底難完工",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFByXy1HTl9OQkNUak54OGZ3bExSVXJYQ3V1OTdzSXNtdGlXRjRFbWpibXZ0VllhTmZBa0luWnM2S2s0UVE2eWtIRFZfYmZoZGZRbUZlRmxORGg3Y0N6dThXdDNiVlFkekRoRDg3VHJwbjU0d9IBVkFVX3lxTE9GQ2kyb2dUd294UU5TYkFJbE42YXVuQzlyLUxOUzFPOTVzRVJzWlBRSU5CcWhaand2emloNkNjSG53VXNqZGFXSk9ZSEpIckVBMml6RUpB?oc=5",
+   "time": "2026-10-18T00:00+08:00",
    "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "東元利明献：AI算力是電力競爭 台達電鄭平：電力基建跟不上 供電缺口成AI發展關鍵挑戰",
+   "source": "Taiwan News",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE94NF93eTZ2M2l2d05nMzFvV3hpV0t2NjN1Ym9ka1EtNnB2cndmZ256aXVGZi10MTZMNlN5NkJKOW5VXy1kMnlNaFhXb2tBd1JhVDJVNGJOTDM?oc=5",
+   "time": "2026-10-17T22:56+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "採購阿拉斯加天然氣若較便宜 謝龍介籲政府回饋民眾 | 中華日報",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9XYngtRWJtWlFpQzdyd2VpTzhIVUhtRGJZcXY1d0hfTjh3SXlqNVpteFhfbkVSUWxMQ1ZTRS1EZ0pDRGJDcGotcFhyVkVVV3J5bTFMVWR3?oc=5",
+   "time": "2026-10-17T22:16+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Microsoft, NiSource reach 20-year power agreement for Northern Indiana data center campus",
+   "source": "WSBT",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWkFOUnYzaUExYnpFRm92Vk9jOW9JUnowX05aLUs4dWo5YkNUU09tQjdQX0NKRENmOS1ENG9SQ2o5X3M5N09OV0NqVzBhYXliTjAwZXI5eWhtMVVEekZYcDRaQ3RSUTF3WHNXQVJvaTFEUmRvWExEcngzWEd6OGRDVldneWRTWHhrLWh5VUpqMGltbVRjbWJoMFptcmJDTTl0Qms1cFJPejFUUUtwVnA4dGlMNXJ3c3M?oc=5",
+   "time": "2026-10-17T22:11+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "採購阿拉斯加天然氣上看2.5兆謝龍介：完整成本說清楚，便宜應回饋民眾| 政治",
+   "source": "Newtalk新聞",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42QXRxeTdEM3ltUzJRTXBLOXQtcjlHVmRBWURhOVgxSVJlbkFBSmNoVVhmMENoMURFVi1QaTItbk93Q0xJbmtWbVNLTVp4VzRMRDFDUFlkaEF2bWM?oc=5",
+   "time": "2026-10-17T21:40+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "魏哲家喊台積電獲利沒有上限、川普宣布台灣將採購阿拉斯加 LNG……本周不可不知的五件財經大事",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1TOGlTU1Uzd1FCalNhZkpKRnU1emVrbW5zWnJhcjdWbUI1UlVET3p1RlJpSW1IRlZtbGpTUk9rU2oyckQ3d3VUSGRIRWFKMHQ5TVUyREVPRjRmZ9IBX0FVX3lxTE5XVWtMUmItNDR1X2t1cWJIZlF0d0phLTh2dnpGZHhFajk3U2N3ZDZGenBMNDRJRTJIQ0tNX3lDN245cEhXUS1fZHJRUHA1MGZLbC1lem14NVV2dEtRZ2hF?oc=5",
+   "time": "2026-10-17T19:00+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Hybrid Power Choice Policies Emerge as Data Centers Drive US Electricity Demand",
+   "source": "Bioengineer.org",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPQXNGc1RhQjlnbjJmTkZQYVNpNTd2R2tDM08xcmJSdnlzOTJXWnlfUGFXLWlJNFpKOWZ2NFNESmpvZHpQUFl3MUF4WnowdS1IU3pXald3TkhHSUxwRGpDQk5fTDYzYktUcm5ValdfWmhtRHY1S0JGTlRpWE9SMXdyWERlcTJBSnJmeE1vMFRYZi1xVHV2TTFraXRjalFXR0pYQTZYcG1kdw?oc=5",
+   "time": "2026-10-17T18:41+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI資料中心從散熱做到供電，資本支出何時轉成營收？-基本面選股技法 - 邱柏",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVnJrUUxFTDlfT1Z0cGNZa3VicGdwVHp0SVdQVHFjUExnUkJ3eldncVVOaEVZb0JWZzBGQm85R1FuUW5HLV9keW1ON0lsLWx3LXNyaVZqenFRR054OEZ5TDNCWXBIUDhscnhIeDVRdzlaMXU0OFl2dkVHNlktZXR1Sk9n?oc=5",
+   "time": "2026-10-17T18:10+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 融資疑慮風險升溫 BE / GEV 等能源股承壓",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdFFuTC1aaUlqaDhlOTA5VUl6bkViOTIxSXdBTkFYUDBWQWtXU0oyQWNnMHZFN0sxZEFMTkVpU1JkSzUtWHVHUjRLUnVRbDdxT2tVd3ZqeWRMREt4VWhNMWtOX2F2V2FlQzNxVXNpalNPXzBiMW1JbXhEUm1GM3BRSlpXQ1RXQ01Ia3h1NFJWU215dWRmRThKNGV2TWxlT0E?oc=5",
+   "time": "2026-10-17T18:02+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "智慧能源週與淨零永續雙展落幕三天展期吸引近1.8萬人觀展- 產業",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5hRS1HZVgxenJrdkVkNE1iVWpSWUljdWpmQzhLU0VNdTVyTlprQU9zLVRLVXoweWdicG1ZcDRNdzJES0lqbFFZbm5TX2dEbWItRFBJbTE4eE5iNkYwSkZv?oc=5",
+   "time": "2026-10-17T15:34+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "國際智慧能源週登場 業者搶攻屋頂光電及AI電力商機|政經臺灣",
+   "source": "僑新聞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1laXJvWWFJc0xxYXp4WFU5bHRUREF4MmlvREZVMlpJc1J1NkowNWJKYWlxVHdaY0JNVlJpV1VUU3Z3RGtfbmZPWGxCSQ?oc=5",
+   "time": "2026-10-17T15:00+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI資料中心用電上看746TWh，綠能與電網股誰先吃到訂單？-跟著大資走 澤明",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPaXIzMlFMVGg3QlJxVkpmSkZOYnA3dlJ3blBhZ0VmZmdmdWNzMGtKWndxWTF1dlk3eWNvNU1mZHgwcHJFbjBSWjVDcnJKTXIyWnVaVWstWHNqcXd2dlU1b2VTdWtUM1RYMElYbEE4X09HbDIxTmFyRDVpMENNZkg4MUk3TQ?oc=5",
+   "time": "2026-10-17T12:28+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Harris County has 46 data centers and limited power to regulate them. Here’s what could change",
+   "source": "Click2Houston",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMno4aE5kTXFFc2Vmb3oyVFJhTUNMbWIyQmN0SUFuYTREOWQyWm15MUZlaHV5ZmcxNU5zNERHNGoycm5UZmZtSFRTaTgyZEg2MFlCMGpnSTVFVXRZa2pjU0R6REgzZTlKOUkyR05PMkxEYVFRN3VSUkEtWG5DYXViS2Fhd2ZuSGtjTXdGMVVzd2FiUDNjcl9LSVlWQ0ppRkJoZjlweXhQNUxTbENCbmZ2RWxwOHBnWlBkbVdSRXdyUFdNNTZxT2FOdXF0Zk5ldHpEQ0NhaU1zMGhvQlBLWGc?oc=5",
+   "time": "2026-10-17T10:29+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "觀點投書：從「風電國家隊」到企業下市─政府欠台灣一份交代 | 林獻山 | 評論",
+   "source": "風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5yQmZoNkVUcVdtMS01aDBTY3BYR1NSeV80OGl2QjhXMGl5YmFYQXllSU9UWnZzeWQyblE1RXI2bjBhZlM0TVhNU2d3TG5Ldw?oc=5",
+   "time": "2026-10-17T06:00+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Rep. Eugene Vindman proposes keeping data center power costs off household electric bills",
+   "source": "WVIR",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR0JlX2tfVXFIVjhLSm9iTE1Zb2R4WGRqRHBKMmktNGdzTDVJTUNpSmI2T2p3UlNBR3ZkNkV3dFRaZ1phMHVmbjFJNVVNd29ScE1mQ1Rvcm9neW9oUjFXMW9oOGpDZURqRm44MnBCMGJGQ2R6b2RyOUNVQUhkT0tDSGNBYVd2U0FOQ3ZQdFZfMTU5M2dYRGhsRFBpTWJKTDJ1aHhGY2pKUWxiSmo5cThEQlpiVXhrckxLQTAxV3hBUXXSAdQBQVVfeXFMTUdfa29RVnh2MllLaGZyUTY0a0d3R2ppWkZJamFpUExtRmJPU1hyS0xnaTRFOVh0aGJaUEpLbWJnZnZLUXdrRzEteUxVNVF5NW8xNGE3eUhPbVpZbTFMeXpqRm9RcmV4ZnlZUjRfXzVSbWxTMUhrTjRmQW5vdGh4S2RjOGNnUnVmRU1jU2NucFNGeUxsSjBET05PcGJ4U0Rha1Vmc2tCcXVhQ0tZV2pyY210SXNzZU9CSzZ3ZWhOdEljS0pubVktQlhvaWxubGtJR1pfVHQ?oc=5",
+   "time": "2026-10-17T05:50+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Federal regulators reject major data center guardrails from regional grid operator for Maryland",
+   "source": "WYPR",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQT3FXYmlwdWxJdENvajFfRHI4NkJyRFpqcTVBZWdmcmVhamFzX3luTVlpWU1RNGZabklwNUIxZUxRX1VvYkx3dC1Gc1RjZHY3eXFwMmVMQVIzZWU3RGR2aE1JZGs2TjdXQTc3dGktcTNLN21LdndtZVZOVWZ0V1FPNFhWUzl2SlZJZDhaNVhhN1pyQzdCQ1M0UE5mbE84REZQeHJLYlZQZENLYkI1UlFSc0pZOEtENnhKM19YLTgtTlRNb1diNmkxbHVkOUZvU29TUk1V?oc=5",
+   "time": "2026-10-17T04:19+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "US is reviving shuttered nuclear plants to meet growing electricity demand and to power data centers",
+   "source": "AP News",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU0VXNjdtQWhONTUxd0ZKTm1jRTJndEVFbGpCYzJFV0c5RTNFQ1BwclF2TmlEZHVCMDdZNkNsWEtSUkVpbDVYZ3U0SUlNTzVILUd6bVJVRkg4OWRnN0NJd0hrZ3ZkMTUtdVZnd1U4U2xOM3UwYXdrMkJSTWJ1aVlBQnVOZDNZUnpnMUJzWG9ZQ0Y1RVJx?oc=5",
+   "time": "2026-10-17T04:15+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026能源週》AI用電像「鉛球」衝擊電網！台達、光寶、大亞...如何從能源轉型痛點找出新機會？AI 時代能源新格局",
+   "source": "今周刊",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1aYnpTX0EtbEZhR1U3NXZPVVQ1LWowdHZMR0pjLTdFQ29WQmtGaFlsVkg5T1J0bEhPYVp4VnhSZnNob3BXZXdWNEpfOWhjRVQ0Z090TVc2VDBsNkpTcUh1WjVvUFpUZFNCYV8takJQQjBMWmdtN2c2dzRROGR3dDQ?oc=5",
+   "time": "2026-10-17T04:09+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "USDA’s record $3.3B power loan could support Georgia data centers",
+   "source": "The Journal Record",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONU1GTWtxN00zWVJwN2l3RDNDbFJoQjYyWG9fU1ZOczJnaTNWc0hLczExdWtCTFp6Z3E1R3RMUGp3RG5iX2JjczlTcktQRkk0ZHhxTHhLa0plZWhPMUxDWnFxTnVsdzFIaUFJb0VDTlZITGQ4aFI3QVJUQmlwejRjOEplT1loVVhMVFV4QnlYa1c4MDJ4M0l0Uw?oc=5",
+   "time": "2026-10-17T03:32+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "聯合報社論／日韓都卻步的事，為何台灣勇敢蹽落去？",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE41b0RNNGR2VVRhN3Vqdmo3WjRFR2o1eDE2YkFTZXAybTRGdENQM2RHQjR0bTFTRjBfbklxd3kzLXlRZUpJMXpMMWM2djBJdW9F0gFWQVVfeXFMUHFSTlNjY3hpRE5sdktzYnNpbngtcGx4bFBLcVNITzRpQTR5c3oyVnJoZ2ZhQ3VnbzR1cDQwdUUwaGlQUUJwamkyRGZpQXRYZm5wb1VLMGc?oc=5",
+   "time": "2026-10-17T01:02+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "DCF Global: The Nordics' AI Boom Meets the Power Test",
+   "source": "Data Center Frontier",
+   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZlJtOXZjTEFZTFNsQnI5WVJXZnJmMTRYTmhkUDZYalNGbjdjNjRWeXY4NWlzQ09SeUZ2LWlCN1Q3YmtiZ3UtSldGYy1kVjBFVVNEMGItNXhIVHZ1TTBucEdtSHR4N0xSNWdjcnpDdnZETjdxa3VwbzlNQjhlaWxmUzNkLTB5VEszdnkxcmJPS1d3Ykk5YzZ1SE9yR050aTl5S1ZtaDVUVzVrVzJSNlV1eWxXWUdrYU5fcHc?oc=5",
+   "time": "2026-10-17T00:59+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Data center growth, soaring power bills make this often overlooked Alabama election one to watch",
+   "source": "AL.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQWHQ0WFBQdEIwWU56LVU5b0JrbWljMm5nTG5UZXYwcDUxQmRCUFhIM1o0SV9zY3BucDFFOWdTQ1RRd28xbEhJWm5ETElpTG1lZGR3cm5tLVI5ZXpwQXdMSzAzZWZidzQ4WHlkOV9DaGtJZF8tNDlMZEowVkVBLWJTdGJlRGFIcnF3SDNaX3FMeEswUVZCNHNGbDV4UE92WHNxWEdFbkJSU3czWkdaMUV6MUVjUzVMNEd2ZlJRTkxZWkhGSnZsTVlwaDlkWndZQUl1U3c?oc=5",
+   "time": "2026-10-16T23:34+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "FERC denies plan that would shield energy customers from data center demand to avoid blackouts",
+   "source": "The Allegheny Front",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOZlBsX2ZrUWNxZE9ER0h3anZNWHNZeEw2Y0pSSFBjbnlUR1JzanVSMXVXYThWLVpzNzVCT1k4ZHU1cDJLWjdZT1B1LWpYdlpxTHRjN0ZpQ1pILVZkMzNCQVpQVHhRWTMxcHU1dlZtZXlaS0I2Qzk3RklzcjJoc25Nd2xlLU1oZ1RDMG5GNV84VFhZTFhKVk41OWlpal90QlQ4Z2oybXdZZnBSME1GQWNJV1d2V0Z2UFplWWZrNTMxYzUzT1Rh?oc=5",
+   "time": "2026-10-16T22:26+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "PUC Invites Comments On Regulations To Give Electric Utilities New Tools To Manage Data Centers During Emergency Periods Of Strained Electricity Supplies And Curtailments To Maintain Grid Reliability",
+   "source": "PA Environment Digest Blog",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbnFRNjVKQ1JHQWxJYlRWdVU4eG5nZzI2SVk2am9SbmE2RlktaXlnbTFOdGpIZ01OM21nc3BOY0lvVFZCY3FKdFRvVjdDZjgtQnZfRVdSbkJ0SjkzVnhSZFNjSjB4SlRRaDh1T1NYSHZEdXBtQWJmY2xYQVh2ajFLWVo0aUhEeThlWGwwcHk4Rkt6TkVI?oc=5",
+   "time": "2026-10-16T22:24+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Data Center Transformer Market Research, Latest Company Investments and AI Power Demand: Market Forecast, Supply-Chain Challenges and Business Opportunities",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPbzlQMEFaTVlKRDdKR09EOE84VDJIaFdXeGduTkh5NGZWa25mbjFfZ04tb2Q1R3YyUDIxNFVkbWtvQWJQck1Sd1Etbi0zQkNiVm1hcm9iRTZOZHRrcEp5VzAtNnY3SDBkb2h5WlZYb3VmekdNY3lkTzVHMXh3dS03RzJTU3dvZ0NtNWtkZDNFRTFjTjZMVjNTdFMxRnRQenpHSmNyMnVB?oc=5",
+   "time": "2026-10-16T22:18+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Nuclear energy could help Iowa compete for data centers, industry",
+   "source": "Business Record",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPckxZTS1vbkFvQUlqT1FpUEJxdDZseDdZdVpIb1E1eGIzVkZzNXFiWVd5eHQ0Vk9LRDZORTZnNjVHa2dSUHJ3aldaWUJ5XzRDa1hJaFRFamp3WEp1LWcwdlctZU1iX0pWZmswTG9DdHhfTU44a3RZVzBSR0FTUXRHdkR2bERDaWRuZkwtZDE3RjBnenpETFExNU5UTW4?oc=5",
+   "time": "2026-10-16T21:18+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "430家企業、近1,400個攤位齊聚 台灣國際淨零永續展助攻能源轉型",
+   "source": "PeoPo 公民新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OQkpSc1g5UE81WE84aVdEQ0R3MmxZc1JPZmpVOTE0MFBkSlFiMHdhR2dQaXNRUkV4T2hDenItaDRRX2Qtcnp3Tw?oc=5",
+   "time": "2026-10-16T21:12+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "賴清德：2035年前穩定供電無虞 將助百萬家中小微企業導入AI",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9vUFFlYVVObUZFRHIxR2xwQ0wwTUtIUFhlZFE1bWFLbW9EVW0tR05VcFVidUFGQmUwS1l5UUctLVdjaFgwTUp5WFR4NHJJb0U?oc=5",
+   "time": "2026-10-16T20:52+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "What If Data Centers Are Part of the Energy Solution?",
+   "source": "www.inc.com",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQVWJTbWFZMnZXdmdfaDFXZTd1SUlMRG5SRjdFU1BHcUd4OHppbEVQYndPaERjSGw1STFlYWxIQXFzeWV0WVp5ZmVPZGh2ZjZMTVlzbFZwNmRBRzVXSmx6MjRfeGVueTZTMXJmM1EyNHcxZmVNZG1XSE1pelZ2eFlUQkFnQ1BTWWVHdEQ0U0ltUGlnamFncFZWREhxdw?oc=5",
+   "time": "2026-10-16T20:11+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Tillis criticizes energy policy, warns GOP faces losses as NC debates data center costs",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNamRoeTdNeVE3TTNHeks1d1paYnhaa09kLXduM1lobnZfVjNHWkRvNGdRQXVhQVl3dTI5aHNEVERUUjFIS3JKUDFPdmpYN19yLWR5Z2sxWHR6NTNLdlBPSTZueWFTV09RT0FXT2x5TFl4OXh5Z3l3UUl1X1UwZlQ5S1hMQjFIdXU1Y3VZOS1uN01RMmRZaGJtWXRueTlpUmtlclZ6R1F5MUdaX1VfRC1uT3hBQlk0U0NBN3hIeGx2T2lWbFJrSUlFUA?oc=5",
+   "time": "2026-10-16T19:55+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI太強！曾文生：台灣出現「高原化負載」日夜尖峰用電縮小",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE04VW9sLTlHRHp0QzhyZHpzcWlfUUhIMVNQWEdLeEtvR243V0NqamtfWEppQjhjNkdMeVJId0xzbzR6d1Nwd0xoQjd2ZlJtX1h2aWFmXzRONWRCMC0xSXhF0gFkQVVfeXFMTzJjMlRlc1duMnU4dHY4SmJzZEFUYXRvNkY1VkFTam5saHFhc2pnUzFSV3BZdHM2amVTa1NucUdDY2VISHdBbUx3LUdIMUdnV2JqcmVoQWtsVkc4b2VqMC1rM3hpMQ?oc=5",
+   "time": "2026-10-16T18:25+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "TP2E籲跨域合作強化供電韌性，擘劃穩定低碳藍圖",
+   "source": "台視全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMWZMalpHZDdRNlZKQXBUNWxzaWExSWQ5aW5keTRUR0FlRHZaSXdhd3hkcWJZZEphYlpiR0JIUUY1NmRtTVVkLUF2SU0tMmRvWWppdVV6U1Y5OGRCT19Pam5LZGRqOFNfY3FCcXdQTS1XaHVLVDFjR0lGbnc0TWxLaWtjNEh3VG9VRXY3ZEhhY2g0QQ?oc=5",
+   "time": "2026-10-16T17:48+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 時代能源新格局產業永續供電的挑戰與機會能源署、台電、環球晶與產業領袖齊聚TP2E 籲跨域合作打造能源韌性",
+   "source": "今周刊",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUVuSmt1Zi1OTUFweTFGaENobk1HcXNkblVjUnJldnFlRDFqV250ZDRsa0RpSEhYaXlsc3JfQjhIVEQ1dzRyMmRqX3o4OGJrSGh3VlFWUFg3MW9CY3BlcXcxWWtmM0xpQnpYR1c4WkUxNUpPNzRyekZ0Yk4xc25lRQ?oc=5",
+   "time": "2026-10-16T17:30+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "東元70年轉型下一步：搶攻AIDC、微電網商機，力拚3年營收破千億| 新聞",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9qRlJGWXBseVRCaTFReE9nWVJjNlcwc2VqQlctLU9uUVA0TUE4YWR4U01aOWY0bk8zVU5WN1dhVDg2MHF4NVRTSDUtVjhEWENVREhHUlBXSEhRQUJiaUJHOQ?oc=5",
+   "time": "2026-10-16T17:03+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "童子賢主張核綠共存：台灣面積如果是10倍大就全力開發太陽光電及陸地風電 | 信傳媒",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyZzRXdWtsclJRSDFOVUFIbnpoaXQ1Y3R6bWQwdlRObnVJeVowOG9oS3AxejIxcHBTaXpvcDNScVV3NFVGd1VrMmFYTXhlLThReE9Dbktn?oc=5",
+   "time": "2026-10-16T16:51+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Hitachi Energy and Ansaldo Energia launch a strategic partnership to bring integrated power solutions to meet surging electricity demand",
+   "source": "PR Newswire",
+   "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOT18tdWdsR1VRYnJaQlhWeEhOc0VqOTQyVVFJZGl0SDRHVy02dVVjeFpoVkVuRGY1LTBWakhkZkx2OHJiekc4cm5QVFEtTUNyS0VOSjEySmRTYkFEa3NqTWVVeFBZS3BCRGp6a3pxZzJQTmdCTmRxeEVkRFBvUVJkdHk2bmxWYVRlMnlTT0tCSTBOODNuUVllZVhWaXVjMmVYb092N0YxYWt2MTRpbFhqdk1CaE9NcmY2MEdaSzdkdkpYTGlqLXc5SnNYRVBwcy1RQjNNanFpRjRTSF9xSmM2NFlDYjJFX3AtRWpTQlo4VDdNY0Q4N29jRU0tTVdQWU83VkJBWEExUXc2aTJKS21HcUpiWVZIaUZ1dmx6NQ?oc=5",
+   "time": "2026-10-16T16:31+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "星展全球永續融資破3兆！ 台灣再生能源放款達400億",
+   "source": "知新聞",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBycFRKc0xZN2lVbEVoaW1QUWJTR3d6QndGcVNOUU1vNDVBbjFFVW9ZUU5QTzlqOHpUd1BRNW1TY3RfVmd6My1fTm5QankwVFUwTjZQdU9iRzRjWV9FVmgxUFc4YVlZVzFoeTdYNzREOA?oc=5",
+   "time": "2026-10-16T16:03+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣再生能源鏈往半導體靠攏，綠電供給能否跟上擴廠？-基本面選股技法 - 邱柏",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNYXBXSHZvbk9EMk54MmtMQVd5M1FwUzBSRG1pUEtycHB5Tlpad3BhNDhwZ3Z4X1lhQnl2MjU4OEhMYmo4SExJd0Z3WFk1U3pWQVVHR0dLNVhxLXd2TWZpVGtqeklSTzN1aVlsdDRUcUxSYzBza3ZfdUdzaURYNjRwcldR?oc=5",
+   "time": "2026-10-16T15:31+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "「我不是擁核！」童子賢親曝台灣「不用核電」前提",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBXWDI0UzFoNlRVbmNiSm5KcmNjaXc3Y1c4eGZRM0l3dmZSTG1oZGkzenFJS0VnTzBhTVJYM0ZzRmxHbFJuRFd6SFBkZG5VNURCclByMHpjMVQ4cVNDWnZB0gFkQVVfeXFMTkVyNmtQWlZfeXhXYjUtX3RCTk1Db1d2Slp2ZzgzOFRsbTZhRVRrTjd3eGVEMUtHWE1oYXBwb21XR091YnNGeUlwYmlnQlBQSnFVUHJlblRpX0ZHYXFMajdvYldBWQ?oc=5",
+   "time": "2026-10-16T15:25+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI恐延遲淨零轉型？星展：中小型企業有3痛點 | 中央廣播電臺",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yYTQxWUNYNDZQS1U1NzhzdlFzOWM4U0t1MHdFNnRaSVBoaGtpcUJYbWM0QjQ2TXZ2ZWZoQ25uZWx0MTZfYVBCZ0Y2MG8zYjhHUE9ZRU9n?oc=5",
+   "time": "2026-10-16T15:25+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "利明献：AI算力是電力競爭 能源穩定韌性成關鍵",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM3lQRDlWUHl0aHVibDRkUnhDa2xiSzFGVVAzeWZCbk9fbFo0MXVUckdEQXRFYWlYdUNjX0EtQWlMVzM0TmRzbnJvN3ZNZG5xQVFRR0p6eVBkTm5JVjZucW1FWGpnUmktbGFUaUl0b2xKUHU3R0VEb3JwY2VLVGQwT0JacFVfN0RsNUFYdThxdGbSAV9BVV95cUxNUXVJbWVncllDbHRZWXUtRGVQcEVfdktsQndJZFJXR2dNRlpBQTRudHdTR3dHNElUQlJuc1Ntakp4SEswWHdGWkFDU0lmc1J6N1RSRFU3X3lzMmwwYmJXVQ?oc=5",
+   "time": "2026-10-16T15:22+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "8440 綠電- 星展永續融資2.5兆元、台灣綠電融資400億元黃偉雄揭中小企淨零轉型4痛點- 股市爆料同學會",
+   "source": "CMoney",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80Qk5jY1B4dkhMazh4SnYyaDdBYTNjUmtwaXRQeWllVElVUUs0Q012cWVVNHpIRXV5Y3hSeWU0R0dMZ1Rtck1BckRudGxnX0JJYm1hYWduZ0M?oc=5",
+   "time": "2026-10-16T15:20+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "星展永續融資2.5兆元、台灣綠電融資400億元 黃偉雄揭中小企淨零轉型4痛點",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5sU0pBQkpxcjdseUppSjdjUE56VVFaUkJ4cFFiMlVIVHphQ21zZnpNR1d5ZnBsdkptY3dJZlQtS0hHQVpTSkpialNEUHpzYTA?oc=5",
+   "time": "2026-10-16T15:03+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "再生能源供應鏈加速串聯，國產儲能與綠電商機爆發，鴻海等企業搶食大餅-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOR0U5MVBXMzFXNEd0TlMtT05VWU9Qemt1MHBxUzZJRDVxUkNHU3NYejJ1M0ZObFBQSXhLck85bnpKYWU4eGxmN3h4bEcxTWxoRUZmNmF5cFBBY25LeWRZM2lNTGNqaG5wQVM2M0o2bjItXy12SFFRd2ctRk9PVmM5Y0tn?oc=5",
+   "time": "2026-10-16T14:46+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Molitor signs GOP letter on data center power agreements",
+   "source": "Observer Today",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTkNuYXJFMmUwWUpGRE4zWGstcTVpNHVDOS1jNy13c3RpNXh6dWlPSHh4Uld0UTRuVWRmMnNxMkFPYUZmTHp1Y1NCeGNqcmUyeW5YZHlTbzFoMU9ZMGZZdGRITGsyME45cXZsbGRYWjFaZ2s3aGdGWkVFZkZYcUtjamNha0Y0MVdGVHdSVmllTHlHY2tXcFloTDVsbHRYeS0tUjdSR1QzdE9qZ3ByakkxbUNn?oc=5",
+   "time": "2026-10-16T14:26+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台化強攻再生能源業務有成 首座小水力發電廠已運轉472天供穩定綠電",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9qVTNkRC1SZ2ZqcEwtN1dYRERqU2ZLLVpkQTJCTjl6MWhDb21nc0plWGpFWUVLajZDSVNIUWthM0JrMEgzb3NsSXBKUUpHNFE?oc=5",
+   "time": "2026-10-16T12:23+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "風評：買美LNG台灣當代價高昂的「雙重盤子」，賴清德不如韓國李在明",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQcmRZa3AtYmo2Z1djdkhMQ01pczRXS09RUEZPV0lJaGZZWnFnaGVDa1huNjdSZUIzUHhLQ05pb3Y0ME9qTmc0dHl1Wk9QbG9URG1kRVEyZnQxWnMyenRxcURURDZLWmhMRVJ4R1ZTOXNqOVAySkJDcUs0WkR5Q2IzZmdRTlRjbHY4R093UDVhcURBajFxWVYxYWRmSl9qNUN4eTdHdk1aeFhLX3lreEkxcmczTXNsSWd3Y3AtWFp6dnd3NGctcG1xYy1WSzRZeFk2M3dIMzZyVDNiX21BN0puSmtycVc5UjJadUpIa3duUmJaMHEzVDVMcjBwMnptMjc0WXd0T21IaUt2YzR6SjMtMUNDTzlxMFN0SF9qVTlFNWlkV3hndVJEbkljNnJ6SFhEeG9WX1BrdWttQUZNalpNZm5oTzA1aWtzWEJKck9sMlpsOVpwYVMzRFFHUDA0U2dTT0Itc0ZwT1AxRkJrc24xUjh3WDA5ZUUwVG41S0pnQjMwQ2MtV2hTTmhCMFF5WTIxT3hz?oc=5",
+   "time": "2026-10-16T11:44+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 資料中心用電需求引商機！安葆、大東電、華城搶攻電力新戰場| 科技產業| 產經",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9xeDFNSEFwV0hvTGpjSnpTa3BrU2s4WDMxNFBYRWxuQjQ1QWFfYjJkc1otakZtbHNBaEtfNy0ySnNDZnk5LWJLOXJia0FsbmJUTzFPU3R5YnRQbWdGSzB1bXhGSFhhZ1VUcTdxQVdsVm9hekVuVzgwak1KX1c?oc=5",
+   "time": "2026-10-16T11:21+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "U.S. Data Center Tracker: Power, Facilities & Growth (2026)",
+   "source": "Electric Choice",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9acDEzM3A0SWNlUWl6NjN3UXUyZkxpRE9hZ3BtNVJkMUZ2M2dyVWkyQ0RESC1OLWZHY2oxYzlXMW1vSHdXUjNHWjZIMmNLRjhtU2d4dk53?oc=5",
+   "time": "2026-10-16T10:35+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台電參展國際智慧能源週 揭曉台灣電力未來十年準備與佈局",
+   "source": "TVBS新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE40a1RfcURJOS1hQUtKS28tNHdteHdkUmdNMFktMDM0NnBKZmR6bXhDUFMxSlN2T09DSURzQjRKNFRhRFFfY0J0ajBfTlgzdw?oc=5",
+   "time": "2026-10-16T10:30+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Venture Global Targets 10 GW of Gas-Fired Power for AI Data Centers",
+   "source": "Yahoo Finance",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd09RWnhkbTBjaTRRTlZkdC0zMVV1c25OR1FMTnBNSWtEbHROTlFIZUg0YWVfZUdmLXZZNW95WFpHcmpwVFgxa2lzUzNfVjB1b3oyejhlMzVsUHdmZkpYVnI5NmFnUy13dHBuMGxpN21TWXpWaEd3MFVLem1FdU1ldlc2OHVaYTBQQlN1MHpR?oc=5",
+   "time": "2026-10-16T09:22+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "《DJ在線》從發電到智慧調度，AIDC促能源整合商機- 新聞",
+   "source": "MoneyDJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdFY1NFh6T1RPU3Q3X1dHd1BJck1HZWZSODBHQW81WkhVbFRLRExTYkNZdnl4ODZPb0JHdF9KU1JlRWRfd01WUVQ4ajNMazR4UzFKUFVyN00yN2JJdXlVTWdPVW82eFdpRzk4QlBYdVlHV3ZKdnFZcHo5SEo3Y3ZSWndjeTNLODJUaW5JYm9yb1liUQ?oc=5",
+   "time": "2026-10-16T09:21+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI資料中心用電2030年上看746TWh，綠能與電網升級能否跟上？-基本面選股技法 - 邱柏",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUHFFVWhQZHFQTV9KNmI5R2c2ZG1Kb1ktZDRwbV9sUTZURFJuUGh3QmZKbWhoamk3S2pqNGo5WmpKMzIxbDNMRE14dms2dGtqNjRfcUt1VFdPRFExbExMb2o4LWZQUXRkb3g4Unh3cTY4MDJFUzBYTk1hdHFBN0tmZkRB?oc=5",
+   "time": "2026-10-16T08:50+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "News 12 Investigates: AI’s growing demand for power and water",
+   "source": "WCTI",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNa1YzRTM5TUh5MHV0TS1RZjJhOE94OU1QeFF0TDlmdVVOWkVTeFpqV1JRV0pTX2swR3NGSld3T19XMzFvZUJfcnozOXgzQndyXzJuSWVrVHVRZkVsUTZEVzRpWDlBd0xnbnFRRk1WdFBoWUpxeWF1bGt4bDZyYjNYVU5QMGhKWUFUaTVucjktZG8ta2ZkUnNVZ09LUHR0MllJUGw5SDhLcw?oc=5",
+   "time": "2026-10-16T07:48+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台達電深化AI供電商機 SOFC明年量產",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1jeWx2WmpBbEtOSUY2YnZKZUMxODZWSmEzSGhuVHdhdXBRZjBvTWlHc0NnQXV1T3dQMUZGMzg0aGh4bS1MQzRpWlZ4RVA5akJkaGtCRW9R0gFbQVVfeXFMTkRsa0doV0JBcWJxcEw4U0hMdV9MeVBvQnpjQ0Ztck9Bd09SajhfSWtQVldZeUdVeDNoa1NWdXFKQzZ5MFhYOFkwNWt4c3M5dnl2OXdraUw2aE1HQQ?oc=5",
+   "time": "2026-10-16T05:30+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AIDC用電暴增 台電承壓",
+   "source": "中時新聞網",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5uUjJyMHBpNHJiaXItSGk3Z0ZWbFlFak1oS1JzYXRkT095QTBGZFIxeno4dmltWmZOZWpXRTZPdUFwY1p0LXY3VXRJY0hkSDlKMTVWRFJxZ1NfZjAwUzJBNFkyQmZJYi1NcFBv?oc=5",
+   "time": "2026-10-16T04:10+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Harris County has 46 data centers and almost no power to regulate them",
+   "source": "Click2Houston",
+   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQTTJiUE5nakZmbExKR0JnTEVNZU95OXZTNE9lLXJlNlBFdTc0WC1DZlVTcDVxVUk0RG5SWjNmem1VcjRuYUlGWmZySWNSVjUxSm94OTZwYnc4NlA3MmkxcVhUcVo4X0ZoM1Z1ZVZSUzlHNGs0RmJvdTdJMUxfbXdNZ0V4cHFDWVZMVjJtRzRWUDloNDZ4TG9lV1ZQRnlxYXdJdUxUZWZSWWExaDBOVmdTMEVxZTVLY3h3UGd3UEhmSlBJQQ?oc=5",
+   "time": "2026-10-16T02:39+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Utilities can use AI to solve grid backlogs: AWS energy lead",
+   "source": "Utility Dive",
+   "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM05NNWR4aUktT0JqV0hMZlp1NkZxeWJzbmhQX3ZUS1hqeHZsakJxNHF6X2x5WUhQX25sY1FLZkxEeDdNQnBiS3pyeElwbFZaR2JPZVplcmtmZHNNOFdKZHc5d2hiY2thTnJ4WUJsWDZGbDIyWGt2ckJuWTBDbmpqRDNqUFkyRGZfenZSTFJvVEFvdFJfRW1Qd2RXTUQ0NlUz?oc=5",
+   "time": "2026-10-16T00:51+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Mitsubishi Heavy Industries and Ingeteam Form Strategic Partnership to Advance Power Solutions for AI Data Centers",
+   "source": "Mitsubishi Heavy Industries, Ltd.",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9ybGxPNWltdlc5aU41V0p4a2E0MTJzVGxpSTZmdDNlbnZ1Y0hJYTdBLURyWFQySFRUb1BJd1JTT3gzRWh0blFncTRDckk2VFU?oc=5",
+   "time": "2026-10-15T23:30+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI用電成長超預期 台電供電挑戰不只發電",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xU241bjU2TURneFJTZXphT1lsbTJuUmlLUFd3clNyakY5cWIzaFhfaFVRNmFvN1RNRXJIeGRaY2RVN0RMQTFja1IzQzFnbHQ20gFWQVVfeXFMTzctODhjaWRHcUkzWERNaGZJQVZTalh0Mk5VSTVQTWFjb1R3Rm9fbDFLNEF6bFBHRTZWS1lOcjFvQWxJajZLZHBqUWVneUFkMlRZcHdITmc?oc=5",
+   "time": "2026-10-15T23:24+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普稱台灣投資阿拉斯加天然氣 台政府回應",
+   "source": "大紀元",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE43ZktDSTl1YlZIM3VBalEzMXJmUU8tSWI1QW1DdFlGRENwcDZaWExDSFZlbzdmZTJvRXp5RkdxSEpTY2FMRDdyTVpkNl9nTHFmUEVsSXhXOXJ1TWhRalR1dzZ30gFnQVVfeXFMTlhZZVdkQm1NbGwwSG80SjBwWVNfTVoyWm9Da1o5QkZrVnRBZlFndDd6VnlLekkyLWFNWHF5U0ZFY0hBX1ZZWm5MMllVSjM0SkhwaUlxMXg1eE5rTWJlQjBCLVlGb2phWQ?oc=5",
+   "time": "2026-10-15T22:55+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AIDC用電量超出預期62% 白皮書：多用綠電可減少設置時社會反彈",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1Mb0MtcUEtSXVXOXBFSjRsa213TUdsQUNEODJzM2RWMFNIaWV4amI2RTY1UkdlbG9sQUdPWjMtaV9IeVVXMk9YaVFnOC3SAVJBVV95cUxPeWl1bEVxWVBNemZSV08zb0YtQjB0ODVLcWoyV21FSTg3UHMyTFp5NWFaTE5MakVOZktIbXZqVUZUcHZwRWhrcVF3a2ZiNS1WSjZ3?oc=5",
+   "time": "2026-10-15T21:02+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "淨零永續展登場再生能源集團秀綠能成果| 生活",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9vQ2dQRWJ3QjM5akpIUW4tZThLQkZXWWdtTU9NWERaQ1hWRGVsSVhsMGJDb0JMT2c4Q1llbGV4ejlITFNCczFJVks5cThiSlpiZWppZWR1cUVFMUU?oc=5",
+   "time": "2026-10-15T20:29+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣國際淨零永續展.智慧能源週盛大登場| 生活",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41cWlnaWhidlF6SXhIcWd4aWpwcnQ4R3RMZUdlYmFFSERvTlNVLWNERmNkeTEtTk1qNXQ4c3Z0cU9tNTc1RGc5TW1jOFRqNG9TUU9xY0FGMFdURnc?oc=5",
+   "time": "2026-10-15T18:22+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台達電鄭平：電力基建跟不上 供電缺口成AI發展關鍵挑戰",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1sQ3NmVEV4SzZaR2s1Z0dPc3A4X1VkM2VUcUpDMkVXTHRkUVc2T1oyRXdMY094cDR3Q0RkQTVUcGFyNFh3LVAzOHVGWQ?oc=5",
+   "time": "2026-10-15T17:51+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電 3-4 選商將登場 CIP 秀風場實績爭取下一輪",
+   "source": "Business Insider Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yOVkxamE2OUd2ZkVRank3VU8wd21yR0I2OC1Ub1c0VXg5VXlRdkMtVGNudVgtVWxjMWhQV1c2TmJnSUxHbExyOU1Fd0w1cHZZZldQUGRn?oc=5",
+   "time": "2026-10-15T17:43+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普喊台灣20年砸2.5兆買阿拉斯加天然氣 龔明鑫透露：價格非常好",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQYWVZR250LU8tNWpMeG9aNUZMSS13ZzQ1Zy1vdXlQbk5neWxINXBwX1h3cEpFNXNNbzVzUDN5Mm81Ujlkd3QxZ3VqRmJ3YkZ4c0ZaaXlEQ0tsX1I3TU5ldVlGSWxwbW1pNFlpY19ZQUFHUWd0bGtGNW9oVVNBNHBsTWlMRUVja1lwTkllQnZ2OUNxX2d3TzhzS19hSnpIODkyZWFGeF9PRmp0MF9kMkI5MWFFdDZjM2JvY3pEOUdiQzhjbWpIQTZIcUNQQW5pMElWcWZPTVZ0ZWkzX3AwNEFGNkxma1lHbmZ2NFhCZVVPelN1VHEyajYyLXhTZmZjbExEalpVRDZtSDFKbk00WE5KNkFwUVRuYjVBLVVkbDlfRTRoSEh0djZjc2ZqdmYxSHU0VTBXdzFDSTBiR2ctVGhtTlBLY0Mzc24tX0hwNGxMMVpaUEgyTzlscVdoVk5iVmdmS1luQ1lGekZkSkFVUDRTNXhwMy1NVGFzN0ZucTlLdFNEdFlzRVpBVnEwYW5BSEdYeGJCTUxiZ0pYSzZfVjVrZFNVQTJIQQ?oc=5",
+   "time": "2026-10-15T17:30+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "綠能持續前進 —— 台灣能源轉型全面升級！",
+   "source": "Business Insider Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kM2ZSanlQUmJGQWdlU2s1NFRQaUh4dEtLa1pEMmtoU0MwRGJ3Uk9SaXNvcEZPamlZVkZYM2VQRkdoaVZ3VXAwRzBzNGhyZHFieDBQVmZR?oc=5",
+   "time": "2026-10-15T17:00+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI時代資料中心不再追著使用者跑，台電倡議「以光代電」納入AIDC選址策略",
+   "source": "iThome",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1adFJJeFBrLVJRek1YNUs2UlRUdS1pYVJGRHNEYmVyNWUtcTNoNzgtbC02anBCQWZ6R0xMM1pWNnRNaVE0bjNRRmNVZDIwUQ?oc=5",
+   "time": "2026-10-15T16:21+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "國際淨零永續展登場 展現台灣循環經濟動能",
+   "source": "東森電視",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KczRqay16MjZQSk05OVhmMTc0eUZUdzJJNzRZWHZXUUVMS1dYSzNYdlh6MEsyUGhoSHBTcUlTbVlFTHFuNWlOUy1rTjJ5clF0T3l2bXZOamJwdw?oc=5",
+   "time": "2026-10-15T16:17+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣國際淨零永續展.智慧能源週供用電解方| 生活",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBySHVsQ0pmOGZtTHQ1TGVfVjFfbGVfV1NqMHNiVnF1RVVOTzVZU2JLOWtIUFgtSVNsOTdXSUZnR2dQUzcwUDRsR3VJeDFPc2psUHk1WGI1UllzZms?oc=5",
+   "time": "2026-10-15T15:40+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電爆剝削移工 世紀能源遭控以陰陽合約月省逾1400萬",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9NajgwbVY3bFhJQ2s3cDhQXzRRdUtmR0NLaXpIR2o5M09SVkZmbEdmdjN6bl9ucHF4a3hLcmk4ekdJV2E0bE5HbWRsYktseVE2eWZnX3hIb2RwbmZhMVRR0gFkQVVfeXFMT2lacUU5ZVVMMUxVX0Fpb1BxdlRxU24tM0dFTGFnWWMwRzJwSUlFelpmbnBKWW5RWFI5aHF4a29TeGFLWndIME00NWNtWkMtaDdXNFFQaEJLbU5ZMDdENGFoczZ1Zg?oc=5",
+   "time": "2026-10-15T13:57+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 資料中心請靠近電廠 台電董座曾文生要把供電要留給真正投資者",
+   "source": "Business Insider Taiwan",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5iUnBib0FqSGkwT3Rjd1AxMG1Za1R0cXNvVzU3eG1VaVUtV0g1YkhOR1VOWmxFdmJKVjk1a292eXN6TW1yNGJvZHhPQV8tQXBYQWdGbk53?oc=5",
+   "time": "2026-10-15T13:26+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "大同翻轉重電產業！掌握「這2大關鍵」搶吃AI能源大餅 訂單排到2027年",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9HLWtzUVdYZkwtSzR2RG4tbUZzZHJqSjM5MHJQam5XMFlBenUzSXVOSU55d3NNbHlMSEwxVVdteDRaWGZoSUl3aWFfOA?oc=5",
+   "time": "2026-10-15T12:30+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台達電鄭平：三因素限制電力設施建置 供電缺口成AI發展關鍵挑戰",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5UR1Zyb1pFR25mMEpPRy1Bb1lYT0tMQUNVS2VPdjIwZjh5ZjJ3Z1FjY0s0TXlMOGgwemJlcHVRZUVqZWljaUxCUXdvSlhreXM?oc=5",
+   "time": "2026-10-15T12:25+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台達電深化AI供電商機 鄭平：SOFC明年量產",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9jejlIcGIxdVFvS3NPb0pmSjRrUHlUVmhlZ1g2bUFzcWJoLWV4ajgzYzN4VlRPUlloZjlHa1hZWGhuX2hQZUd0Ui1uSDBiNHRSOHVMUmF0blR1MlZxUGVB0gFkQVVfeXFMT1RXWVo0SHNrRXFqZExLYmVLM29sN1BZX0J2VkVGblN6cVgxekRtQkdOM0c3aV9nYUZES1VYY0hSbF9JTzY2bmtkZTYtbzNSRnlIOWN2QXpXYVVtaFJYZEJCMFJUQQ?oc=5",
+   "time": "2026-10-15T12:03+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普宣告台灣買天然氣！稱「史上最大採購案」最高砸2.5兆， 卓榮泰出面回應了",
+   "source": "風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE0xUFpIc1c3SWtwNk9EQ1Z5SFo0RUpxVDVKUTM5bHlFbUUzMHE2YlhzMjViUlNaekhURTNSeWpxWGI0dkRERHFOSHBnSjNQQmdI?oc=5",
+   "time": "2026-10-15T12:02+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI用電需求攀升伊頓能源展大秀完整電力管理方案強化供電韌性台塑集團導入伊頓EnergyAware電網互動式不斷電系統",
+   "source": "iThome",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBzb0xEWHhMblUxMFA1bEZCbDlmYjBYV0FvYS1xRGk5Y3Z1anVBOHM4ZWJjTFQ5ZEpMc0Z5N0dFSlVCX2Yyblo2WmZ4NA?oc=5",
+   "time": "2026-10-15T11:48+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣買阿拉斯加天然氣 承購上看2.5兆台幣",
+   "source": "台視新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBUQUtPM2hHdGpKOWdvZjR3NGhmMGVEbVZkdkh3WGNsZTF6ZTNCQi1iUXVIa2FaTE5KdHQwNUROZ3JpcHdGYk5CYVFlNWNNRDdUdklHcTRiTQ?oc=5",
+   "time": "2026-10-15T11:20+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "富崴拿30座風機抵押61億？台電離岸風電爭議還在燒！董座親上火線：所有權仍在公司",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMi8ANBVV95cUxNWFU5bnJSMGZ6eXVZUVZuOTZiekR6OURuc25XWmdUN1kyM1FTZjE2RGFhNlhEZnFlaWVPMFN4aVEweTItQjl1YkRXWEpwb1g4ZjZsVGxMclVuLWRpakw2d3h4TnFkRUdPeVgwNGlfZFpPa3Rzb2dmd0FDTURjRi1sZmVsZ2syWmczLWZrRHBtVUQyOTh1Ul9aR0dYc3BreFpPNUIySjhyWkJobDRfenJHNGV6azJyWVduTHJfY2ZSV2RNeERPU3JWQ0R5V0lOWS1uZVhFbkhQSkdRc2twQlRIN3lTdkNPb3preWY3WU5XT3psTW0tSW96aFBHQU9MWnFOb21ZQXhCWVl3RWpmdFU4ZmJZWnhmRkd0d0dzNklBZFMwZkx6bldyV1J1cTRqR0FlazJoOGVCRHBYRUhPbnlEODRkbnVuZWJtTUs1R0F4MVZwOU9VcGNqNFM1V05pUnlaV3hmMnFJMDVMUzNVemhQYmdRejNMemlFUTItUE1iUXlKT2xEZXk3QWRMaW1qV2JMbDB1NDcwRkN6UkNTRlpUWEYzb0xZUkdUd3U5eUdMNDVCOU0xN0pPNWpmcUpHVkdoNjY2TGhiTDdwMTRPalZrOEFzbEh2aW14SDJ6bUotc1F4TWRTVzJEWUY2MzlDcjg3?oc=5",
+   "time": "2026-10-15T11:08+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "【航港】從B24示範走向國際綠色航運——船商如何接軌、業者如何參與、臺灣港口如何掌握淨零新契機？",
+   "source": "正聲廣播電台",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9lc2xyaUtZSS1GWjRhUVpRcDhSQ3U4QkZFTVJjaXF5SlhnMW9LaTNQQm9Cdl9kNWJKYkowb3dhQU9vNkZR?oc=5",
+   "time": "2026-10-15T09:51+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電融資與浮式風電：2026台灣能源週觀察",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zTlJTWVppOUl2MDZFWW5TZ0U2bnh5RkIyZ1piTEF4aEpjbzFraXBxQnlPemRPRzlZaC04X0FkWTNQdVFxcVV5RDJ2S1dYcjJWc1VoWDU0aWNYTlhlYmotQmNmbkRBVTFVNkJOWHZsQ3FicTVpbURaT2pn?oc=5",
+   "time": "2026-10-15T09:21+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026「台灣國際淨零永續展」與「台灣國際智慧能源週」盛大開幕- 商情",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zY2VGVGp6SUVQemlITE1hV1daQVZqY21qWE1FR05SR0g4dnUwSnFXQll5NVNrdTAtZXJtbkNPb20wcC14eHV3RUVpMThxVGVKVU5hT2pJcU1VRnZscHdv?oc=5",
+   "time": "2026-10-15T09:19+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普宣布台灣買阿拉斯加天然氣！20年承購上看2.5兆台幣",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAzeG9HUGZUUVNsQnZITG14dmRTVXNjaGJOUVdqVDE3dWJXM2s2MEcwVGh6R3liWUZJMG8yZExxZUJDYUtZMUJRTWxmRnJ0WExZ0gFWQVVfeXFMTWlBZjJwdm1JUDFZOU9HWnFDX0FuUHJaTU1DclJyUzNESldwVGFvNUx0MXZ3RVdEbDlZMjVqOVVnM2VVYmlKNXFCal9EdHF2TmRRRE5xbGc?oc=5",
+   "time": "2026-10-15T07:21+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "CIP怒槓經濟部 離岸風電爭議始末一次看",
+   "source": "民報",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OMWFrRWhueTRFZ3NHR2p0ZkVfVVFEYjhvd3M1RTl2dlpTUk9kYmh1TnVjMnZkTnVDdGRuMVB1VHFxOGtjTHdyUnVMdG42X3B6a3F6alRVZFFUV0tJNk5ZUHlPWkk?oc=5",
+   "time": "2026-10-15T06:30+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Got $5,000? 2 Stocks Supplying the AI Data Center Power Crunch.",
+   "source": "The Motley Fool",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNmtPM0JGRjJJY1NHWnlkVDBQMWEyTlhXOWtHTGEtQnZzV2wtSFF5NGJMZmVjM3hfMHBpRi16QnFVOUE3RXg3MXEwemdLazBDSm9mdTBnYWhJX1NWZFZwVjlZRGhZaXNqcVNOS3IyRV9YRlBkQV9oN1I3V3JOLVlQRXFCQjhWR0VVekZ4bWNIR1RJT3JEeEZjRg?oc=5",
+   "time": "2026-10-15T06:05+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "買了長達20年！川普爆台灣包下阿拉斯加30％天然氣 外媒曝一背後隱憂",
+   "source": "三立新聞",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE16WGJyOGFhTUUtRDY0X1ZhUG1STHJMb1pRck5ic3dXNVBCS3ZCLTVGZkNXZlZ5QlNXNVBsblc0VEpuMHkxUmwxNNIBTEFVX3lxTE44RjFGaS1xR0c2V1hJbWVZS01VYjdubHo1MkJ4Wm91RmMtU0pZRklwTWlhbTliRmE1TDZ5alJzcnFvVzJxWEpadUpGLXo?oc=5",
+   "time": "2026-10-15T06:04+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI資料中心不只缺電，更怕GPU耗電瞬間暴衝？西門子押注超級電容，市場上看9.5億美元",
+   "source": "優分析UAnalyze",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9yXzRPM1FMV1lKczQ5YXctNXVtWGVRYmJObXFQekh5MXZySEVNNXYzVDc5Z2RUcm9CaVNnZUF3elltOVJzemFSaVVBWHJzZV82eGNSYWxB?oc=5",
+   "time": "2026-10-15T06:00+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "State study aims to identify retired power plant sites that can be reactivated",
+   "source": "Pennsylvania Capital-Star",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOR25vdm1HRVQ3SjQ2cmE0Q0dFMUtiZ0JoUlE4cnljamtIdWNydllFRnVYQUNFTjdHRWFZODRLWGIyQnZVOVhpdlpwYW94ZlVZTUpJdkFMcnFiZ3RjOWRXVnhNNHVLS0U0MnF1aFg0UHVJcEFLSkdULVJOTG0tWkJaUnVYSTRMQUVxc3lzWC1FWmg2emduaHNWM2Vua05JaVpsTlpPSFBPb1N2U0J5R0Q4bkZWSDFnd3M?oc=5",
+   "time": "2026-10-15T04:43+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普露口風 台灣要採購阿拉斯加天然氣 中油投資美 LNG 計畫1,411億",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAxWWJLRHo5YjVnM0pOdDA1OF9NWjFVZE5KTmxlOWJ4Y3VBb2g4ZW96enhmd3d5d2hoanlvcUVBMVJGRGtNUmszdk9oVC1BRzB5UlNsWnNqUnVuZ9IBX0FVX3lxTE4wMXNvZkJTT1c3VEt3bXMzcTUwRE1qVnEydGxFQXBnUzRGQ3NvQkZueDFLbWhSWWhQLVc1S3JJYTdWY05ubzZmM3M2MXZUVUIzMWt6R0tTMldYS1FOdGs0?oc=5",
+   "time": "2026-10-15T03:42+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "半導體用電十年後將翻倍台電拚打造積體電網- 日報",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5ncmpMWEtCWEsteFNsTDFlWjgtdUVUNjY1Ym5ZRXFwSk1YMW85MGdTdnFVc20yLWVzNUJyby1WdWFOcDFhZTBMWnh3bExtVi0xVlRjVTlMamN1M2wtQ0FJ?oc=5",
+   "time": "2026-10-15T03:00+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "阿拉斯加LNG計畫 川普：台灣將採購30％天然氣",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE8xdWhjOXNEZmYxQ3dkUlZlV0ZHWXE0VjNCQi1RVVhzZkdyMmVUbE9MdHJ5UV9rWjdacVFMNVVydVBaeko3NWxhbGZjS0dBVkgtSjc0MWwzZHhaREdud0g4?oc=5",
+   "time": "2026-10-15T03:00+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣國際淨零永續展.智慧能源週盛大登場| 科技",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zRS1FRGNTV2hDcGxoeTEyaGs4QThGUTlOTEVCLUdIRno3cVRjcWRfT013Nk0tVktGVkZQRVlFVlBockc3aU9Qa0hneG5PejlWbFd0cnhKTXpCTzA?oc=5",
+   "time": "2026-10-15T02:39+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電 賴總統：裝置量全球第5",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YWUhka290aEFGMHdqOHZ1RHU1ekFreGl1NmRDTl9veEpycmU0WVI2d2N1YUhLang5RURqdkJQU3JHajlpYTZYbzhMTzV0MUl4X3Mw0gFYQVVfeXFMTmJBNEVrb2dfOEdtT1h0MlRyRE85OHlzNEhPNTNPLTRDR0x0RWNrOE9CbURtY1FUdGhfcFpPWUdpQWtDaEU1dG5GeFJ0SjF1Wl9TSHplQVRKSg?oc=5",
+   "time": "2026-10-15T01:36+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "必維集團（Bureau Veritas）亮相台灣國際智慧能源週",
+   "source": "iThome",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HMHJVY29uYjF6dHFrOGQybkQxNTh5RHdtTk5aektwVkdsUWhBY1ZRQzY4ejRaQTd6OTZ0VTdGdDN2T2lpblFKVGpiWQ?oc=5",
+   "time": "2026-10-15T00:43+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電 業者轟政府開發連三敗",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5nNjVfZFpQUXo5RW9TcEhrRVBvZmZDbFA0ZG01cEFZaGJLc2FaLW1LYzZHbmJBM2RTT3J6cmYyYnNTWUU5MlhLU3pLbWJkWDl0MEJJ0gFYQVVfeXFMT0wwYWx5S2hydWtaMW5wNjJ3T2lsUGFDX2xvRTdGOTdxNkVqT3J4M0l3N2ZISGVUdWJJWXlvQVFKZHJsajg5bDBuYkRCN3BMQXlEc1lxZVRkUA?oc=5",
+   "time": "2026-10-15T00:00+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普再點名 台灣採購阿拉斯加天然氣",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55bXdIcXF5ZVMtd0RaSjNrR3owZS1LT3RDbG9hMnNZQVI4czVkQ210eThKQjVmZUdQVHMyeHY3em1OMW4zUkh6ZktKbE5GdXYxbkRV0gFYQVVfeXFMTTFFRWo3eFVXWl9GZjU0Q0ZqQS1HR0M1SlhJU09pa1NxMGRKNE4yTVpBYm9VZHFTc2lNTktfLUJWZE5OY2pEWTFqbmg5bHJob2NEeG1Va2dJSA?oc=5",
+   "time": "2026-10-15T00:00+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電產業風光不再？3-3期冷清收場 開發商喊話政府這樣做",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPWGNtVWZ2UE4tWVBrWlkwYzdBN01Oeng4bmU4a1hFcG9UUzJsdUdTdG1oM00yYmN4TmpuM3E0dVZHYnltT1pTc1pMOV80bUh3V1ZTT1dyU1VaUE1WdnNuOVZjU3JPQnJRN1lVQkliaGlqYnNTXy12U1dlVTFENmJkQm9ZakdyNnhWS2x6bnhWYjlQVFhoU0dxWGNDZUVVYV9jcVlYNmE3M3VKdGo0Vk0zbjE5Y3k4aU1IX1dLdTlTLUpXeUpqb0p4UGQzOTBGNDF1RVpQelVIR084ZXJncDBacWRUQVd6STBUbG55a0RqdXhOMzVaWXJFNS1KZ2M2b2szOHR0VHVEOE1LNlN0OU5KLTE5WWNxNzVkcWNkcVBERTFjOTA5RDZzOFlvYkVtOUExdkg3UFZwRTEwOXJtNURLZXNOcVVKS2Q5TV9hYWtOVWNTTkMwYWxta2ktRlNzN2NFdGlFcWQ5YnoxVS1OaHdwX01SbmZTbnJSaE9paTNkWE4xU3cwcmc?oc=5",
+   "time": "2026-10-14T22:04+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026能源週》AI資料中心掀能源商機！雲豹拓展基建布局，東元、泓德搶綠電市場| 新聞",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5tczFOcHRHZlBNQk5PVjVnMmh5S3JWbG9YTWxnSEo1ckJIMEdScm4yM3ZzWlNCdW9YbWRJMjJUSkQ3UzVrSUwydVlPVmdFTVBrQWY4b2U2ZTl6OGtOSFFiMGc5SllOZHNqSlpV?oc=5",
+   "time": "2026-10-14T21:29+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "聯合再生能源打造「能源港灣」 匯聚多元能量讓永續發聲- 財經新聞",
+   "source": "PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQU1VmUzlLdWZnWEVZc2pjMDBDNVp6STJtUDFKWmVxeTUtQTRyaEg5SWxQVWNVNUxUcTZ6RW9Td0JjMVJLU3FOU09lXzVKNlFPX3EzVk1raGFQUnZ2SGY4eTNOSEFVM01tRHg3VFgzbmEtX3FiaEo3clJDNU0tUFJYUGxheFJpRm0tODJUZFJqdHRNNWFf?oc=5",
+   "time": "2026-10-14T21:23+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "企業購電協議升溫 星展布局台灣再生能源融資",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBCLVJaanZlWWJiVDU5ZWw0UmppV2xUZHRTOXEyeUl0RGJkTTd4ZWhteTFrSldKUFFjTkRtUC1IVjN4am1hRWhfZEZfd3BYRXA1cGI4aFhCYy00QzlaeW9z0gFkQVVfeXFMUHA1STdHVmhPeGw1NkdjRkhTcm53ZEJZSHJ6WkV6S25IRlN1bGpXbTlCYk1wRzd0RlVWRjRfaTJSTnZ6b3gxWWdWTG50NkdRM1gzMVZxM3RRU3ZjYklzaWJ0bkVabA?oc=5",
+   "time": "2026-10-14T21:22+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Electric avenues: AI data centers spur natural gas, solar; challenge power grids",
+   "source": "Dundalk Eagle",
+   "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPbWFLTTk5Mk9ZWDNWWXUyM1Z6VXJFa0xxaTNieUV1YkJVYU9WSlZQOHJHWWZoQXdVLWZyb0pScFUxSmFmdEpVaHJiYzl0X3FOTm1yUjNGeXZBbUZjS1dFb0pwRmhLYlBqZUdJV25OamhMLTg2NG8yUW1oRjNGdG5nY1RZb3Q0UzUyWHNIYVJMdHhDRFRWbWFYcE1WWDhkUXl4bzlyTElEci03VVcxMjIxQm1WRWE4V3BiaG5TSnd6T1lUZHU2SjI4LTNFQlFXdk9oU2p3bVotaGxyZ3hnQTlrUEkzbDBxUElfUVoweG00U3lBR3M?oc=5",
+   "time": "2026-10-14T21:00+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普指台灣採購阿拉斯加天然氣 經濟部證實最高投資44億美元",
+   "source": "你的公共電視",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9uWEUxYjJFWC1lNkhWdlJLVmhzTVpXOUN2U2M5b2VhcF9UNVVoZ1dTbHEwZkNfR3dOYVNUNk1Qbi02cURxQ0RUOXhzb0N4amM?oc=5",
+   "time": "2026-10-14T20:45+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI浪潮衝擊電力布局AIDC用電暴增近一半- 其他",
+   "source": "旺得富理財網",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52b1VDWTdtaHRpUEpMdmZQU2FwWU1nQURtNG9idkQzR0pQYTBDaW13bndHcEthcnM2VDVJY1pGREJ5TUJpY3Q4dXh2STctOUpSRldoY2hZeTNpRXpSd1k4S1dlbWhtVm5lY3c?oc=5",
+   "time": "2026-10-14T20:30+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 資料中心用電先搶先贏？台電董座：盼核供給真正投資者",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5IejByX3h6bU5XeFM1Rkt4dUZnenQ0ejlNY3dGT3MzczZwaTZwVVBDNDdYTUstejN4R3RndTFjRk5oS2V3UlRKMUYtcFRfcVMtcng4dERpeVlQQdIBX0FVX3lxTE1tSUZzMFc3SkNmRnU4LXI3NVhjQWowVVFNMkJneDFaQ25CT3liRmRFSm5JUlp2eTFwT2FyUmNLQXJHdTlhLThXS2lMemVaak8xUnlXU3pvVlpIeXFfUGE4?oc=5",
+   "time": "2026-10-14T20:07+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026台灣國際淨零永續展與智慧能源週 開展",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMmJvc0VfLWxta0NScGxmU1Z6eFlpajN1RlFRS3EtbXdCZEVKR01uYVBQRjg0Wmx1aHdJR2FDcExKR2Nld1JCLW0tNFBXdTN1VG9SYWVwVjYxbHlxLTNVb2Z2bVkyYVctYk9KV2dPZ3MzQ3ZUVnA5OGRIMUZqOE5zZXFPZW5UUVdhZWtXZl9MU0VHSmNqYnQ0Rk41Rm1tU1AyMVJkZ2hqeVVNNU1tNGxpMkNwS2ZVOVFFTW9pQzhXTWRXekpvbnRhbl95WkZkRVhDMHdJN2gzdU1RVWdwZWUyTnhOQ21lMXZjR2k3dUhCN1lONHp2VFgxR3RSRGo5dkxKNVVlSDFveGZXblVtM3g5R3N5b3RjLWptQk5IZWNHWElpTi14OGc?oc=5",
+   "time": "2026-10-14T20:03+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電全球第5！再生能源10年增4倍，賴總統：8年千億挺中小微企業雙轉型",
+   "source": "今周刊",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE83N3pZbkd0OGZWQXphYXU2eEJvd1BlTG9QeFF3eEozM084Z25SMEdXOTVYdzB3ZXFfTTV0LTg0QnQxdzAtckN4TXJ6bDg3VWxpY3JuN0FVVUc0WmdweDhvTGtqa2pqVTlXRUx2eDQ0ZGtNU1BsclNiLWhGYTQ5dkk?oc=5",
+   "time": "2026-10-14T19:56+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電區塊開發遭業者評「失敗」 能源署：遺憾",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9VZWRlcF9tNkFJMlpJVnFGT3R2X0Ywd2tYS3Jjcm0xbXhFaFR1d2hNMEJFa0U4U3VoMFZVTGN3WUk5UGkzTHcxYW5lS1V4NVJYRnphQUw1eG1ZMUkta1NZ?oc=5",
+   "time": "2026-10-14T19:40+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "離岸風電3-3選商剩雙強相爭沃旭、CIP能源週同場喊話- 要聞",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1wbFhteUJsd1ZDTDhNWWN3WFdVTGNnc0FWMUhaalZDa1dpUnBUc2pibm05aDRhdEtCUklJLTZEMkhFZE5uYTF3OXh6NFF0WWtFNnlOcFk4U2NnNEN4dEpn?oc=5",
+   "time": "2026-10-14T19:30+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "迎戰AI用電平均1年蓋3座台電規劃15年擴建43座變電所| 產經",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1CRVNnOGUzVWpscjdJMks0NDh3VzBvU2VEMkZjbzZvOV8tTDZaTmNHdTRFZVlzNzVPZU82MWYtM0tDTDdOOWxXbFlRMXpBUGR6bzFoeVVyTk5kM1VVa3c?oc=5",
+   "time": "2026-10-14T17:59+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台電參展智慧能源週「積體電網」特展揭電力願景- 新聞",
+   "source": "MoneyDJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaHlOZURWSFRhWEZxZUlBQ1dNMWlrdDlPamhrOHZBLTJsLUp6b3IwWVNOdDNhOG11LWpIRWdIMGtFRzE0OHRNcFVGTGROUEthVG1KMzdvcDFOQUM5RUdkSDJQZTNWQXQ5TTlGZ0RnUVNzU2xfT1NoNkE4Q1hRODNlcmNKb01TcC03THdrWWQ4VnVaUQ?oc=5",
+   "time": "2026-10-14T17:08+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026「台灣國際淨零永續展」與「台灣國際智慧能源週」盛大開幕，引領企業掌握AI時代能源轉型與永續新契機",
+   "source": "CARTURE 車勢文化",
+   "url": "https://news.google.com/rss/articles/CBMiigVBVV95cUxQOXBLNDFhVWltRG5MWUYzSzlsUFpCUWFzTTF4VTEydzJFd2NiSEFDWEVRckRLQjdEajFzbEZmcUd6MmFsU3V0cUNTcDV4NWlqbk1IYmxvcFo0RU5HZU1JVGFlTFhGSGJ2RmNiZ29XdFVYa1RhOGRZRkdEaVJPT3FDS2FxU2xsUmNSQjNiaUxvX1J0c3dEYS1oMEtTeUQwdm5STzdvaWJvY3VDU1V2cGhoYkZGNnNPb2VrX2dEQW5LNGVfaW1QdWhQYXNURmhSbThnOVhfOUQ5NlZ4VU5VVkhrdVBlREcwdWlQSU9IVG5EWDRZN0lhV2tQRi1Nb0xpU0hzSXVEX0NSc3ZBNVE2bjYtRzlsb2RpVkdkaWNTMTNVUmlUM1J6bUdOMUJnbkpWLW5fSmRFSEZLSGJNejJxVDAzMEwyUkdwX3EwYlBFUWxXVEtZVGdRTW9LZG1CR1hKaDRpM1Q0MFRWS3Fac2VKRjEzbDVyMUEtYXB2bDZCZUZ1X0c3eE13V2h1Y3FMblNMRUxoN2JOa3BIZ01WdlQ5aG5XdmxPaHZ2dWZ6d0pzU0ExVGhsTnFpS19sY1JkRXZYbjVLUWxiSTNjTVpWZk0zSmNaY0RRVmlOWXhxeElJQmRJUkI0TXFsRWo2SHhCVXZnREhEWDlUemZJV2ZpN2JuZGNyNkJTaUpsX1BMRk52T2RxTDRWNDM0NHdnMTAtLVdBNmZCcHJCb053dUxvMEFJaXdIYWNLMkxJWHlJckxVc2ttYzh2c1Nac3A1V2J4Q0RITjhoUG9NNlBOQ0NpbnZtSWVMdG9fTE9XNGxHb0NoTXhXQk5Sb3kzc0ZsSkQ3NzRBeG1FNzJvQ2JGMlE5Zw?oc=5",
+   "time": "2026-10-14T16:59+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普宣布「台灣買阿拉斯加30%天然氣」 經濟部證實：將投資1400億",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxOM3k2eXdKc0luNHRvSzJuVVVqZ1dIdHFFZ3gyQWp1YkxJa0F4R0pEeG5SSzhWYVFfV2t4MnBhelZBdnFFbFRwaEpQbFVCeGZMRUVuZTREbVRFZDNndmJzM0JlMDN1MFBvenQxX0tjdnNrZFpYLUdzTk9CaGFralExcm9BTlVmMzg0bDk0dWk3ODVFRVpSNTByVFJKX1h5VEVNa2x6VmxBVUNGcEhrS092Nmo0eUZGam9sblQyT1FnSFJVU3hic1JDWm1WU3UyYlg5dTZMTjh6Z21CbnFveE95OUp3WnRGaExKWWROZXVCUlB4T1lta1lqY3djNk01b1hmeFhFS3VoZnhKcFZQamZBSjhuYW1qd2VsT20tZjNwRW01VEFQTmxWNDgxNjVaNUdKVlVpXzNZczNCTzEwMG1XTEJEYzRnbmtzQ0FTbWNJQzRoUU9fNUk4MHBWazJMMkZwLWt5S0VacDFJeGt3ZTRQcE1kbFA?oc=5",
+   "time": "2026-10-14T16:57+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "雲豹能源智慧能源週亮相，整合綠電、儲能佈局AIDC | 陳逸群 | 地方新聞",
+   "source": "風傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObExtOGZSU1l4bmoyLTNFR0JlODloMGlIZ0Fob05LMW9pUTY2T2JuUVgzWWoxQkVvV0J1emJxcG85cWhUdmNOamRIb0c2Zw?oc=5",
+   "time": "2026-10-14T16:34+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "半導體擴廠、AI資料中心掀用電大潮！安葆美國一年商機 台灣要做20年",
+   "source": "財訊",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9mRXR0LW9PT2tvQXI0TnZ1SEtiblkyVlVfaEVWZmlTSHRnQVRhNzVQZGVMRzFROFBuNnhuMU10TVFqejF2VVVRUXg2bzRISDhheDduUU05SUpmaXdVUHEtZGpkS0NfbjBNWGJEV2hLZGRNbFF2YUJUeld4TQ?oc=5",
+   "time": "2026-10-14T16:18+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣採購阿拉斯加天然氣 陸外交部稱「這一事」不會得逞",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBKN3RFeW9tYnYwT1hmOUVScTVwMkRTMV9EYy16LXl6Wk4wOUlzU1ZhQVZ1aDRieGJkc3N3TXNZczRpTE9FTDBMeU1Qdi1XQV9J0gFWQVVfeXFMUFZpb1hUUGxmclM3UWNySEFaSnVQT2ZkOGhpbjRzZm82eXhVVV8yLTl4dDdXLVZMSFlvdDZZM1ptbzdMVW1GQXUwS3JCcjBVODNlcDdTYUE?oc=5",
+   "time": "2026-10-14T16:03+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "我證實投資阿拉斯加天然氣 年採購600萬噸、估最快2032年起供氣",
+   "source": "你的公共電視",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA3Rm9IMjFuUWpGZ0RDVmxDcXhkVkR3bkJqUlF5b1l0c3RwekpsZXhTc0FhMkRCN3NRNm8yaGZFLVlsRWV1Vk1aNFd1bXl1Qm8?oc=5",
+   "time": "2026-10-14T15:01+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "2026全球減碳浪潮下的台灣淨零現況",
+   "source": "海基會兩岸經貿網",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1xU3lxaEtRdlRZZllXdUxDaEloTWRDMlU3R2hIbTNLeXRkNGdWQnJJaE9WT0lQWk1TVnhUOFdLU3RkT25kVmFucnFlSlEwZkJQRHNMY2Q4YjY?oc=5",
+   "time": "2026-10-14T15:00+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "能源管理計畫及內部碳定價",
+   "source": "台灣高鐵",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ZdHJHNGtkcVU1clhzbjJQaEV2d0QyQkRRdi1GRWlhM1lHTklJNU1OSDNGVEdCMkFRRk1ldXhrY3N2WDBycV9sbF9KS2l4dGdUR1NIWThCbmZQOVRCbjRtM2puT2MweDhQMEFkakZWMHZZNm5H?oc=5",
+   "time": "2026-10-14T15:00+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "聚焦 AI 用電需求與供電韌性 2026 台灣國際淨零永續展與智慧能源週盛大舉行",
+   "source": "7Car 小七車觀點",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zTnhQekZBRzE1dWx3dUFqbGZJeDh0VGZCdFVsdFVMNkw0RWxsUHA4bkZoUnVHSnY3SnQyMU9hbXB0T3U5RVJTRFhYdWJvTzRPckE?oc=5",
+   "time": "2026-10-14T15:00+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普聲稱台灣承諾包下阿拉斯加30%的天然氣 外媒質疑成本效益",
+   "source": "信傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5QUno2WW84TWllYUZZRHhHeEdMUzZ5LVBqaWU3dXZSWW94Qm5iS2VLN0hkc1RTWm5VWUxvVUE0Z0p0X1lfdERBUG16Q0JKZGdOZzRDTk5qOERVUQ?oc=5",
+   "time": "2026-10-14T14:55+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "促產業綠色轉型 賴總統：續推碳費、綠色成長基金、千億元助中小微",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE55OU15RDJqazV0eVR4OWQwRGFWN1J2LXZvLXBIamZqc1FyQTBicER1Z1dsbkZ6N194RTdWUjM0U1ppaUFpcVN4a0RMODBpVkUt0gFWQVVfeXFMUFZlQXJRb3diZzdqQzMzMUYwMDZULXoyY0ZmM1kwT2RoVkQwejZEZVVGUU9kVnNuVXNIMk9kY3NtMUlnTkx5eHFPQ01JYThSdURHTXVpV0E?oc=5",
+   "time": "2026-10-14T14:05+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "能源展／半導體用電2035年1100億度 台電「以光代電」縮短電力輸送",
+   "source": "TVBS新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rQmo5MXk4WWk3aUtHZEZhWVNGMUpBOXZNeTRHZC1pMTJBak5MTzlXRmtQSWpWNHE1d0xDaXRFR18xUmhaa3NFYmlpbF82bUk?oc=5",
+   "time": "2026-10-14T13:52+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "聯合再生能源打造「能源港灣」 高透全彩太陽能模組、大尺寸鈣鈦礦矽晶疊層技術亮相- 產業",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9KRzVtWDRtYlgtVWtOVlpzY1dITmp5eHQ1OHctcnBWSVVZUkV2RjBjZmg4VVcwWnJtY3pZZ2doXzlhdHhFV0t4UTNuUW1Idzkwa2g1LTZDbmIzNkFzd2tB?oc=5",
+   "time": "2026-10-14T13:06+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "從減碳到碳權：企業自願減量專案申請與實務解析",
+   "source": "海基會兩岸經貿網",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdEtxd2Vid3ZvandydWNQWjZiWE9WamlJbUUxT09UMVN4X1RDZGxEdjA2SURTaW5uNG9IMGpLcHN3alZGVzQ3MHN4ZnFTLS12cEtFa2NxSmw?oc=5",
+   "time": "2026-10-14T13:02+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普「暴雷」台灣砸1400億元包下20年阿拉斯加3成天然氣 經濟部證實了",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxOMU9KREpfdERLNlk1UWhHOXFCS1JjQkNjUUF3Vjc3elpKdEVqQ3NueHpidW5uTktUSzlYSVdjZFR5anRTY0dsaGNDNEt6THpQek00R0FkdGhDLWFGanlQdXFWYnhPSE5TWjdSOGQ2SnliUmFfR0lUZ3FPMlNDQnBzN3l6SWpUdjFnby1ZSHNOMlZFSnU5c3JaQzcxbWYzTVV4SzNfOHBNLVR6ZXI5eDZmaXY1LXhjalRDMU9XdW1OYnp4WWlsRTU3bGlKRVNJdGEwc3JEOFFwdmNZMjlmdThkQ0RkT3hncmpFc0JMRWJMN1lYN0R2cjZrMGNXV05CeTg3VGhSejd2ci1MS2ZVeU9fU201aXVtci1iUUFxbi1NVVJCNGJFNlFVNkhzUU1XcW1QTWNyWmh4djlqT0xtZmQxU0t4cjZtTUJUTEQyMWJiSnF1bExMRzRZYzFQeUs5alpveDFjb3Qzd1FJWWRKVWtwcGg0b3lMT2tiWkpxZEE1WG8wVWRHdVRKbkhXdlJKTmstUUd3TUl4bHItemJOUnI5dWZQQzBuVUdMOG15V2ZjTjNaQzNaOFE?oc=5",
+   "time": "2026-10-14T12:39+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "經部：中油每年採購600萬噸阿拉斯加天然氣估最高投資44億美元| 產經",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE53STBtZFBtSGx5Z293OHNxTWRnRTktc1NlZ1NmUVJNeHhRR3FIa2UwdU9ua0Z0aGNxcmJHYWx4ZUotMmJxenpJWVpxOWNJbFJ1dXpRN2dDMHJ0VUNvN2c?oc=5",
+   "time": "2026-10-14T12:30+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普曝台灣買阿拉斯加天然氣！經濟部證實：投資最高44億美元 每年採購600萬噸",
+   "source": "Yahoo股市",
+   "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxQV2ZPeGh6alRBWWVLTFpnZjRRalVSb2JaUXNjR1NGbkFXVHE2cWMxU2RObG9qV0xDc1VZMEJFMDBYY2sycDVQamplNFl5OGd3dW5FNG1EVWJoYUM1elNnakQzMUJEQzNPMldUZ3JzbE5DYXdyTl94Q3pEV3pSZlhFcnNvQ2s2RXJaMWtBUXNtMDJPMHViSmlTcUNSV3lZM2k3Ung3OU1Jbl91T09qZXdpNXVmQ2ZEUkhwMVR6QWhvU3I3UVVSTDNfTW1VT1pQUFozSDg1TTdleG9wOXhBTlV2UFJGREZBUzlCYmpLRU9NcXdPVEw4QURqbzNUSGJRVFUyLWpyS0piRUdnWnNzNzlCRFpacm1iX1ZjUC1oRldiUF9wb1JBcUZMaVdvT3FVWmotUkExZG51dHVjY3NWdmZReTlnS2VYVm9SRVZJQ0JZNHpSem1rTERWVTBUemRvRHRhMHFnYUtnSllZZ0FRY3o3NjBEVTBJdEp3SG02aTQ2cy1nQkJHOFVDa1BWaGdCWUdNd3NkbWFVenBNZmUyVVY2VEN5YlVJcW5Zc0lzRDVQNUtlQlJjM05JYmZwNVRxcjlQb0Rwdk5VMDlVeFVQRUFMVjFWcEpSaHJBSWc?oc=5",
+   "time": "2026-10-14T12:27+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "阿拉斯加 LNG 趕鴨子上架？川普稱台灣投資44億 再喊南韓砸500億美元",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4tbndsRG00cl9wREx4bTcyZkR1NHRPQVdNOWpHT2VXZmlKZFlQX3oxT0ozcFYwZnlDQjRRNXkzY05DTXV1VzVuSFg1MWxheGRyaFhIOXFnMnVzUdIBX0FVX3lxTE1BRl8ya19BLUUwRDlRNGhMRU91Vjl0aURqR2Zsa1FJYXUwbzBZMGlQN3JEZ3hHMWZ4TWtEVzJELWtwRXUyOTdUSnhxOVkwWElwX1g0eFV1ZWpTVnRJYWNZ?oc=5",
+   "time": "2026-10-14T12:22+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "出席國際淨零永續展暨智慧能源週 總統：推動產業綠色轉型、提升能源韌性 打造臺灣下一階段成長動力",
+   "source": "中華民國總統府",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1SYmVWYllITmtUVmxKWERSdk5ZbnoxaUx4MHphZzFjeERLa0x6d3JQWVdUendjRmFwcjBDb1lxSGhEMHFMVUdUeDBZWVFIcUR2?oc=5",
+   "time": "2026-10-14T12:03+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "淨零永續展與智慧能源週國際參展商增16% 提淨零與永續解決方案",
+   "source": "ETtoday財經雲",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4zanVnYnpjR2w2bEdEb3A0UFdpbjlud0twejZwZFRoYXh6U1FXZEd1N0ZVNnpMQlowdWdBMVdMbGFJX1RVSElVUHNxMXlXRWlOcVHSAVBBVV95cUxOR1lPYTMyYkhUZjl5QkdvdzZzMU55VFRsZkh0ZmhWYWtKd1ZEcU5iV3lvLW1VSTEtMVhGRWlid3hzVzhOZFZZTVBmZ1VSU2t6RA?oc=5",
+   "time": "2026-10-14T11:52+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI 資料中心帶旺電力需求 大東電秀電纜、儲能整合實力",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00N0JkNmJvM3JsYVlIcVpmUk5idjhlYTRtUXhFRGRkQlRCakgzMUdxSWNGYXdJbHZyNU9qbVJrTmN1ZFJvVXJWTHNudTJ3YWpfZ3Y4WGNEbUxyUdIBX0FVX3lxTFBId1RjVk1rcUlWMnlvVUQySElGRnRBc1g5eUdxcDAwY3lGWkhoQms4Xzh3dnU3OHJvQ3RmZmhNTWd1aHV3TVNtdTNtckhtdHRJTXF5MXpBUXVVOVJucEtB?oc=5",
+   "time": "2026-10-14T11:52+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "賴清德喊淨零須納經營決策！已成立百億綠色基金、千億挺中小企業雙轉型",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5tS0hCeU05TkJQQ0tZMWF2bGxNSVcycVM1ZVRncXVTUWdYYXB1QVJlbjc4SjRCaUVMMFUzeHkyeDJ3MGlmeF81emxWU2h2MmlIeXZtMXVxbEN6VzgwZVJv0gFkQVVfeXFMTXpXY3dwRTRkWjhEUkhsSldHa1dyOWQ3eFpTUW1jNzFhVDVtZW04Z0xkbGJ0dUNHempmUU94QWo5cHJNdDJZOTlJbUlZN1Y3QU4wel9NNHBjYld5WUlHZmpRVEZuYg?oc=5",
+   "time": "2026-10-14T11:48+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普稱台灣將砸1390億 買阿拉斯加天然氣",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxQT1hVb1BLZWE3VDdUZlpadGFDdkRMUXhZM3VYN0dXMXJ4eU83SVFmOUI2aHF5cWVrR0NoSWxPQ2h0TEFlS3YzdXMyMTd4UnVWTkRsV3RNQTdmYUJ3QW82SXJ6b191TnM0Nk9HN3JkNTFlWEduYUtLR3RscWJ3dnNsMEV3emZqLTFiOWljZ3gzcGk5UEw3WmIyMWFkVEdiLXRXX2dNY29DdEZaUktNdHVVbTRMMGVfdzY1SG9CWk96ODNjR2xmSkVGUkpzMHdFejJnOFdjM1Z2bHFiekIwS056RE93YnJESElwLXlpWGk0bE5uYTNYdFVDVUdfdlVxWDVkSHdsZ202bG9RM2FpNVhfa2ZYVGhJcFpZWXc?oc=5",
+   "time": "2026-10-14T11:09+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普宣布台灣買下阿拉斯加30％天然氣！並將投資44億美元- 國際",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9nSEZINU1JbDlfLUZjYlBOMnBnWFdGLXVEVkkxeFNXekNzS0oxemt1N1BZRkRRQ0lJN3VFMTJ5aTU4VjltN2RMY0ItSFlNNXNqSE5VNkhzYXhHalI4N09v?oc=5",
+   "time": "2026-10-14T11:01+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "海洋波浪能 台灣再生能源新兵 | 綠色產業 | 商情",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2M1pZVTc5QWxFREZvLVBlMXZfM202VTRqb0Q1b190UWladFJUcXNxaTNtdUdYc3hjbXM2bzRpbmxldVFDZGQ2R0dFZjFRdVYxOXJ0dzIxM2JGQQ?oc=5",
+   "time": "2026-10-14T10:27+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "一買就是20年！川普稱台灣包下阿拉斯加30％天然氣 外媒揭「背後藏隱憂」",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5mUWJOam5sTkNadG5MRlNiNkFZdmZUczVGcjVnYk1mT25XREh3X2ZJSk5Qam1xdDZrOXJCZ0ZIZG44b3Z6ZXdaT3ZvUWdHRGpGaFNGek5xVnV5eVlhZHpn0gFkQVVfeXFMUE5LU29obEhKbDB6SVJ0SnFlYzgzd1N0LVBMVnZYNVUxUkdIV2pZX3JYWFp6bVhkaTlwa3IydmtiYjNZWnhvYVpqeXZZclpVcTJDVlB2ZklFVS1wcVBpUkkwUERacg?oc=5",
+   "time": "2026-10-14T10:07+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "掌握台灣太陽能的第二次「美國時刻」，聯合再生以URECO品牌深化美國布局、跨足低軌衛星| 深度專訪",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAwMk1FV0U4LXNGTWlfV1VIVGcxX05uckpVdlp1aHQxZzNqbDhuc0QzMGNpeXNWbHM2T3p5N0dTdFU0cVNBam9UMkVtVkZ4S1dmVmk5elB2cFNLV0NFZ3RMTGgzamFDT2JxUm1pVXBDcW41WWxYYXJqTThlRzc?oc=5",
+   "time": "2026-10-14T09:34+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "川普造勢喊話 稱台灣同意採購阿拉斯加30%天然氣 額外投資44億美元",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9HSnlMdzlaLS1jY215ODV6MXhocVZpelFzRlF0MGdpN2czRGxmdUVva2Y4X2FMVUxvQ25CV0dwS215R2YxOWZvR3Y0UUJmVklTYUZrd0wxWW04UdIBX0FVX3lxTE0zZ3ExU0VWVjJNcEItaEZiYkNqc19kR0VubXR0dzcyQ3VUdmVpczR3VkhBRUhCeTV0Y2F0N3pWdjZYLVZmYXFDNDU0NnRkelJiNUNaTnl4YWl4dDYzbUVj?oc=5",
+   "time": "2026-10-14T09:34+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "一買就是20年！川普稱台灣包下阿拉斯加LNG三成產量 並加碼投資44億美元",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9JR3djY3ZYT1RQdjRWdU11LW0wQXdtbmlaZVJiSVAyNlladGFBYkgybzE0dG90Z1I1ekZQaVVadWNoNnY5cTZFYzROSFlQblk?oc=5",
+   "time": "2026-10-14T09:22+08:00",
+   "category": "gas",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Behind-the-Meter Data Centers: State Power Legislation",
+   "source": "MultiState",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcEEyYWZidHU5UHI0QllDamQtSXVYRlVYTmdTZWJVSmtKeE4tLUp3Y2llanVXRUxDYmkzZjRFS204clhwdFEtcmhoaE10emladzM2VXZKWlpXUVlfWUVrVnd5TE9wTXZQRTVZUklVR1NMczBPZ2I1eWRPX0FmSUpYSGVYaHd2bGt2OW1ibGptZVdDbEhYVUROQ2x1YlNaWWhHWjQ0WUZjUkZWWmJIcjFDNg?oc=5",
+   "time": "2026-10-14T07:06+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "續升綠能攜手太陽光電發電系統公會 參展台灣國際智慧能源周",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93ejk1QlFpbVRMVEhWQTdXY19NLWdxbGlrTzhjNTdYWWI0MG9qQUhtU0lsbGFxUGwtay1seGdVa0RLaHVJOVU2QWR3SUpZemV20gFWQVVfeXFMTVVkTFYyZWIyZ0VhSjk1N2s2bTFpdHhoeTc5a0dzVmdFTFJtcmstVWR0V0JraUdGU2tIQ1lwTFZCTkhCRDJnZVYtU3hPRUZJaDM1R0tiM0E?oc=5",
+   "time": "2026-10-13T19:18+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI驅動電力需求大躍進！台灣智慧能源與淨零雙展10/14登場，聚焦半導體低碳轉型",
+   "source": "北美智權",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE56czZWOEhnSEFaelFzbWdqdjIzeEpFcVZRN0IxNUZ3MlRVVHlCOVR2czY2VWExblYyeGpaY2M3czNCaWloTks2aA?oc=5",
+   "time": "2026-10-13T17:30+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣國際水週登場&搶攻全球淨零轉型商機| 產經",
+   "source": "非凡新聞台",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBPTU4zVjZCak9WZlR3cFVnMnBzZFpIeWdMOUQ2UnZMWGQ3NEY0ekIzdUhZblQtaUFUVmJUc2JMZlhJOXJBenh3MjJ6Ny05OGk2S3psV2Q0YVdZek9yTmF6RFJEdDhRb0loaFFOOQ?oc=5",
+   "time": "2026-10-13T10:29+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "US panel approves PJM's registry of data centers, rejects plan to curtail power to them",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNelMwdWdXcXc1aU5DLXExOVlIdWc4ZXU1Q0FXelg1MUFMcHhEa0FHYzRwWEhpZ3ZVZk1pMmlSU2JZTFRxcUkxTnFyeTNXdERBQWUxXzd0dVo5UVRnQXR3bVpaSFVLOHRuc0ZmNXlZeVprbEVHSW5sbnB1NjRQMDFUMmNYYUI3em1EYUplZVBBclBLdE1mck1DY18yNXZNb3JaQzRySjNybDZrbVdRRVlPaFo3U1VBaTVzNVFIWHE1SjBtM1VtRTQ4?oc=5",
+   "time": "2026-10-13T04:25+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "碳費偏低未來成本恐更高吳中書揭台灣永續金融8大挑戰| 金融要聞| 產經",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByVm45YnBteG5mNVZTS0xjZDFHdmtXYmVrcTRNUXktR3JPUXBDbkhtMzJFNHBKMWtlM29abWZ2OWZvay1RcjhKaEU0cTdBSWFX?oc=5",
+   "time": "2026-10-12T20:30+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "電價、碳費雙重挑戰！華城綠能亮相2026台灣國際智慧能源週- 商情",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1DUjlJVVVITTJuQUtJUkRiWlhLSHZUNHBfSl9WV0lUQ3RRekttYWpBTktFR3l5U2ZRbUZIaHI0MzhiYlE0TmVDY3RSTmhndzFGeFN4LWtDWmZkUVZOM25N?oc=5",
+   "time": "2026-10-12T19:59+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI時代電力成戰略資源！2026能源週聚焦供電挑戰，儲能與智慧管理為何關鍵？",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeHZVZGNZMzk3dU1oa09waXlxa1FUekpxdFdpOEstelZsdFNSby1PTFF5c21XSzlzOUc1QkNERlBGRXVGdklLdC1QNkN3ZEFzMFdscU1GLWJSdXZfTTRaN1MxRVJVTTM4UkFreXVsT2FjZzByMnNSYm54dFFPcVFTSUhTNA?oc=5",
+   "time": "2026-10-12T16:44+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "碳排放交易制度要來了 彭啓明：台灣減碳成敗影響全球AI供應鏈淨零，台版ETS「一定要成功」",
+   "source": "CSRone 永續智庫",
+   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5IUGZGR3hJeFF3Z3dWU3F1RFFPNG51aVRYdENidjZCN050bjNGV083RTFuX2hiZjlzblFpWm50X3V4M0k?oc=5",
+   "time": "2026-10-09T15:00+08:00",
+   "category": "carbon",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Data centers' 'flexible' power usage could save the grid billions. Can they scale?",
+   "source": "Reuters",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZFlHUmY3dFNOSDEtZ1c3ajk4WjBoemNnTDRycHZzZjA4LXRyWUFkcmhNakpULW9JejN5bGVQcmpLZUNhZXYwTUROUXJGRk1RdG91b2JORGlQLUVkdDUwaGxOWm5TQ0JZekg4bzNoMjVoNTVsWTNiNHliOEpnVWU3cWVqcEN2YzVKUXJIZ0hSMk5UdUpsNkEzbUV0dmtNRm9QSzh6TTJ0MUdtSVRlMkRjY0pORHROQWUwVkpDclFuLTNaOE0?oc=5",
+   "time": "2026-10-08T15:00+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI推動電力架構革新！白皮書揭資料中心用電趨勢，聚焦800V DC、資安風險【分析】",
+   "source": "Reccessary",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TQzB1NGdoN3EzRkdTY1Fib1owU2RBS3FWN1VsWWtUbnBFQjJyZWxON0tpMjJhb05saTZ5aUtOS25iLXFuQV9CQTl6a2ZLMU1PZ3hWM2FzTl9nYlpfR2dzVzFRd1Y2dzZncURJVS1IblQzVDdhZ3ZpMA?oc=5",
+   "time": "2026-10-06T11:37+08:00",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null

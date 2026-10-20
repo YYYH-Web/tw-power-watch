@@ -1,17 +1,17 @@
 {
  "months": {
   "2026-10": {
-   "samples": 15,
+   "samples": 16,
    "sum_gen_mw": {
-    "gas": 232600.9,
-    "coal": 121546.3,
-    "cogen": 20059.3,
-    "solar": 26279.2,
-    "wind_onshore": 2236.6,
-    "wind_offshore": 283.4,
-    "hydro": 7102.5,
+    "gas": 245514.9,
+    "coal": 129598.8,
+    "cogen": 21881.9,
+    "solar": 28324.4,
+    "wind_onshore": 2732.2,
+    "wind_offshore": 302.3,
+    "hydro": 7355.3,
     "storage": 4525.8,
-    "other_re": 563.6
+    "other_re": 602.1
    },
    "cap_mw": {
     "gas": 22308.0,
@@ -24,7 +24,7 @@
     "storage": 3460.4,
     "other_re": 68.0
    },
-   "last_sample": "2026-10-21 04:30"
+   "last_sample": "2026-10-21 07:40"
   }
  }
 }

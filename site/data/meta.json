@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22T22:09:06+08:00",
+ "updated": "2026-10-22T23:19:57+08:00",
  "sources": {
   "capacity_annual": {
    "last_attempt": "2026-10-18T13:52:17+08:00",
@@ -30,10 +30,10 @@
    "rows": 9
   },
   "realtime": {
-   "last_attempt": "2026-10-22T18:13:30+08:00",
+   "last_attempt": "2026-10-22T23:19:57+08:00",
    "ok": true,
    "message": "",
-   "last_success": "2026-10-22T18:13:30+08:00",
+   "last_success": "2026-10-22T23:19:57+08:00",
    "rows": 150
   },
   "news": {

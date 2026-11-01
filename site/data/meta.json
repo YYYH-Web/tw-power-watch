@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:12:48+08:00",
+ "updated": "2026-11-01T15:37:46+08:00",
  "sources": {
   "capacity_annual": {
    "last_attempt": "2026-10-18T13:52:17+08:00",
@@ -30,9 +30,9 @@
    "rows": 9
   },
   "realtime": {
-   "last_attempt": "2026-11-01T09:12:48+08:00",
-   "ok": true,
-   "message": "",
+   "last_attempt": "2026-11-01T15:37:46+08:00",
+   "ok": false,
+   "message": "service.taipower.com.tw: HTTPSConnectionPool(host='service.taipower.com.tw', port=443): Max retries exceeded with url: /data/opendata/apply/file/d006001/001.json (Caused by NameResolutionError(\"HTTPSConnection(host='service.taipower.com.tw', port=443): Failed to resolve 'service.taipower.com.tw' ([E",
    "last_success": "2026-11-01T09:12:48+08:00",
    "rows": 150
   },

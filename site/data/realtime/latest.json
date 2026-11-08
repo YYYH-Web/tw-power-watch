@@ -1,73 +1,59 @@
 {
- "updated": "2026-11-09T03:44:54+08:00",
+ "updated": "2026-11-09T07:44:33+08:00",
  "source": {
   "name": "台灣電力公司｜各機組發電量即時資訊（含外購電力）",
   "url": "https://data.gov.tw/dataset/8931"
  },
- "time": "2026-11-09 03:30",
+ "time": "2026-11-09 07:30",
  "units": 150,
  "by_fuel": {
   "gas": {
    "cap_mw": 23606.2,
-   "gen_mw": 10524.2,
+   "gen_mw": 10616.0,
    "units": 37
   },
   "coal": {
    "cap_mw": 10258.6,
-   "gen_mw": 6523.4,
+   "gen_mw": 7837.3,
    "units": 16
   },
   "cogen": {
    "cap_mw": 627.3,
-   "gen_mw": 534.0,
+   "gen_mw": 1070.0,
    "units": 1
   },
   "solar": {
    "cap_mw": 15466.6,
-   "gen_mw": 0.0,
+   "gen_mw": 1282.3,
    "units": 5
   },
   "wind_onshore": {
    "cap_mw": 3279.4,
-   "gen_mw": 2591.3,
+   "gen_mw": 2764.4,
    "units": 21
   },
   "wind_offshore": {
    "cap_mw": 907.7,
-   "gen_mw": 831.3,
+   "gen_mw": 842.6,
    "units": 4
   },
   "hydro": {
    "cap_mw": 2115.7,
-   "gen_mw": 363.2,
+   "gen_mw": 296.5,
    "units": 52
   },
   "storage": {
    "cap_mw": 3465.4,
-   "gen_mw": 146.3,
+   "gen_mw": 0.0,
    "units": 11
   },
   "other_re": {
    "cap_mw": 68.0,
-   "gen_mw": 38.0,
+   "gen_mw": 36.0,
    "units": 3
   }
  },
  "history": [
-  {
-   "time": "2026-10-28 02:30",
-   "gen": {
-    "gas": 11620.6,
-    "coal": 7501.7,
-    "cogen": 545.7,
-    "solar": 0.0,
-    "wind_onshore": 1966.2,
-    "wind_offshore": 764.7,
-    "hydro": 508.3,
-    "storage": 141.3,
-    "other_re": 38.9
-   }
-  },
   {
    "time": "2026-10-28 06:50",
    "gen": {
@@ -724,6 +710,20 @@
     "hydro": 363.2,
     "storage": 146.3,
     "other_re": 38.0
+   }
+  },
+  {
+   "time": "2026-11-09 07:30",
+   "gen": {
+    "gas": 10616.0,
+    "coal": 7837.3,
+    "cogen": 1070.0,
+    "solar": 1282.3,
+    "wind_onshore": 2764.4,
+    "wind_offshore": 842.6,
+    "hydro": 296.5,
+    "storage": 0.0,
+    "other_re": 36.0
    }
   }
  ]

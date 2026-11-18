@@ -1,6 +1,426 @@
 {
- "updated": "2026-11-18T11:21:51+08:00",
+ "updated": "2026-11-19T01:38:25+08:00",
  "items": [
+  {
+   "title": "歐洲綠電面臨輸電瓶頸，歐盟推動電網審批改革 | 科技新報",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBLUFh1Q0RjUW41MVZVYm5oX0hkTFpJYmpEbnNva2ZrZHh6Ny1WYmMxMndlQ3dYaG8ycHZXNmFuaWR1S1FodjNaVXFCNHlxQWxRU3dYYWV3?oc=5",
+   "time": "2026-11-19T01:24+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "The Most Powerful Data Centers Use as Much Electricity as an Entire State",
+   "source": "National Geographic",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU3p4ZG5EZ2RjZHlYRE0tM0FxTDEtcXpIQ1NiaVpQVm1FTmtIa1RKckJqdTd3V2pzVkE3YzZGSkhqTlhLTzNGb0lOem5ubkYxdVQ2N2xjS2E3T0Zncl9tNVNEQU1zUmQtUUI0T2QwOFR2cG9BX3ZObkhmcXgydEZkeVlmcS10eTJuUlZXcWJR?oc=5",
+   "time": "2026-11-19T01:01+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "特斯拉從儲能跨向供電 Powercore瞄準AI資料中心",
+   "source": "優分析 UAnalyze",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1KMjVsS2dpRFZudEREUVZ0ZC11STYwbjI2SVZMMkZ4NkRIdHRucGxJMVNMTVdjWVcyaFVFSGNzXzNCU1dLbk1kRFVCRy1hU3hmNTJDVV93?oc=5",
+   "time": "2026-11-19T00:53+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "US Hyperscale Data Centers Used 82TWh of Electricity in a Single Year",
+   "source": "ExtremeTech",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPc0dFT3IxX0VTc2N0dW9KRmxhc2ZISVZGejVjMjZQOVZOS1JzYmpFY0dRUWVONzZlbG0xanJ6eVVkTUlGa3E5RHZUelNab210WjNZaEtveFZ3SXIyTTc3dHlFckh6YVIxbnJkcW1odm9qbTFmOGxtR0x1aVl3NkNKV2RPYUlRWmFkYmJFNDV6cVlOZXduekN3U2hqRFdQLVZpWDVBVUJLUQ?oc=5",
+   "time": "2026-11-19T00:45+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "選舉前電價凍漲的代價曝光？台電「巨大錢坑」藏不住 呼籲立委點頭預算撥補",
+   "source": "FTNN",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9JU0pYZmZ1UEVqX3ZaeEVGMUxCS2VFVElmQjZCRmVPQ0loVDlLWTdRc3hZWTJpQ0J0aTF1TEwtQkh4VHZSYXRJbVdUNA?oc=5",
+   "time": "2026-11-19T00:37+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "The grid will fall short of AI’s power needs. These 6 resources can close the gap.",
+   "source": "Utility Dive",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDVhUzdPNF9BQkhBYnB2ME95VnJaYlc0TFFtWk5TVlJEdDVBOGZuRHE3bHczU1FFaWMzd29hVnJNdnM3TXpBZTc2UXNnMml1dEc1aUhaSTBucVoyRUVQZW9mNWlEcFB1MGFrcHhlY1ZpR0hxcEYzbEZPb3hlZWVMWWZVRnA5bDVPY2N4QTBDc2VzWWtQenJtTVJCV0UwNkh3b2tKR3huQXlfZzItb2RZ?oc=5",
+   "time": "2026-11-18T23:59+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Spiky AI Loads Are Forcing a Rethink of Data Center Power",
+   "source": "POWER Magazine",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQWEtMWFZzWnFCdWpiWENxeV8xM3lUUHh0dkZPX21QUGFlOTlRTDBaWEtGM1piUzVyaUhFbElpVFlqM2ljc0s5VTBSakwxUUpORTY4NUVsSmRBc3lJX1JxdjEyZi0tWmp2TnhrTk81RGhacm1WTDA5S3E0OVRDS2ZmU0gwZHRTOE1ySEFn?oc=5",
+   "time": "2026-11-18T23:36+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "華榮搶電網升級商機",
+   "source": "經濟日報",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JX1JaZ09MREZMY0ZFRkFpSXRfamhvdkl3RDNpVDRIOFoxd2xLLVhQLXhtUkJMOEc4ajlKNTRtMUxWLXZmNmxiYWd6Qk9CZ3pyNWFrc3lPMmZ2QdIBX0FVX3lxTFBnUDNZR0ZsUVV5YXA1VFlZNHlpc2E3VW1lZFdLSXoycUI3aWd6OG5vNFZXenJTM2VrX0lfWHBpMmo4eUNBTWJFQmtLSEpIM3Q2eW44VTJ6dlFHTGJuNTNR?oc=5",
+   "time": "2026-11-18T23:19+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Gas-fired power plants for data centers in Millersport and Ashville up for consideration at Thursday meeting",
+   "source": "The Reporting Project",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcEZITHp6U3hmYjljV01aSUFtb0dzQlJFcE42aGlFTnloQVk3eUVWdnRnNk9qbUR5U0k1MTA0LTlRRTdGU2Z3Vlo5dkN0bTg2ekJGckIzTFpUc0dGdk5HU0d4M0pqM25BSVliYzF4ZkRaeE41SXJJNlB3VW5meVQzYWd5YUlTS3RpZW9JbFlyY2d1eUhZd1lYSVdJc3RiVXQ5WnNmdDhkM3FiX08tV1ZYdDA2aDdMWXlXVzI1N09DY2FGbW9RQzItUkZ2WFBOSlNHc3dTZDEzRnoxc3M5alE?oc=5",
+   "time": "2026-11-18T23:19+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Magnitude of U.S. data center pollution estimated as climate talks address AI",
+   "source": "Los Angeles Times",
+   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNd1JpNXNIaXNxOVU0MjA1cHBWLTVsSGNMM09Td1lFVjFGQTdGblNzUklEV0piOUhGRFZ5VTNZcTd1YjZrUXd6Zml6dE1UMWV4TmVOcEs5aml6cWpjU0c4c25abVp0ekp3MEFmMVdNTzA0c0hvcjNDQTRSRzNjNVpUX2ZXU3JMTVVfaUVobHRBb1NhekhzMkpoMGFHd3VDUHRUckhRTGtNWC16dk4xb2pRSVNNdmRSMUlMQmVkVW1pcmx0WUc4UWowRA?oc=5",
+   "time": "2026-11-18T23:00+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "傳承百年電業文化！台電連2屆獲「ESG for Culture影響力獎",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQN0NuOW9uV0s0SHRVUkduNEFTbjhTbXpidFNlRXFUNFFqWFktYnpVRjF4SzBZQjhrOWVUQ0JHUXhwbllDS3d4Y1B4dWdzOEZTVjYweXB5bHE4T253U0NjYUlpRm80QWhfX2pBSlR2eDJsdVFLdldKQVV5clF0bFhnRWJvckt5WnBBdTVzOGgyTnczbDdORnpTbk9EejA0eTgzbm5kek1HQ3lHMk1LQlI2MDVOV1BUaVI2V0FzaGlmdl9Zc0hFTTFMYmRLaWp3UDhzR2RJSEV2NEhpemQ4Y3NPdDNyM1NTbk9EY3V5QWlkay1qVUVVR0YwQlNWdVBzQWgyU2ZCSkszdXhYWGhnZUs0SHFJRnU5dDVsWXhtUUZKNm9RcXZrVTJUMGZaOGE1RXltdFE?oc=5",
+   "time": "2026-11-18T18:56+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "歐洲商會直言：台灣綠能發展受政治內鬥阻礙 應去政治化",
+   "source": "自由時報",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NTTZmQ1F2MGZMX0hvYXJmanQyZEIyeU1tRU9qNW03V0VYdEVib3lnWmVFbzg1M1dYblhyRDl5ejhEMllVTWQ3ZzhyNnk5RXI2RFNNSmhWcFU?oc=5",
+   "time": "2026-11-18T18:17+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "把廠商當提款機！台電經理狂吞455萬回扣「月領3萬」下場曝| 社會",
+   "source": "三立新聞網SETN.com",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMcW5ZM2kwVEVCajZIMEpBd0NkQVkyTUVHWExDbjFzVUVfY1lhVUdvRUdvdHJrQ1ZCU01Sb0JaTGVmUm0xTFpaYg?oc=5",
+   "time": "2026-11-18T18:16+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "神馬電力(603530.SH)：子公司與國家電網巴西控股公司下屬項目公司簽署銷售合同",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3V1A2M3pnYng0SWpPYXg0ZUNSVGhveDA3TWxuREw3TVh1V3U1MjBSQUc4eXNPX0k4Zy1rOUFrUFJ5OV9uX3AzN29uRk43VVNNSXdKVEJEamc5a01sV29aZFFpb0xIWWhzYkE?oc=5",
+   "time": "2026-11-18T17:39+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Google簽全球首筆超高溫岩石地熱合約 最快2030年供電資料中心",
+   "source": "商傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxOTXgxUXN3ZkRIYkFtSHpvVUhRUVFrcE1YbV83a1NJZEc2aThpRXdoRkR2cnFCZHdXODQ4amlKYmhhRVdTc2VlUG1Eem5KTkNSeFBUZG01cGhhWTNaeUt1N0txZlBtUU5jMlJjaHVGNlEyR1B1MXB5aVFFdXROaGdXeDkxdFltbU5BbDlaaTF4Mjlwek9kM1I2T25HV0FxaHgycmc2RjM3cFNzckJHLVBWUjZYdFBlWU4wZlNDQTdic2p1RmxKTDlxczlEUkJTYU1QY0RaM0ZRWU8xelI3LVdZQUg4LTloanpLOHoyTW5qNlV2UXZDUmR3WmRHSTdCUjFpT1phR0NjMWtORHAyd3pCWkF5Rlg2MVZsM0phOElvU2kyQ1IyalVUX0dhWEx4ZnJKV1BlVVdPSjM5ZlJaTTU0dWs4Z3FkT1RxQVhxWmJJMER4c0pFX0dSM0E3N0RLWU5LbVM3ZVp0SHhjMkFuNFRJSUpuWXk2TWdyZlcyN3c2dWNyNUtPVEVhYg?oc=5",
+   "time": "2026-11-18T17:08+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "海龍離岸風電預計下季商轉兆豐銀共同主辦聯貸案- 新聞",
+   "source": "MoneyDJ",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPTFV4TUpzOUw4ODlKbGFDVE1UcnlsS0x3Vm94UHNHSmhfZjRKMUZ0azd0SmZGcnpXR3c2SkVmR18yUkd1MlpVbXk5Q09uM1JidjltdURDV3V0N0lIRmlUYXNRVlltZUJraDZhandxTjJaRDdQMEZzamQ2ZElEYVk5bVQ0REJZbHZNa3FaSWxXSHlpQQ?oc=5",
+   "time": "2026-11-18T17:04+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "PA consumer advocate challenges PPL over data center costs",
+   "source": "Spotlight PA",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMnpIVWh1dHFsNC10LTdxdWR0dmpvQVVXQVVQbmg0WWVMSXZmR1V0RWxZU1hfYTNXOTBya1pWOWxJSXFlSTYyQnBQS3BOVnZLR1hUMGVxaDZ1WG90QTRKVFhQU3ZPZ0ZidmdLUjA0M0hQT1NyTXZCcmx2S2l4SkxKeXVITnc2RGVmNjBROVB0a0dMMTZOdjBMbjFZWQ?oc=5",
+   "time": "2026-11-18T17:00+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能攜立碁電子強化供電韌性簽合作協議擴大微電網布局| 產業",
+   "source": "太報 TaiSounds",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DZUxIUW1LQ1RwQjJ5T2ZjUGZfYmJoNjh4T3d6T0g4V3BOQnh5dF9CTHZvdUxET2hqWTUzdHpLZlVHSjVmLUZ5MVZ4ZVJGTlRpaU13TW5lSC1zeXU5?oc=5",
+   "time": "2026-11-18T16:51+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "歐洲AI算力要“抱團”：五家企業合作，北歐四國將建超級工廠",
+   "source": "鉅亨號",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBVMU9vLVVzVzhtQUM0cHoyelltVUJzME0xVkNiVE5JYU93TG5fNFlyY1kzcVF2dnJXRnR4bnVYZURySjFqV3BGdQ?oc=5",
+   "time": "2026-11-18T16:35+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "美電網變壓器拉警報 交期逾兩年恐卡死資料中心擴建",
+   "source": "商傳媒",
+   "url": "https://news.google.com/rss/articles/CBMiiANBVV95cUxNRWgzNXJNUWhHUW5Tb1dSZU83T0xmUlFXanM2bVVfQUpGLVJNVHg1UE9HcmdRSkR6Y2VsUU9fNEJLcEFsNUFrYXA1ck14NkdISG1Od1BOMEJMc0Fvb05oVHVabDN3WnF3cUJlUEpvamtxSjR1NVMtaXhrZ3pZV0V4dldUYWp6U2FteFVXNlhQRy1pTW9XUm5IYXF5LWNFdldMMG8zNmtWTHpNYWJQNUE3Z2FEam4xM19yYWRFZEhBeXJvM3ZLRzkzN3J5SE1nWVoydFZIMFJKUGs3UDBZUGcxNTdwZU9hM1g4NUZZbkZEWEhpYVNlQ3ZXRk4zTDNXRUVhOFZGLU5rV1U5Q003c0g1c040N3VNQTdIYkxIeEl1Tmlydlhob0tqaWF5d05fb04tM2xRRVkydlM0NV9PdkR6U09mc1IzVm9jNnhoTWthUUtwbHFqay1LdFpVUU5NR2Exb0xaQWVMWFNPM21jUzRzWG4wVTRwMi1vUkdUT3lzd1M2aHpNWmhxbA?oc=5",
+   "time": "2026-11-18T16:32+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台電深耕電業文化資產保存，連續兩屆獲 ESG for Culture 影響力獎",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNX3lMUEVBRHp6QURDSTQ0WHFaU3I5VXhad0ZxSzRfVGRRZDMyT29VVlIyal9HTldBYzRoNFdnV1Y3UkJCYWlQS1JWS2R2MFlJNDhmSkd0Z1hkSTU3Qk44Z3BmbmhCZGlPdDk0NzdWNE0zY2x6ZEZWS1lITktMb052Nnd4V0FvUTRYVWc5RzVOUnRzbWxob1BZOFk1RWRGNXBzSVhybUt1c1J4RHR0V3FpcVRhNlpiQ1lXYWF0NUo0ZmhOUkk?oc=5",
+   "time": "2026-11-18T15:31+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Data centers need power – lower income, rural residents pay the price",
+   "source": "Technology Org",
+   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNQ1AzSWlYRXc2RzA3QU1vaXZWeDFNb2Y2NVlYNlhkbkpCYU5wV2lLMUdqUjgxNGFSeG12RXpHS3l5RWs1LXhFcnBWeEpJckJqUlZ3a1d6X2x3b3RKUU45R3JHLWtVOXhMeFV3TzV0M2ZSelFUQzVBcXFtTXJiZ05EbW9DUVRaeVhkcmdYODE1QUV0ZTRXZWFqX2xvMlA5ZWRFQU8zbGN4eFQ?oc=5",
+   "time": "2026-11-18T15:30+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI供電規格升級 獲利大幅跳升",
+   "source": "台灣好新聞",
+   "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOdW5VNVBHcFkwVElrdVU5d1M0MlZUNWp5NG1OdXdCQUc1MTBJWEtZZUlHY3JDbzA0aDYwQWdVNl96bzZ5NVNtUy11dk5pWkczRXVjUkd2MmZqZl9rOERMenNwNWFab2hnUVM1dnhqUUloRlNQZlBDRnBNTmFNM2JqWlRHOWFLSUJ0ZlRhNDlPNWVOSUJMTUlMYlBzaGFKN0NBYTh3Y0NKMzVJNnQ2V2lZSkhWdU91UktCTFZiZHlTeEMtNlJia0tBaU93V0xrZGxNREt3amQwbEV5Q190UktXRHAwYVRwUQ?oc=5",
+   "time": "2026-11-18T15:15+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "南沙太平島微電網正式上線台塑新智能攜手立碁建置- 產業",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE52RHZ5U3hqdzAxanV5bXZtd0NZQ01xdVA3aEJwb1V4OUZvZFdibjhldlFVMVN0bWJPYTBUNXhBVGFMeTJZcmNrbTlubnkxVlVKT28xcUx6bzl1czZibXl3?oc=5",
+   "time": "2026-11-18T15:04+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "WHAT TO KNOW About the Energy Permitting Overhaul Bill Before US Congress",
+   "source": "EnergyNow.com",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONDFNV0c4MjhGTnJ3R0NZRzE4clJGRmZ3QWxDNGhCbTJ2RXJ5c05rSkZUc1dKUEs2NWYwaG1zdUtPMF9JNG5Dc0lxMEpUaTRGaW9VSjg3WnBUc3VJNzF1bEtVNGdsUkZqT05ueHY5Nk9RdWtyamtxOXRZRmJwemk0c3NmSlRMWV9hdWxtZC1hSTNyckpLSEFVZTBwYS1GaXFJXzN1dDJTYw?oc=5",
+   "time": "2026-11-18T14:35+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "前台電經理涉收賄洩漏標案資訊 一審重判10年",
+   "source": "中天新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1LZnhuVVVlbnJQbTlSRHhFcFJaaWZiaXlScjBSam9YYnRveW05WFRVaUYzVGtZU1djYUl4eG5Bd0lfeU1PWjRiak5DakxpU0s2V3Rj?oc=5",
+   "time": "2026-11-18T14:30+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "亞太最大離岸風電拼明年Q1商轉！兆豐銀共同主辦海龍風場550億增額聯貸案",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oZDF6Ynk0NkNZRWJRajBiZTYyaXhuSnBiTm1BWDgyeHFnZHhrbkZPa1ZyNnJwamE1aTd0MUFWOHNmRGRDN2VRbXRnNy1kYTA?oc=5",
+   "time": "2026-11-18T14:25+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能簽署合作協議攜手立碁推動台灣微電網建置-財經焦點情報站",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNd0lWV0d0cHFsOHo2WFAtU3pubFhWeXpyZWZUOGtSb21sOVZwTzk4b21rbFF4X1oxbUpkRXZ4OElXOWQ0S1VyX0J2VXdQQ3FmcGk1eFpzekQ4NzRuelhNdHRERWFIUVFXRDd5WUxQaU5wLVg4dEhvQVdpR19Gd01fUDJR?oc=5",
+   "time": "2026-11-18T14:24+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "光電板滋生藍綠菌 能源署：台灣條件不同、不宜類推",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93SXRzTEpNMy1sd2FCeEdSMnhKdnY1NHNpdnNya3dxYk1OSmZYR1Rxc3hkVEhkMWQ1Mm90YW0wNHN4VVFPaG5uaVlpSmRrUVg3NFc3OVZaV3JzMHJRa3Y00gFkQVVfeXFMT1Y2VkNUSGZzbGd4RGdnLWRrQlU4NVB2Q3VuTTRwZ0p0OXdGdmM4ZW5uN0tDWk1rdUpPc0lWMG1CM0V4QnJyVTI4dHE3TTlSSV9mWlAwNUFXQkd4VGNsb1YyVkNmMw?oc=5",
+   "time": "2026-11-18T14:04+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "周五決戰台電補貼、中油增資追加預算案 經濟部籲：別刪",
+   "source": "UDN",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9kSlB4MzJfc1pHYS1DNWRzOEF6dWNObWVvbnZFME5rMlNkbnRCYWFha1pfOERGSWQtd1lWTjk2OVItaENYdnNtMVFlbjV5RnZB0gFWQVVfeXFMUGhaOTAtdjZ4cDVaNTl2V1U1SnRYbkNXTl9CRkFTZDVRa3NhTENhVUdDRnItWmRHMDZNM2tMdkswcHZVQnJNSmtiZExpNWJEajk4bmEwX2c?oc=5",
+   "time": "2026-11-18T14:02+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能導入防災微電網！結盟立碁成功複製到太平島挺住區域供電",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5GbkZnVUhkaXNMaC1NVEcxNXFKeHE3bm1vUVBPN2ZNZnBXV1Mwd0RnUFlncEU0TUFSYTZQYTJpSWZZQV9mNGtfNmNmeFRSeURjYkdPbUpjem1aeHlzUE50a1Q3TnZzbWNQM3pzOEN6c0RzT0Y1SjFNQg?oc=5",
+   "time": "2026-11-18T13:32+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Electricity Demand in the Era of AI and the Future of Energy｜Hitachi",
+   "source": "Hitachi Global",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBNTHR3Z0lwdEdHRHJhbWJkMnViUmlTWndJLXMxNWZlZFNQLWlaOTM2Z2RsVU9jX3FzU05sMWFzb3l6ZFQ2N0VrTlhzLTMwdmtfMGZVY08tbDdzenJsbHh4bTQ0V3JNRlJBVzdyRnV2WHA1YTVFYnIwV09R?oc=5",
+   "time": "2026-11-18T13:32+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "以色列電力局：明年起大幅削減屋頂太陽能板發電收購價格",
+   "source": "台視全球資訊網",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQS043cHlGaUJ3c2x4bjhYVWZpNUdYT3NoYjNCUFBQTVpmMmU4N2JDMXVoYmI1TEpnWDZkUFlhaDNoaDc1aHpoVmxRRVhkRzhjOGdOeENfRG5zaHhwWlkxVlRvTEk4MmMzelVaZlMtYllYQUJ5aldhSzFXVzRndVJVcktYMl9CWkNobGpxYmlucDBQdw?oc=5",
+   "time": "2026-11-18T13:02+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "廢非核公投意見會／洪毓祥推以核養綠提升能源韌性 王守誠：應正視台灣地質風險",
+   "source": "公視新聞",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOWpsamNQUTRud1FVZ1I2VjlMaFFvTExIWEFhWEI0MDZCV00zRzVjTmxNNmt3R3VycVpjQXVWZ3FaVUxUQVAwVXN0T0VNUFE?oc=5",
+   "time": "2026-11-18T12:55+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "日本主權AI國家隊加速成形！重工、電力與雲端業者跨界結盟，三菱重工攜手櫻花網路布局AI資料中心",
+   "source": "優分析 UAnalyze",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0yZGM4Z3gtYTNndGFGTWxsR0l3ZXlSd0lQUDg1YUxTMHNHOF9WUWFKU3NySjRER2RlZjYwdExPMDNQRFdTMlFsVDY1d0dIVldwWjZGQjBR?oc=5",
+   "time": "2026-11-18T12:25+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能攜手立碁電子強化區域供電韌性、微電網布局- 產業",
+   "source": "工商時報",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ZbXBULVdRcF84clNsZ1VmaG45YTVPanVHLW9TQ2FxRm1kREg0MGh0dDRlYklmaVpiYVB0czZ4dVptOXktREVnX0dqeE45SVNERkxEX0c2NjBHOXh5dzl3?oc=5",
+   "time": "2026-11-18T12:15+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能攜立碁搶攻微電網市場 從離島供電擴大防災佈局",
+   "source": "NOWnews今日新聞",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBYMVUwUnJ4MFEyZ19ESEt0MFkyZ3otTFR1cXBKcHVuUXFYMUdhVnJJUnU4ZVJQbDlnYWhxRG42Q1ZyY0pTLUQ3ekpKWkLSAVJBVV95cUxOenZ4WTlRUnFiaFI5ZWFNNjlfWUhLSGp5cEtqVldfcV9XNEh0bHRzb1FWenNlWUl0enNtZnJ3aC1JelRjU3RFZENRbzN3UWY4aEVn?oc=5",
+   "time": "2026-11-18T12:09+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "明陽電氣(301291.SZ)：海外業務覆蓋數據中心、電網、新能源等多元下游場景",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBKT0IyaGJQeWVfdnFCX2FFWXotODI1eFMtcnhyZFBJRGRnZVhRMnFLb1hVbG02QTNEeXZnemxSNG80TWFfZTRIMk1Xems5dTZlSnZ6ajRQZ0h5UnFsZFVJUFBBOWJxT2tsd0E?oc=5",
+   "time": "2026-11-18T12:07+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "AI算力推升供電需求 大聯大世平攜手安森美布局高效率電源解決方案",
+   "source": "DIGITIMES",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOEprUllfN0FiY3BFcGc2N0ZMeVQteVdWNG53UU1rVWg4N1I4U1RLX19qSFBGNnZEaURKRHJtOTR0OUpWci0yaUlWS21aOExqVDR4bWZHVjEtWDM4V1lGenJaU0hUTnBFQm51MVlxNHh2eWN4alk1U3g4eXJEUUd3NEFMVFpTaHFWcGxyMHhzV0RUemY1bERZQ2wxQlRxTTR3U0VJ?oc=5",
+   "time": "2026-11-18T11:59+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能攜手立碁電子共推台灣微電網建置| 產經",
+   "source": "中央社 CNA",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9aNTliNVNvSUtXNWpWM092dEJiSFZCN1ExRmVmT2R3Tk1KY252UW92eE9oWVhnMEplem1YUmE2OFp2dmFwX1I2Q0NrZjRRbldTV0h1clhzRVdfeF9GTUE?oc=5",
+   "time": "2026-11-18T11:50+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台塑新智能攜手立碁強化供電韌性 擴大全台微電網布局建置",
+   "source": "鉅亨網",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50X1lGcVRQSTBucXM1dDlLUkVMaXRtWXd1X1NjYTFTdjd3NU1yYlR5eHJjeTNjNk8waUlJSjd4ZnM0NDVuRkpnTi1WWjRYb1E?oc=5",
+   "time": "2026-11-18T11:20+08:00",
+   "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "NC approves Duke Energy rate hikes, new rules for data centers",
+   "source": "WRAL",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGNBcHduSGdtMGJhbEdSc1NUWHkyX21TWERGREFzVDZVVEtkUy1mdUp2ODBucWpZd0dqTlBIRXdrbnhLSkJ2SUVuSm1RRzVtbkNlTGZCcWh2ajhZenZ1ak5KUTZEVVZnVTI5Z0Q3UDlLQTdZRUFoRm9UUk1xTXFKNXZ5TkQ4MmdoMnJzdS1jZ2ExT0VpUmQxdmFrR3FocEFLV2pIV3NQTm43LThO?oc=5",
+   "time": "2026-11-18T11:15+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
   {
    "title": "台塑新智能攜手立碁電 深化台灣微電網布局",
    "source": "聚財網",
@@ -16,7 +436,7 @@
    "source": "TVBS新聞網",
    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5CeGJnMWE0aVhGa1hTSzlLbFJyODdGb25aVGxEc0tFbGdpakFraVNiZ3ZIMUdtUWpYWW5DeVYwNkR6NjF1Ukp1c21IM0hQQQ?oc=5",
    "time": "2026-11-18T11:00+08:00",
-   "category": "power",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -76,7 +496,7 @@
    "source": "觀傳媒",
    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBtQi1lVG5XaFZiaGEzR2NYUkJFdWE0akZWS1cxZHp4TjNJNVZOaWdKV0ktZnlzeHlxcFNmLXlWcDRpMkR6QjI5aHFJMFBMWDlpbmFlUy1JMA?oc=5",
    "time": "2026-11-18T09:51+08:00",
-   "category": "power",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -108,6 +528,16 @@
    "time": "2026-11-18T09:00+08:00",
    "category": "power",
    "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Data centers, not homeowners, will pay for Pacific Power upgrades under new order",
+   "source": "Central Oregon Daily",
+   "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNUlVraEtudndlOE4wQ01tbDg5Ni1zTy01bGNpU1dfQWFPSm94SVZSS0I1TUdyRDgtc3pqYnpCdjNVNHhxVWRZV05tUUJiVUJibTZtMlFlQ3pkZEhLc2NQSUtsa3NObnVvcDg3QTNWR0tZRUJmN1U1VGxyOF9fRDVxME9yLTJEdl9qQWlIck9FVjYzaGJiWVg4a0pUYzN0RldUa3pUX1ZGYUJ2SjVEWkpsLVpNT3ZVNmgyeFJiaTU3V0RFamNlUk0tcWJxd3RaeEFBNkNMN1FNQWZ6ZUE5ck1aR21wQlVIWWJPb0N6WU9JOFd4VHQzMlVWWXloNmpLZw?oc=5",
+   "time": "2026-11-18T09:00+08:00",
+   "category": "intl",
+   "lang": "en",
    "summary": "",
    "image": null
   },
@@ -162,6 +592,16 @@
    "image": null
   },
   {
+   "title": "回檔 15%，009827 從 AI 晶片到電力、太空衛星，全球算力 ETF 能撿嗎-股人阿勳",
+   "source": "CMoney投資網誌",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZTQxVnRCUzNId1NEN2NMLTl3dldyUHl0enh4d3VXUko1d0xIdG9USWFDcEVmYnptdGR5Q3pfbTFIM0JsenhSNW5va0Q0WlY4S2I0UTYyZE8tZnhHcHRSLWhxVHotNUJUcWlwdi0tbldoMmtFQWtKNXljekYwRVFSS1JKZ1g3QQ?oc=5",
+   "time": "2026-11-18T08:24+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "獨》台電分手5.5元高價風電 省下440億元全民受惠",
    "source": "中時新聞網",
    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5FaTB6SjVhMEwyZjMyUWJwelYxVlZXNFU3ZHRKcVpMMVUycEpvSHJtWnJaOFFlVXZMZWJWcHdUS204eDVfWWl3aVpuVGlFT0k3bXVKaElUWFRZb1l6eHNHRUFpTTZISGhSU3FlcDB3?oc=5",
@@ -192,6 +632,16 @@
    "image": null
   },
   {
+   "title": "Study reveals energy demands and emissions of America's data centers",
+   "source": "PBS",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdnFsZWtDekFsdEIwcmI5TmNRWlhET2RMb3RwR3ptSkM3akxNVXR3a25fM3hsOUk0bzRveGRiU3hvSVU3QzJyb09CZEQ5dXM3NjVFRVpwbTNHakNENXRGclpwVzJFMEhadUdPWkI1WHBBMUhsaTJ5SXhKSVgxVFJLVlVPTlhMakp6aVhUSlRiR3RsWEdnYjBFQXljMmFEbURyc2Zr?oc=5",
+   "time": "2026-11-18T07:30+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "Only 11% of the Power Plants Vistra Just Bought Are in Texas. Here's Why That Matters After the Election.",
    "source": "Yahoo Finance",
    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYV9KQWQwX2tZcEk5RmNwZ01GLURDOVhQd081bVF3a1JkcDdtYUE1VnhoeW9tYVVUa0h0Yy1kTmROcGtmNHMzYURYU3M1a180MkZBWV8yQnJwZzVnWm14RzlkeGpGVVptRUJqc3VfckJVZ1p5cWgwVU5xZFJYNlVURnAzRl8zMi16eUQzdw?oc=5",
@@ -202,19 +652,19 @@
    "image": null
   },
   {
-   "title": "預算攻防專題／立院恐減中油、台電4千億撥補？台經院長揭背後代價：掀起連鎖漲價潮",
-   "source": "鏡週刊Mirror Media",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oeGhpQ3JzbjJsYTBUc2V5VE9hcWp4VzVId1gyczk4c2dOM1k0bGNNMENyMmJXTk5pUkNGcldGaWJhOGlsOVlTcVFvcWdJUGtHdFlaRlNQY2duQlk?oc=5",
+   "title": "獨家》台積電一年狂掃逾70億度離岸風電 地板價5.5元也買進",
+   "source": "自由財經",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MSEZqbmRidGwzNUVfaGpOSEk1S3p4aGRVMjlfWkJCeTBQU3E2M0NNNW1RaERHVkNZWld1dmctNnFDOUk2Z1FBbG50TjFwelV5YzNyaTZEOFR4TGdNOTdB?oc=5",
    "time": "2026-11-18T07:00+08:00",
-   "category": "power",
+   "category": "renewables",
    "lang": "zh",
    "summary": "",
    "image": null
   },
   {
-   "title": "獨家》台積電一年狂掃逾70億度離岸風電 地板價5.5元也買進",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5HOV94YkgweVR6Yi1HbC1QQ1ZEZEJaR3pqWE04M2E1LVpvYXF5MHp1M1d2dGtwM08xYlpvWFZxUkp6WkZ0bG5QMGNlZnA0ZkVtVWlZUmhLWU8?oc=5",
+   "title": "預算攻防專題／立院恐減中油、台電4千億撥補？台經院長揭背後代價：掀起連鎖漲價潮",
+   "source": "鏡週刊Mirror Media",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oeGhpQ3JzbjJsYTBUc2V5VE9hcWp4VzVId1gyczk4c2dOM1k0bGNNMENyMmJXTk5pUkNGcldGaWJhOGlsOVlTcVFvcWdJUGtHdFlaRlNQY2duQlk?oc=5",
    "time": "2026-11-18T07:00+08:00",
    "category": "power",
    "lang": "zh",
@@ -252,6 +702,16 @@
    "image": null
   },
   {
+   "title": "iKnow",
+   "source": "科技產業資訊室",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5GUjJmY2hIRG5IbHQ0eHc4bTNYcDJFZUVNd2oxTlBQSWM2OVdMdk1GR2tlaVRjcTJOdms2UndLMHBmdjFhMVNlM21MVjAwOXRER2F1X2ZWM2hnUQ?oc=5",
+   "time": "2026-11-18T05:00+08:00",
+   "category": "aidc",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "400 largest U.S. data centers produced more carbon dioxide in a year than Denmark, study finds",
    "source": "PBS",
    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPV0FVUXhSeW1MOW9wWGVKcFRtNHY4djFvY096dTd0bVl5M3BvTkp5WEo3LVJHbTRrS0p3aklOV19LOGJEUjJZQ25HOExyRDd2V25jNG1SMVNfQWF3LUx6WEtCcng5bUIyMVlPYmI0dC14c3hUUHpYQkxQQXdOTDdNRmI2QWRpZjFiZGo1RVB3cDd2SjVRTnBpUnFhZTJKUTRITnMtWTYxVFpPbC1WVE9ESlNwclNfaVc0cDdhZ3drN0VGQjN0aUhR?oc=5",
@@ -268,16 +728,6 @@
    "time": "2026-11-18T04:10+08:00",
    "category": "power",
    "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "NC approves Duke Energy rate hikes, new rules for data centers",
-   "source": "WRAL",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRGNBcHduSGdtMGJhbEdSc1NUWHkyX21TWERGREFzVDZVVEtkUy1mdUp2ODBucWpZd0dqTlBIRXdrbnhLSkJ2SUVuSm1RRzVtbkNlTGZCcWh2ajhZenZ1ak5KUTZEVVZnVTI5Z0Q3UDlLQTdZRUFoRm9UUk1xTXFKNXZ5TkQ4MmdoMnJzdS1jZ2ExT0VpUmQxdmFrR3FocEFLV2pIV3NQTm43LThO?oc=5",
-   "time": "2026-11-18T04:05+08:00",
-   "category": "intl",
-   "lang": "en",
    "summary": "",
    "image": null
   },
@@ -328,6 +778,16 @@
    "time": "2026-11-18T01:21+08:00",
    "category": "intl",
    "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "台灣醫療廢棄物處理轉型低碳 比利時創新技術助攻2050淨零永續",
+   "source": "Yahoo新聞",
+   "url": "https://news.google.com/rss/articles/CBMikgNBVV95cUxOMjhvWTh4Xy1JM3VQckJxN2dicC1XdlQ1eVUzUjM0bmhTWURjb1M3SDNwQ2ZHSmVmMWJfaC1MVFlTWHFxWllZZzBNVXN6Q3gxY0NaMUFRd0d0cHdfaXhaNkhnLUdEOXkyM3dFM2hhOVVpdkRtbEJHa0xiNWlRNHN6UUZxdEJycktMc2Q2bU1CWUR6V1BDdnpZMFU4a0RaT05neXFEQ042WWM5eFU5ZzZOaTRpOEZyUWxPZDRtZWw5emVNRjRTd3JSNGtVM1NST014N2tFX3I2UVozeUVfQTNwZHF2UnBiTlBvRmJ6WndtNmtSY28xdkVrNUFBc284ekMxOWowWGpNaUY3UFJtVzRqQS1DelplN3BzNXl1ZTk5WGQybV9iU2NGT1NkSFFicVU4REI3WG9mQjFJODhnSlpDajRlWkYzNjJzanpHOUlfYVEydjRJRU5jSVdDbHV3WWtUTmNQaDV4ZUlTRDBMLTA5MWtzdWZFYnB5YWdqNnlqQ1Nsd0M5NkF5cnJuR21QSG1BN1E?oc=5",
+   "time": "2026-11-18T01:05+08:00",
+   "category": "carbon",
+   "lang": "zh",
    "summary": "",
    "image": null
   },
@@ -468,6 +928,16 @@
    "time": "2026-11-17T21:28+08:00",
    "category": "intl",
    "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "資料中心避開尖峰用電，一年可省多少電費？美國電網成本分攤引發爭議| 優分析",
+   "source": "LINE TODAY",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43djRBOGRmWV9SZFN1SnYtY1M4bGhZejd0QUotN1BHUFpaZ1ZrSGRZT2RTR0lxVHd3Qjh3Ri1iWDVhTDliZnNYMzItZGdDM3ZyTlpQbEpR?oc=5",
+   "time": "2026-11-17T21:07+08:00",
+   "category": "aidc",
+   "lang": "zh",
    "summary": "",
    "image": null
   },
@@ -656,7 +1126,7 @@
    "source": "財訊",
    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBrNE9fTmhlZExJOXh1VHFWTWtyc0hhTHNGMlRnajBoWkxuMktMN2hlazZxNHUzVVhZTWhnRmR3dWgxd0ZHS0E3YThUMmNscER1R1c4eDJ5SHV1eThXcGtScTJYSGlEQmdBNDJmcER4a01ySDJ6SWtlRm5NSQ?oc=5",
    "time": "2026-11-17T17:47+08:00",
-   "category": "power",
+   "category": "renewables",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -696,7 +1166,7 @@
    "source": "數位時代",
    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXdmNDd4YklYMERBYkt5bDR0VEt3dmI0bGVFMW12OVctaEZTejc4WnVzX3QwS2NoaEJWVFFSaEtCSDFzYTNxQTJ5b09XWnVMekR2WEgxRG1jUDRYQnpfTlFzWjFPZ3IwRHk2Y3pKdWtYV0tMVnJORnZUWk5adFlwQS1R?oc=5",
    "time": "2026-11-17T17:26+08:00",
-   "category": "power",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -792,6 +1262,16 @@
    "image": null
   },
   {
+   "title": "Congress Looks to Charge Data Centers Billions in Sweeping Energy Plan",
+   "source": "The New York Times",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPcUtuUVhUVjkxenZMWnZNQWx1OG9CbF8yT1VyZ1ZFOFJvTGpYSHZvaEVyWmJDWEV3bUNfMkpxOVV2OTczS011UEtkLWFjNDdqODFITVc4T1VFV0wzZy1rNTNkWGhGblVkaW5TcVEtdEkxWDJ6MUE2Y1pCVlRKS2hiNFZpVFhWQXItWFpWVU5QeXh4TFV5dFBLbWl3?oc=5",
+   "time": "2026-11-17T16:00+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "資料中心引爆用電潮 威斯康辛州陷基建監管與高電價難題",
    "source": "商傳媒",
    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOQVJ2X3hROThRcTdBSXZIREJwTnIxd2V2eTVKRnZRWTNFQWZtRGtiWEZDSjZGUFZYd3A4Mmd0ZVpPeGJvOGdUQVNKWWpwZlI0b0VuYnhsdnB4aE9pbjgwZFE2RVk5SlI4dWpHT05kbTFPRFZPcWdId2ZRYlRhTG1pN1piLTdnMXRfNklFVXpoQ2ZtekNWQzhKOEp0VlNKdFNEVmVldlNvc3IwbWRNRDVtR2l1SEhua0hWajN1RWNtUUV0UXVlUTFvOGdETElfMEJVWEpmeERFX1RoT1RPb3pVNHdOSkJvTTA4dlR5M3FXZ3lMNGJtb3N5SVVuTGJJTHYxSUJtbDkwZnhzWktlZlJqLUx1Ym9VclczZGtJblZGT1R0VVpLbVpqYzZrbm1KQ3d2Nk56cy0xLW43LVo3TEpISjVJZW81bjdmUE1jem0tS0V2OVdZSEtvT3pxYVk4eUVYSHBmeHlMOWc4UWEyTFZ5eGZ2U25IblN2cHlHRTNXTWctejNIN0V2QV82YkJsU3RNVi1DMTFaRW4tdWJNUE1jMA?oc=5",
@@ -827,6 +1307,16 @@
    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1Pcy1vZURZMUNPY0l5ZmxTU2tQQjJzSjVscnBLVXkyYlVPc3plYVhoa2pmc2VLaTFEQ0xXd3pJQS1RX2JJOEdUd2dqRUxjWjRqYmfSAVBBVV95cUxNZmVOVEVrVFJpWnhINE9yWGFYdnhNdUg4UlJRbnBILWNlVHNXdi1vYlpvcENlVnB6dFdDWWJvbGNnME4xR0p4ZDVBb1ZWN1ZzUg?oc=5",
    "time": "2026-11-17T15:06+08:00",
    "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "美國超大規模資料中心耗能與碳排驚人，一年排放量直逼丹麥全國",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaGNLcHVSTnhXMjNhbmhwRXNhTXVxVzJ5VlVwTkVURXBTT1pVSDJxUXNxMnRzRWdRMVVTVjh4MDhlZzdwcGNjemNUaWVzMWJQVTJZWktrcUZvbTFsTXh2RnpJbm85aXdReEVDMklJRXdLUzZHSDZoTXpIWVgtVmVEWDFUZ1RQckFQQ2xOMGtJbEtUTjBDQzdCdkpKUjFlc0F3dWFmVDJYSTJjeXpENTBhdnQ5VUNGMWppdDFXMFh3NA?oc=5",
+   "time": "2026-11-17T15:00+08:00",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -927,6 +1417,16 @@
    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAtRDhsMUg5ZlVBR3lzTnJ4SGFINkgtYVZzMXljMmxPTTBHbTc2UFI2Z2NTUG9RMTAxRE95TDdsWjh1YV93TXBZdTNIWGRZcUZCV0U1eWtWU2IyMU8xeDV4djBSd19tbDZsdVE?oc=5",
    "time": "2026-11-17T11:40+08:00",
    "category": "power",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "COP31 AI 減碳承諾遇冷！僅九國簽署，美中未加入",
+   "source": "TechNews 科技新報",
+   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbTFXYms0eDlhRXMxUk00YUZVVUgyS1FxdFg1LWFWb0ZOeTYxbXgzLXhDdV83WEpFUE10N2VPa1M2ckptT2JEcENRT0VHOEFqUDc4aWR6WWI2YzA1djk3ZDVtd1R2VVlrTVJFXzg3NmJJV0t4aXQ4OGRzNjVaOFhJYVFkc0J0M0lhSVh1Rm84Qmw3aE1MaWk0TEtneXlCMHVEQTMtSWszOGhzalcyeGVBcw?oc=5",
+   "time": "2026-11-17T11:32+08:00",
+   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null
@@ -1076,6 +1576,16 @@
    "source": "The Business Times",
    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTm5DZTR5cXYwNnRaTFB4ZUEzS0lINEFZYW55aWpFZlJOTmljUFlVaFhtZjZGODBjQVJabkR3VG9xZGlQQVdzbWhJYWF4Zi1sYmFkdFRCa0xsdDZUWDh3OUE4dUNlSFRBSGdUbklmMDhKLWlNdXprbG1uUlFybmRsbFJaRXdRbkNRdG05OHgtem5jaGRkMU5LcEdMZndCZ000S2E5YlV4LWNwOUkwSXpKaGVHV1FVZWxNRXprcVlON0JuOHRDZ3pmUFBUOVpiUERHRm9sWEJJeW5HeFVTdmJTZm5IOA?oc=5",
    "time": "2026-11-17T08:22+08:00",
+   "category": "intl",
+   "lang": "en",
+   "summary": "",
+   "image": null
+  },
+  {
+   "title": "Assessing the carbon emissions and energy consumption of US hyperscale data centres",
+   "source": "Nature",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TcEd6QjFFZ1pDc19WSVo2R1U5T3pqUlpyeGUxdDFvcGhwRkMwU1hNdG9vY1hiT0VxX2FMQ3BCODhLak1wOXlYeC1MdGs1d1lwZEZDbmJRMkwzZ1NkeU00?oc=5",
+   "time": "2026-11-17T08:18+08:00",
    "category": "intl",
    "lang": "en",
    "summary": "",
@@ -1252,16 +1762,6 @@
    "image": null
   },
   {
-   "title": "Assessing the carbon emissions and energy consumption of US hyperscale data centres",
-   "source": "Nature",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9TcEd6QjFFZ1pDc19WSVo2R1U5T3pqUlpyeGUxdDFvcGhwRkMwU1hNdG9vY1hiT0VxX2FMQ3BCODhLak1wOXlYeC1MdGs1d1lwZEZDbmJRMkwzZ1NkeU00?oc=5",
-   "time": "2026-11-17T03:24+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "央行總裁楊金龍談升息 盯油電價是否大漲",
    "source": "UDN",
    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9XYkFKVGMtcXQtc21fSTRFQXdKS1BSbzhzal9uc1dSMFZEZ1BBdUJDVi1kVHNYZmZBMEdsTkZqRmc0d3VlbTRQRjVYRmdxOWYw0gFWQVVfeXFMUGlsUzJDay1FVVh4XzcyX1diSTdsMkdSVHZMc2l4V2YzbzVqY2FQRjF5YVV3T3dMSzNGN1dtNnlfNTJwOGMtTmQ3Ujl1eVYyd1h4T0Z5OWc?oc=5",
@@ -1372,16 +1872,6 @@
    "image": null
   },
   {
-   "title": "iKnow",
-   "source": "科技產業資訊室",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9QSVVyd1ljOEI2NGNHQXR3aXBWWkpWNE5xdEU1Y1N0R3BpdlNXcE10T3VzTzFIaHZQcUVaOTJiQ0J2dFRMRE1wT2VJSWp3d1R0S0EzcWN6ZXJ3UQ?oc=5",
-   "time": "2026-11-17T01:00+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
    "title": "Japanese Utility Takes Stake in Virginia BESS Project Serving PJM",
    "source": "POWER Magazine",
    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWXEtSXhtT1dkWmt4eTFqbFczUDlpSHkwRmxtejRDLTZBOWNRTkh3WUJ4Sllvcms0QVZscEpiVnlIOHBGejg0Q2NkelJGTGhOdlpYTThUSE9Ib1pMT1lZUzlkem03ZjBxZ0tjN1k5R3RiRUxNOGhfQ1EzWFVUNlRPazdWUkk2TGF3bXJUYVdqUnFSWFNYN0E?oc=5",
@@ -1432,9 +1922,9 @@
    "image": null
   },
   {
-   "title": "Hyperscale data centers’ energy consumption, carbon emissions newly estimated by researchers",
-   "source": "Harvard T.H. Chan School of Public Health",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0S3YxcW5NSEE0eGp3cFFSeGZmQV96SnFGQWptc2J4ajJYb3h0cEI3ZmdhSHVFZ0FtZlk4NjRNNzZZUnRMSXhBeHlfN0UxZzNqcHRqLVRnNUlTZlRaeGZIdGJkVzlEY2JKY2poRTJLZ1B2Y082aUZMZ2dmOHhmTl90M3MtT3JWREppbmVhQ01RZFNINnpiM2ZBWGlvX3NGTlduX0FFNG0teTFWTnJ0OGdCRzdRdGlWeFdvTHV3?oc=5",
+   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
+   "source": "WIRED",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1AwZ0tEdW5jc1RGUlJwaVVTMnR0bExHZkRWVGsydkVoLUhJQnoyVVlRSlA3RFVjaEx5dEJtcHdYRG93SXllUkVnWXQ1dXVCakpxZGkzZDFyejlsa0c0YWR2UDluaHJiOWNKUEI3MEVQSl9Id2hOR0plRzNtSk5pVUZ3?oc=5",
    "time": "2026-11-17T00:00+08:00",
    "category": "intl",
    "lang": "en",
@@ -1442,9 +1932,9 @@
    "image": null
   },
   {
-   "title": "Just 400 US Data Centers Use More Electricity Than Michigan",
-   "source": "WIRED",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNX1AwZ0tEdW5jc1RGUlJwaVVTMnR0bExHZkRWVGsydkVoLUhJQnoyVVlRSlA3RFVjaEx5dEJtcHdYRG93SXllUkVnWXQ1dXVCakpxZGkzZDFyejlsa0c0YWR2UDluaHJiOWNKUEI3MEVQSl9Id2hOR0plRzNtSk5pVUZ3?oc=5",
+   "title": "Hyperscale data centers’ energy consumption, carbon emissions newly estimated by researchers",
+   "source": "Harvard T.H. Chan School of Public Health",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZzd0S3YxcW5NSEE0eGp3cFFSeGZmQV96SnFGQWptc2J4ajJYb3h0cEI3ZmdhSHVFZ0FtZlk4NjRNNzZZUnRMSXhBeHlfN0UxZzNqcHRqLVRnNUlTZlRaeGZIdGJkVzlEY2JKY2poRTJLZ1B2Y082aUZMZ2dmOHhmTl90M3MtT3JWREppbmVhQ01RZFNINnpiM2ZBWGlvX3NGTlduX0FFNG0teTFWTnJ0OGdCRzdRdGlWeFdvTHV3?oc=5",
    "time": "2026-11-17T00:00+08:00",
    "category": "intl",
    "lang": "en",
@@ -1872,6 +2362,16 @@
    "image": null
   },
   {
+   "title": "柯志恩南下台南轟綠電變「綠金」：利益進綠友友口袋高雄不能再讓新潮流回鍋- 生活新聞",
+   "source": "PChome Online 新聞",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbUNKN2YtNGlqWFlCdHNBN3NSSGJ0NTBZREItd1lfeHlDczlEaHVyMm4yMXgyZFF6X0tMbzFGbXgxdklqRjBUYUN6N1AybVZ2MnNtMFVqTGY2UEljLVRUWVJ6LURBRG5TMnJkR1R3dEZZelVOY18ydkZwOFJBakQxMjhvM09sOEtO?oc=5",
+   "time": "2026-11-16T11:20+08:00",
+   "category": "renewables",
+   "lang": "zh",
+   "summary": "",
+   "image": null
+  },
+  {
    "title": "防 AI 晶片轉運，馬來西亞擬要求資料中心申報 GPU 進口與用電量",
    "source": "TechNews 科技新報",
    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNYlVxVV9ObENZNWt4UUVoQmhXdFFDcVVrRzdaN0Rid1VmSHgyWm16T0xMemtja3ZmVWJkcnpCaS1oTVExZXBlMFl4OEtZN2xlTkgyYmVwRGVGSlg4akFKbVJ3T2RZblRqQmI3QXF0dlY4ejJ5aHIwU2JXcGpEWmJGNTZiNmR3aUQ4ZnR3MmFGRzZLLVkyakRhYXVBa3NCbmVlSGpwTVZRT1Raa09ySGZHWlR2X3QxekU?oc=5",
@@ -1897,506 +2397,6 @@
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QTkV4R1ZTNElVTmQ4b1lLMVU4YmY4Tm9hVEc4TF93QXIyaEFBdlk5TVRQTVRlVEhsWGdGVlhzNXBsMkxEY0ZCVkx1cHliS2VxNFQ4OTlqV0ItRnpILWxj?oc=5",
    "time": "2026-11-16T10:27+08:00",
    "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "12月調漲電價?! 經濟部:盼立院通過追加預算抑制電價│中視新聞 20261116",
-   "source": "中視全球資訊網",
-   "url": "https://news.google.com/rss/articles/CBMihANBVV95cUxQWE41TXgyNU81VVRQZHRLcXpoVWhoTjcxcGgzcTRPUkVqWnhualBSMG9fLTd3VXBDZEtFU3VUNUlVR25ZSFhNeXNRWms4cUlvM1hINHdVWnowQ1pRYkRSa2ktTzFVa1A4STM1aXhZWmdmaHZDYkFPc1hIaDVtQ2Nyd2JHUlJRUTFacWhJZjB4VGdRSmhBb3M0NHFaX0c2Zko0b2IycmVnemR5WlJ5MXUzMTRveUY0X2FKc1d6UmxxSTJtRkhHQ2hJdmdXc0E3SldITGMzR1doTW1CamRnOXducHM3RnlGZjdWd3I1Q3dWZGtBWlJwYU9jb0JwcTB5ZWRtcUtzU1ZQTmQyMkZjOHAxbmxYa09rZVlsOU5Zc0ZZRDhZUVVjMjN1ZEJoVkhPZmpyYUlCOXFHNHJWaUpnWkRkZmZjdGJFQ25YUVkxZHBucDQ5RWxDeFIyNU93V3pCbENaeWh6T01nbm8tSWpfWjFCcGVNa19vekU2UnZ2eVptazZIT0pS?oc=5",
-   "time": "2026-11-16T10:25+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "AI卡在電不夠 美國出手解套！009827回檔一成迎布局點 | 觀傳媒",
-   "source": "LINE TODAY",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBRbHA5S1VTekgwSFEzdGpNeHRLUTJHWWJrLU1QdDVrakNWbXZzUFA0QzJhT3NGRFpGLUZQSk15NlhET0dWUHVCT3dPX28yU3RXMWRYdUpB?oc=5",
-   "time": "2026-11-16T10:20+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "AI淘金賣鏟最穩 009827一次握六大電力巨頭",
-   "source": "蕃新聞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1fd29hMXFfQzNKTHlBQzBIRjB0ZmxIeDQ5elBEZExuQV9zNkhRLTYtOS1yLUFaSTJVM0ZBMDdGSFp3TmtENGxrRUFKR2hJTXZNM1E?oc=5",
-   "time": "2026-11-16T09:50+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台達電 SST 新系統亮相 RE+，2027 年底啟動美國 PCS 生產",
-   "source": "TechNews 科技新報",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVEI0QlhZaUU4OFY4bWVJNGxPRWMzby1QTjZpbmtqdFY0eEFFUUI1YmZGaXBfUXFyZ0toUjBCZXpxRmU3MHVFSXJPODlFYVVPSnMwNmRRaUNBSXNuUFlNTmVQSHpackRJOEh1US1HQ0ZlNXRUZlBBZ2JaVTRNV0hzd1VyVzZlWGRic25rblZSZmxwbEJzNWpHMUhlWFdUQnRRVXFHTHFORXA1dWhF?oc=5",
-   "time": "2026-11-16T09:47+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "AI資料中心進入電力戰！東元從馬達、配電盤搶攻海外基建商機",
-   "source": "理財周刊",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE43QW5Ic2k1LTR3UXVpbWdUdTEtbmlHV2tfZWhLSTZleUpoNkYxZEg3NUpYbWxpbXRITm9KWkxUMVlZMzhPWUhURFBvdHRBX05FMlRGVjBfY0VBSVhpeUpZNGlSRkpZOXpRVThlbUR2OA?oc=5",
-   "time": "2026-11-16T09:41+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Corsair 打造 6 開關特製 12V-2x6 測試線，暴力斷電驗證 PinProtect 保護機制",
-   "source": "TechSpace 鐵客空間",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBBbHdSSHF2WEI0UVU1eTR0MUItRU03YUNkdlNGS3FoMm1ObGlVellJZkV2NkhtYlNRT2VYMUZmVXlYcm1ldGhNc3dmZWhDUU5BWnV3S2pBNkRnRmRldzJCUEFDamhFYU85RlJuVHpVT0xuZm5wNUpGZXZfWnNWQQ?oc=5",
-   "time": "2026-11-16T09:08+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "星盾衛星限速每小時161公里 澤倫斯基示警威脅冬季電網防禦",
-   "source": "商傳媒",
-   "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxOX1Jkck9ZSllaMGtHOW95dnFpczJINVg1OEd0ZmQyem11cFY1YWlCQkt6QVY3YWFiYmhNT2xjSzdMU3NFWHBpbGs4NVBYOXIzWl9wN2lUNjI1dGdwR2QzV2s3VDVkSW9KS3pOVFVGeVdHUE96NkNZXzIxcW10RWVDMl8xTGNPdEVrUWNUOGw2SV8zM1JZR0xzeWFoa2x2WFJXZi1NRzJ1dXIwajVhMkZDazA2bThnVWdOUGJZT1FDSFdIWmxLSUk0TEd6cEZKU3BSeEhjTXRIRVhYZVBadjBZWHJyc1kyYzNBZ09zR2d4cGE3ajk0aWhUbmxnOTFCVE9kcVIxX091d1I1S0RQM3Njc1RudzU4V1hYMndpQTFyWVVURnpnVXJoTlVBSGVpNHQtTVMydG05ajE2MlhaWmlmVTVPWEpMNktxb1ZUcXBPTGtrUW9aalI3QzFqLXpYZWI3ejRlQU9iMzlEV3ZFLUN6eS1XWXl6eUNDV1ItaFEzeUZ2UWVGQmhLajZxOXpFbXF6dVN1aUYzdWlGY2YxZTN4ZVU1SUg?oc=5",
-   "time": "2026-11-16T08:41+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Data Centers: The power infrastructure challenge shaping artificial intelligence expansion",
-   "source": "Inspenet",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBTdUU4Y2NZVktWTHIxc3JkakdMbW5XMU9YdnFYci1meWFSWTc5R2RHbzhURVV1czlGd0s5RmJKbEZDSHJLcmNOMFlnQm53d08zelcwcnhZNVBDcnV4LU14OGlDMmhQZVhrV3hOT1JvQlBXR3RVMXBXcTlwbGRCZw?oc=5",
-   "time": "2026-11-16T06:42+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "自由廣場》在野修法強制無煤 拿台灣供電豪賭",
-   "source": "自由評論網",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA2MVFNRDBhQkJyS2VKRUY3X21iclp1MDlUSlVveFdHV0pjZWJrdVlRQ2tNakZpU2pUQnZUd0JQczVMQ0FwcFYwcEJaT0xhcEVtcnhQci1UcHXSAV5BVV95cUxNVF9wc2FGX2dUUEg2RjcxVVJlWUtqRjBjVHZSTEZFWE9TSmZ6V3FZTUYzNUw2X0pkSUdvQmZ4a3B4eXJ5bVlfTno3RjY2NGFQMi1nZVYxY3FUWTlOLVlR?oc=5",
-   "time": "2026-11-16T05:30+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "BAAJA vs. Local Opposition to AI, Transmission and Clean Energy",
-   "source": "RTO Insider",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSGJoQWNsUnRkRm5XdDNraTRxMjMySjZDbVFKSThvaHVZT3NrUnBJelRhM0ZJVkV5VTVLRWsyYkdVT29HcjJtb3Q1VF9BNFZvYllTcGZiM3B3bWtHM2Z4WTNvYkdmTFFNazRoWU5fNUQ0RlBMaTJJMmtmemNIRWlxZkxOUjZmWG9oMjAyeDJOb3g0Sk0?oc=5",
-   "time": "2026-11-16T04:30+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "全球發電與電網投資失衡 聯合國籲加速電網建設",
-   "source": "聚財網",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5pOGpoRlR3R1lQUXZESjM2X0JTUl9fdHVIbi1CbWs2eUFlLVVqZ1Z1Q1dmMjA1dzE2bWJpc2s5UkN1Y1Q4cUd0S2pQX3o?oc=5",
-   "time": "2026-11-16T04:14+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台電大單＋銅價漲 線纜業報喜",
-   "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9RZGxQRVJYRTdSbnRtN2tmcktZSjlKZlBZTDU0Vm5sQzU2cm5LX3h2alhOb2NoeUNrbHZnTEVQOW1hN0xKakJXVXVrUUZJYmlMNG84QS0xUUozaXJnRWZaZkptREV6OFNDbnNZ?oc=5",
-   "time": "2026-11-16T04:10+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Wind Farms, Solar Fields and Power Plants Sell Electricity to the Grid, and $120,000 Across These 3 Owners Pays $6,286 a Year",
-   "source": "24/7 Wall St.",
-   "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNeVNPTGVoQ1Jja09WMnJySEJpTm9xOGpGMGFDZi1vQjRyWGNaQVFxNThZNEtiYkNLelpSV1RLSThEYm85eFJYNlNZVHdWVkVJM2ZkYUNQOWJ6ampKYzZlWHBzTnhBc05xZERFemI2b3lDTllwYzVhVXh2WGlyeks4N1BKRmFiUHl6ek1QNXBVNW1aV3VpZzloeEJTbUQtNWcyS1YtUTVzXzhDWGhVQzJQcUZob2dLU1Zab0t2VDVFdzEtWHVKQ09Md29hWXE3Tk1HLUd3Ynd5T3dRMVpvQUM2eU0tSkR6bkc2d2VMamdyQk5Md2dyVVE?oc=5",
-   "time": "2026-11-16T03:58+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台電大單＋銅價漲線纜業報喜- 日報",
-   "source": "工商時報",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5vaHd5dUg5RUdPQW9VcnRSVVhRMnJJd012eTQ1UXFoWXpXWnpGQy0zeFVrNGdHSm8yRzF2X20wMnVvdHA3ZUp6ajlzOFg4UW1kQ1M0bUFaajc4Y0JLN3U4?oc=5",
-   "time": "2026-11-16T03:00+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "北美資料中心電力缺口近1倍 微電網激起功率晶片機會之窗",
-   "source": "DIGITIMES",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8xNnJ6MmVIWWdXR2dmRy01TEFaTXJDUWFEWmpYMTdCblJWSFpuZGlNNnhZZ003UkUtdTNPblluTDVVUUd3eFB2dG1RTmRyeHpJWjNpWDAtWjAxNGZpdGVRemcwT0hjaW1yc0ow?oc=5",
-   "time": "2026-11-16T02:18+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "陸海底資料中心專利拿第一 具關鍵技術主導地位",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jZlNmVVVFcUxqY19FUUZRRVp3NVhncUtCWGlwMFFHdmJGMno3MjhEcm50bWx4NTFCNUd4bnRCbFpEWGZKUFBNRmd4TzVtNDJa0gFWQVVfeXFMTzFRcHNELUhVRHc3VzRhem56MF9oVzZiRTFNRTFnQ0ZvRW00ZW1MRXFubU1mMWR1ZVFzdDhmS3NIRlpVakxLTUtfQmdjVHZ6QXp2bU1ESHc?oc=5",
-   "time": "2026-11-16T01:51+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "強韌電網+AI擴廠雙引擎！「這大廠」3季賺贏一整年 在手訂單破600億",
-   "source": "Yahoo新聞",
-   "url": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOdVFOSmdmd1c1aWd4TVc0LTY0OWY4TnpxSU92SEtvenVuTGthbHpBaGNXWE13UXkxS3VkdWlPM2d4ZFFsUHZsMHE5MndFdmdEYno3ckxNV1Fubk93Yk9JRHRveHB2VFZfcWJzbHI4b2lfaFd1bFdhbjdUSUlUS3Z0MzBhaTNvV1N0amJfQ01iWjltSDNBNnIwbmF1VThiMTd6eXBnUENsaGZ0czdKSVJ3bWJHbVByZ29GMVp0S1B0UGhHSHE5TjBpNk5zLTdjblVDV3NPSFB5UldISi1xbWpzYlZIWEVoU29zZVN6S0dKOExSeGRKcGhobmRUVmlHVDNmVmZtV0NKb2FGcU03QU9Yakh6S19ZNWFyQUxrX29aRkhzcHJCR0JTTA?oc=5",
-   "time": "2026-11-16T01:35+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "The New Energy Politics: Why Electricity Affordability May Matter More Than Climate Politics",
-   "source": "EVWORLD.COM",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOQkR0cHlHM2dMZ3Fpa3dtM0xzVE1ueDMwY1dRTF9wR0RrYmdCaW9MYWlQSExXdWpsT1d2eklwZmphVlIzSjBGZ1JSOWF0YVR6dUlzYVFRZGdyTkZZUUc2ejIzYnRUbm5peGxoVl9tY2kyVzhyc2NjbXJKbThyTUZ1RmFYaU54YWx4V3JjWGg2UWlNdE5qV3JyLWJ0YmVWbGExVTMwZGk4MFhvUHNLeTFwV0FGeUFkbE5mTXdleC1UQnA0TkRKTTRtbWl6QUs5SXZ0dUVtS3B3?oc=5",
-   "time": "2026-11-16T01:05+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "How a Chinese Energy Company Is Outpacing the U.S. on AI Power Technology",
-   "source": "The Information",
-   "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdTlsNk9obzRYRlc2RGU5M2NfU0QycHljVTYySnd4eHJTUzRwa3N2Y2QzQmNWVm5RYnNlei1ybVJIZ3FTMG9RbV9PNkw0RERIcDRQSVMzNFYwX2ppWHVfdlg1WGc2amI4V3BLTVBvcktUeGtQREo1UVNqVjl5NUlVeDdvSHU4REtvSFZoVjVwclprVHppcVdzeDhXcVZfb0pRTWx4SGx5eERFZjhRM3lweWVYV0piX3JZ?oc=5",
-   "time": "2026-11-16T00:30+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "AI關鍵技術…海底資料中心 陸擁8成專利",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBQZURSYnZiOUhaRUlRNHNfMkpMZzBNa25ZRkJxVk03Rm4wTHNlMXUzbS1zOW4xNkZNMVdhRVhWZ2hIVE9GOXlhVjJxNnV6VGJx0gFWQVVfeXFMT2l6U1lLNk5DbndwNWFTRFdNUzhtbjJpSy1EUDNiaEsyTkQtTUtQNHliakdKZUJEWUFZOVd3QWdwRmk1MG1TYzBDaDFtSnAwWGRnejVVU3c?oc=5",
-   "time": "2026-11-16T00:17+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "柯志恩台南力挺核能公投 轟綠營「綠電變綠金」",
-   "source": "今傳媒 JNEWS",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBSLTBEdmJnYlIweU1SNm9Ebk9QY2UyNEIwR2t3QkdXaHlUaVhtWDU1T2MwSlVFcmVaV0VoN1UySVVNNFJvSF9xT1BWQkdIdTNSb2fSAVJBVV95cUxQUi0wRHZiZ2JSMHlNUjZvRG5PUGNlMjRCMEdrd0JHV2h5VGlYbVg1NU9jMEpVRXJlWldFaDdVMklVTTRSb0hfcU9QVkJHSHUzUm9n?oc=5",
-   "time": "2026-11-15T22:00+08:00",
-   "category": "renewables",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台電南投區處舉辦敦親睦鄰公益活動",
-   "source": "大宇宙新聞民時新聞|",
-   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOX290c29hMDNxTG9wLUNhR0x1R1U5bklwNEdVUmZHb3UyaEhPMUhKRlp5UTJoajJiMjB4cXlCWEVSYnN2Mm9ZaDJpdmxEaWlXbDVud3o0bEw3OVZqcVJRUXp2MUs4YzRYcG9mbGpYYS0zekVrNnJHM0VJRFIzejJ2LVphWnROeU5UcW91bERISVpvUXN3RmN4aG9MMS1PV25HUjN0RlRhY0ppTUlwdGtZRmVJcmJSd0lUQ1NTSURzWVZnN0Z1ODVIYWp0dlAxbFlkcW9LY3hZbDN6S3ZKVW04WWE4NmwxbjdzMVM2RmhxeHdxQjc4V1NLSUJR?oc=5",
-   "time": "2026-11-15T20:08+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Lawmakers fight regulatory approval of Google data center power plan",
-   "source": "The Oklahoman",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNM2Ztc2QzQlJuTzMwWS02Tk4xdHlqZGF3ZDVXd2JNaW5pY2FZaHRBczdtV0cxenNuMmcwcmhVWE9GMGhQT1JGWGROa1dpVnFoU19oejJUekZjdGlvYWh5eXBUQWpvUEJPRzZSaXR1R3BjSWphTzlJMDFkdU1oS0JtdWNzbWlTRUxyNUdJZUFfaVpGcWNLRjNUZjJfa2otb0dfVVZJVXZmNFlSWGFkQnFyYnQ3RG43dmJxQU1fc19CZw?oc=5",
-   "time": "2026-11-15T19:20+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Ireland’s Data-Center Lawsuit Puts Energy Policy Under Scrutiny",
-   "source": "Energy Connects",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZXVSVWNRVXMzRmtqWXZmZURwOXplRlF2UURmUGM2cl9yR0hXaC1nUDZ2SUdkMURuWm9ISm1JaWgzUm11NUlyYi1TS2hfRzZYbWptVC1XSmhJX2tYU3p4NjQ0QmZmOEhaOXI3NTFUdlIzQ3RUM1JtRnV2MDg2RVNXVUcxSWxmR3FCbVJoSE5GRmdfcVFEQjNOQjRPQjB3UlFZS2haV0Vtak56UWl5M0lDbTNqT3Q0MUplam40OEpqUmVWUQ?oc=5",
-   "time": "2026-11-15T19:20+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "As demand soars, ComEd redefining what an electricity grid should be",
-   "source": "Chicago Tribune",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRzNDUHp5aVpRaTYxXzgzUWJvdlRnREstckl6U2F1MWFENHNPdVItNkZTYnZNSXJPbVNuSzVnSng3UGtGOW9sM1ZlbzRLdTFCWklGaHdscmtxMk5uM05DQTZRU2VtNFlwZVZIYnhoVWx3N1lMRTNlUlhXbXlGNVowUw?oc=5",
-   "time": "2026-11-15T19:00+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Ireland’s AI data center boom faces legal challenge over power demand By Investing.com",
-   "source": "Investing.com South Africa",
-   "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRExzRlBudjlwaG92dnhzTjRobDM1YVlwSVpJZmM4NGdYYmRqOHNvUG4zV01FMkROWGRqTmFEV1Z0b3NRRTRaZ2VuT0hxd085OWJHREdreVp0RnVpejdxTHUxNm5faDF5U09KZ1l6a3BHNWJaeDRkSldoZTZDMl9pQlAzQWIxdTloYllMTlFTV2hLQU5ERHU3UGpOa3FYUE94M0lqS1JnOWpicFZPcGxLWXFaX3htUWV5LVNlOEV2a2tmdw?oc=5",
-   "time": "2026-11-15T18:17+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "路燈電費為何暴增？竹北市公所揭原因：因財劃法台電取消一半補貼",
-   "source": "UDN",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LM3Y0QmxILTU0VnNEVWdWaTNvWlBkanBHRzBtdTQ3Vm52SEQxTDlCRUVESWZOVVN4ck9Rdy16aS1ZdGl4bGVVZ25CN2VHcW8z0gFWQVVfeXFMUElyazlKTUR5aXFTam5PenJTQW1pVmdGNHg2d2VVZ3dfLXRfUUZFaWV3QkszLWwyY2hBNzBKY3JiT3M2WE1uYWhua1l2N0kxZVVyR0JGanc?oc=5",
-   "time": "2026-11-15T14:10+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "沙崙樂活市集綠電供電 結合AI科技與智慧健康體驗",
-   "source": "蕃新聞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ua2N1R2lnazdPekdidkdNa3lJaTl4dUExX3RoZ1EweF96b3FybTNNaTNhblM1alFSLVB3cEpXVUNza0p0WHdVc28yQkpEa0R1a2c?oc=5",
-   "time": "2026-11-15T12:37+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台電2027年規劃招募583名僱員，簡章預定12月23日公布",
-   "source": "蕃新聞",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE95YmZlOVZfZ1B3c0xxZ0ZuaVhyWjRUdUZMUHJRZkJHS0lBcU5BZkhsYVJzOVI5STlvYjJobVZkeDc2QXVoOWFZbU0yeVBFLXdUUWc?oc=5",
-   "time": "2026-11-15T11:57+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "天然氣貴11元台電明年恐連二虧- 其他",
-   "source": "旺得富理財網",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE50TlJ6T1Y2ZWFQdmRwRTN3RWZhS2tWaHozNDFjSmdTcHpxVUotSFdsZXY4YmhlZjRKSzVBY3ktYlJYakpBNXYxT2ZLTDRDV3Q4eFhtZFd4aDB5OXZ5Q09DNXh5VUd3SElyb1E?oc=5",
-   "time": "2026-11-15T11:38+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "梧棲區關連工業區變電箱爆炸導致附近住家停電？ 台電：供電設備不良所致已復電",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5vOENvZ3VyenA3ZjZxUWdPeWthNjhJWWVWa1lTM09wRmoxaGZabE11b2tIUUdWMFo4THpFRzhwTUMwOUVFOUx5SEI5anpvZnBUbzZTa3NvN0djRlRjQ2hURWpHSWZ5N1VuTWfSAW9BVV95cUxQUms5dUZOOExXYWV6S21QUWRDWUlJNzhNbEJEbnRVMjNaYWl1Tl8wbjBCWm12UUV5QmhXMEo5R29jMW5ld3BiZ3J4ZlRjNVhHZHl5SjVzU3Z6dHRMQ2xyOWFXUjU0eUlOQ1QtYUlEakE?oc=5",
-   "time": "2026-11-15T10:32+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "MSI PRO MAX 341QPXW14G商務OLED螢幕開賣！34吋RGB Tandem QD-OLED、144Hz與98W USB-C供電",
-   "source": "XFastest News",
-   "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxONjBERnBHX0hYQmp0dlBRSFJmYm5iQ21tZE03RC1yWVNybHRLbTRhM0Y0X0x6bUR0RnlYVzdnNkdaRnBKZHF3WEo2LXFaR3NjOVlGZEYyRUgwb0s5LTNmUm9pOUZNM3pUZWNLMk9OVzNDbUhBX253N0lBNFRzNGgydEZwWkRxSDBpMW93T1VZci1lQTN3c2ZSWmc2SnVTUzZVc195d0twOVMyNC1wcHluT0pRWDZvYTdOazlnQWNUY3VMVEtDMUJuYk9PdTdXMWZsVzZjVm5yazJqZEt0bEVwb1hKSVk4eHQtMlRYYzBlQXF6VkZnTi1mYm1RaEYwS1BCa3V6dHMwTUpsUEZPWVZoekRxUmVRa2VwemxNa3ppSF9lV3FRY2Z6c09R?oc=5",
-   "time": "2026-11-15T08:37+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "【半導體拚永續】AI成耗電巨獸！看台積電、聯發科、日月光如何分進合擊減碳| 太報",
-   "source": "LINE TODAY",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE02b2xKdFdNd09TeGhtaFh6OXNGbFRyNWpSSWpGbDJ3Mmt6YzJ4OWVLVWRpXzlzakVycUtxNmsyY0R6YW42Z19KLVVoQjM0Tm9oYUM0RERJM2E2WEtMR01fdEtKYmRoV3JENmgzWkRjZWtudE9Z?oc=5",
-   "time": "2026-11-15T08:26+08:00",
-   "category": "aidc",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "US Facing Extreme Power Transmission Crisis",
-   "source": "Eurasia Review",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNeEg0MmNrbnYwMXFuaTU3YThHZHhHbTJYOVpNWDdzbGFma0tNeGxHbmIwSlNjaWJWUmFMcE1aRjRxNnJTdDdmU2FtTmlHTmF0RjYwN3BhcFBtSjJyaFFRV3o2X2NfRHpza1JudmFkaVZrOXdGcHcwSV9CU3VXM0h3bEpvWWFJR0J1cEZ3?oc=5",
-   "time": "2026-11-15T07:27+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "US regulators authorize four modular reactors at an industrial site",
-   "source": "TechRadar",
-   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOTVZDR0tzVnhZZmM1VDA3cS1TOERzdnRybEdfc2NWak5DRVRFdDd3ZWJsUGhmRThWMnlrN081bWxBdXB2YVFxMUdDbkphUXhUYVRsUktyWDlJMlRvckt3bDAzNEhuQTRIcC1MQU9wV010UnkxQWtmZFlTbTF3Q0hDdWctZmhxSVladEhLT19ERUs5N1p3c3VCSEs4S3U0N0V6dEdmT1pDX1E4YlhH?oc=5",
-   "time": "2026-11-15T06:35+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "賴建信：非核不影響經濟成長 核電非萬靈丹",
-   "source": "自由財經",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB3Y3dVYzctam9DeUY2UkVhcHBOQ3JQSkg5YURCN0E5NUtYRTcxcHFPeXJpSGdORUdWZUdyQ1pNdmw0djFHVEhySDRnX3F2WU9NbV9SRXRYdDQ4QUtQTkNv0gFkQVVfeXFMUGt0eDIwTlgyTnZYX29vU01ma29UeGlmdUM3Uks4QXBvVkIzSHFqZ0ZkVHE1RkpJOExSSkZObV83VDdEUkhnVUFjQXZyTGhaXzU4eVFhTUdadm4xdTQ4cHF3S3Joeg?oc=5",
-   "time": "2026-11-15T05:53+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "天然氣貴11元 台電明年恐連二虧",
-   "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuaTZlbGlfUUtna1VzZnpyVHVtemhjV1RGdkNrUFhGdElGMFB0STZMalYwSlZidDVNVF9MZ0h2VFhCWjAyTnE2MXhMQWp2azJYRFhqbU42NmN2dVB3Q2hUMDlrX1NCTkVJdWZJ?oc=5",
-   "time": "2026-11-15T04:10+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "South Dakota ranks 19th for data center pressure on electric grid, study finds",
-   "source": "KOTA Territory News",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb0JkdkYzYS1tY1ZYaVpWOVF1OXpNS1pScEpnRDJMOURrMzJreVdiT0ota0JqT2F5MExDemNpN3ZybGRFaXlZekJPcFhhT1lESUt1OVRVRFBZcVlRV28xLVI2dk5mM0k4WDZrSnNaQ3Brb1pRbjA0djlFbUdOa2d3ZWZkX3NqN3NyYmYxWHpZd1U1SUJMRE8xc09hZjhjNzB5UG93bG1EdHnSAbwBQVVfeXFMTU8yOHRNbFR4bHJNbUJTaEpVcDcwNXY2blhuNjZGQVVieEJuaThObEhFMl9vMm9ybl9ZeUxPS0s1UkQtVHBuMmxqVEduOTRNZGx2MVJXOUpnQTdjQnZYdDVYR2JpYlNoQjVJOVpNNXYtU1l6cTc5TUNiMS1Ebkx2WVBKQ0k1Y0k2Q1Q3LWRJd2hnTXJWamdkMXNVT0dSN2VhRWIzU25UYlVQNE9UZDdUc1lMYURmMk5oU2tEZE8?oc=5",
-   "time": "2026-11-15T03:00+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "空污法修惡》中火8機組提前關機 逼2028年全民限電",
-   "source": "自由時報",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8yZFl4Xy1sQWRfWFhOQndkQ3A1Vl9sYlA0MGlkdDk5cUNTN0xrX3BfQXdxVkpYNEtqbVhpV2RFTlVhaW15bGxpQ0RfbDN3d0JWdno1RmVENjU?oc=5",
-   "time": "2026-11-15T00:58+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Data Center Electricity Bill Debate Reaches South Korea",
-   "source": "조선일보",
-   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRUpjLXdTekpnUXR5aGlGYlhaSkFaR3IwOFl1VGdMWGRqTnd0ZENhS05SeVhtTDJranlwU2lUX3k5eGhWbUpjZnVkOTlZS2FiVzRkWVp6MmYyTFV1VUtRTXYxbFhtODVjZnE2NW91b19LY09oOFJCenlockIySkhPalljRXZTb25QMGRzVHhn?oc=5",
-   "time": "2026-11-14T23:14+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Malaysia plans new law using data center power consumption to catch AI GPU smugglers — but real-world TDP variance and lack of physical audits could undermine it, new law also forces operators to pay for unused electricity capacity",
-   "source": "Tom's Hardware",
-   "url": "https://news.google.com/rss/articles/CBMipgNBVV95cUxQM1E5R2dtYU9DSjNZTWYxb3FmVlNIM1E3V0FYS0h0M2tpdGszVG1UTkRIdXRfaFM3eUhmeGdhYTQyeGZ1UnNlUVJaeWFfNVBFcFUxM2Q3Y0N6UHZlLUN5eDd6RXhEYmU3VmU1U3JKcEdnc0RUU0NMbW5oNm5XTWNvcDJpejJzNk1OcVF5R3VjdmJsZlVQc3V3LVRFYTFJVU5Bem5RME1jYkd3aEsxeTAyYzFBeE9XYmVXOTZCZFpFc2hONXMzaUM2QWpSQ01sWUJxYkFRa3lSWjVzckwyTWk0MWI0d19mQXc4VjdZMU1FSGQ5WVV4ZjEtMnpqSUNxSHRtdnpXc2FyWHF2NTRleGxwQXpud1U3WWNrSnNvUDdGSkhsLWcwdzVabHJWMkxmcHBUdFhRWEZCRXlrX2hwSHZGSzN4LVg1b0RiTjZXVmVpQURnWGl5MV9TN3RSSXBkLThEMFB2aGx5WDVmbXVXXzhKeEtFeWVhY1VIZlkwRVhxV3diYVJ2dGVpV2RCbUpaeG5ERk9maGJmbk8wekl3Nm9HOXN6WG85Zw?oc=5",
-   "time": "2026-11-14T23:10+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "中東戰事不停 明年電價有漲壓 台電恐連二虧",
-   "source": "中時新聞網",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ZdklRWkNBMm9ZS2lEMUVTZnlwOVV6XzNUazJZazRCNUY0X2xWYTBtYjduQUpyVTZvSnBJcUdwVTBSZ0Z6V0U4VDFnaFBYTnBIMUZFWUZKVVlIaW03RUxEOHJ2Yy14MGxQeS1WNHBR?oc=5",
-   "time": "2026-11-14T23:00+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台積電法說遇輝達財報AI行情的關鍵48小時 MSCI半年度調整出爐AI伺服器供電散熱誰最強？緯穎台達電奇鋐雙鴻11月17至18日法說見真章中油油價連8凍漲｜投資早知道",
-   "source": "Yahoo股市",
-   "url": "https://news.google.com/rss/articles/CBMigwdBVV95cUxQOXN2QXlmOEJLa2VBcEQ1SGtxRU0yOUNkUDRpQzZCMVRCWTdEVzZpVGNqTDJROFo5eC11Zy0tdGhnUFBvV1llZEwtbi1PQUdXZEdBOGJuTjhreGQxcVhwbjRHb2hOXzlFNVBtNkZVaC1YZmJGUmsxZ0xuUVhNS0JKT0tQaGlVRDlsNm5LdHdpR2lSeGpOWDI2S01hU1VMblBIR2JvX05vcWVucFotd1hBVHNRWlROZUhsTjZPdzdNMTI5M1BpYWFoSlV1dzRKNjZPQUNCY2FnS0VRSGtDYXhINFlmU1BMQ0dINklkckFRc28tVF9xT0xIOHZvUW1hV0NHWHFRX051UmpUQVhaVEp1OUN0Wk1teEpjVndCU19ZS2lDU2F2Qkcwdl80V0lSd1lpS3FHVzVZM1VqdFJzYWd4bjM4T2p0YkNDMW9ZZEJyVkhDQk5CY1dEdGRtRHpSWU1QVFcyTGV0eUhKS0F0dXVRNjUwY3RDOW9sUHJ4ZzNZOVBuVWUxUFotYXNBdmhjUVZicHFZZWJwVXRjOG1fYmpWS0ltN0lSb1VvM0NnNXNaODJFYndiZXFJTHpiRW0yT1NzdnpENTZpSnNON0R1SnhkUEhMcUV1UjNHclhvODVHNHFnSTdwU2pXaTFRQjB0WWxzaWJBblN6TjZZRVA2cGR5QUEwSmFJX3hlY1JyMFFhM2xTc0lpb0ppeHh1ZzE2Ty01SDczeC1YdWdLRmlYR3BuczFfVm5Ob1djMy1aN1gxWXk5UGFBZVVGM1g4bHA5Rzd5WHFQMS1FWFpnTFk1VWc4NkJQS3Bmb3V0X0sxSkVuTHhtTE1xU1U4NUFQX1QwckFFek5jU3B0bzh4ZmwxS3ZwTXE2WFBnOHZIdFYwUmFIRTdGTGdkMTlVM21qaHBzWGNvd3JIVmlFWmJEYm5sV2x6T3RCbDVBalozblQzckpLQ01NVEVNcDNiejYtaHd5NFpQTEx3RU1vQnlZSHRmTUxNMWVNSkFrdHptYTJsZ1ZfVGtNdmNoU0llNUdzbU9qbDVaNzVtcDBPY2k4YUh3OFlqYlliYV96SGJKdnlENVRMTnU4RU12Wms2UkFUTWlZaXUxQ21GVE5XS0NiZFF6eF9CZDI1XzFnQ0hlVjBQZUpQekRwNWtKeVduUXVHczh2R3I2TmlHRzhla2FYZWlYSmwxOWRZZw?oc=5",
-   "time": "2026-11-14T21:18+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "Tech Giants Face More Grid Cost Pressure on Democratic Sweep",
-   "source": "Bloomberg.com",
-   "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONTRxa3Nubm9nMFAzRjkwNEpQYnVlQVd6SnBZWXJ1aGllaENwZi1ZZlgxSkZ3SjQyWFN4Q29TVVpXb0lKZmVJcmFCRXR3aEw3bE1RaFZXb2pCNnFnb1VST29sNHJGdzFRclh5WVV5bUlOdVVLNUpYQW1JTGhJWUdmQjVJNkFOemRPdFhPZDNIcVJKOEVHMXVvczBaSFdWS2l1b0dnZVRneERPQWVJb3dLLQ?oc=5",
-   "time": "2026-11-14T21:00+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "分散來源與航向 提升台灣能源安全 - 想想Thinking Taiwan - 想想台灣，想想未來",
-   "source": "想想論壇",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QOVpSajVTNURQaFhVRFNVOXUxWm9MWGZHQkI2ZUxHcFY0MktDYmppWVByckE0M2VaNTY1RGZxX20wMlZOeURPdVhkdTlPTnNwMmhKc0wyQjc?oc=5",
-   "time": "2026-11-14T20:09+08:00",
-   "category": "gas",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台中七期知名空地「買不起不要問」，欣彰天然氣4 年砸13.6 億整排買去| 動區動趨-最具影響力的區塊鏈新聞媒體",
-   "source": "動區動趨",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPZXNCYTVSbHBla25MdEl3ekpDalNvQ05YbFVJR184SERxTm5ROHQ2cDZETGQyMEtKZVpibjJscUdvNHl6bEEzWU5ZY2VGeV9EeG9qZnF1bUI5SE01bEtSMUQtX05HVkY5a1RxM2N0M0p3UUg0ZExIcG9pVEZpSmd4TUNjMVI3dlZTd29vQVVSWFE5TTJlbFhTTnkwTkJXMkZ2SklIMEtrNDA?oc=5",
-   "time": "2026-11-14T18:51+08:00",
-   "category": "gas",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "台電攜手澎湖海事培育技術人才 為學子開拓職涯新機會",
-   "source": "澎湖日報",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1vZDlIZGJReU1IZTRKVmpiT0xwQVhYc3I4d183RVNQSTIxR0pyZmk5c3VjVTFlTS02VFB4S3NZbGJWZ1hpMERyeHh5Q3N0S0NMS1dLRjVJUUtxZFk3Q3I0T3JESEJUb2l3WHVn?oc=5",
-   "time": "2026-11-14T18:47+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "軍事活動衝擊烏克蘭電網 IAEA：部分核電機組降載",
-   "source": "民視新聞網",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfWUxseTUyeXk5VTBSQmowaTAtajljV2ZfQjZfN0E4S1Fkb0tNdVZ6cnhwSlBLLXp0QlMyaDJzbWFHN1RpWlc5VDhwLUs0NmNEZ3NBS2Q5UEJYMWtqYmNDbw?oc=5",
-   "time": "2026-11-14T18:45+08:00",
-   "category": "power",
-   "lang": "zh",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "An Obscure Utility Calculation Is Putting a Thumb on the Scale for Gas in Georgia",
-   "source": "Inside Climate News",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbkVQeFl4UFYzQWRyUi1QWUhCc2FaeHd4NkxQdzV0Q3psQ3hOUG04bk9UZW54Qnk1bUNIdlljVkxpMWdKeHVuemVBc1hmVmdCYXROWDJIdFA1TG9vLU9WeEpWTVd4WUtPSV9xb0ZzTGxaazRTdnhSclZHWFBJNi0xc3Vibw?oc=5",
-   "time": "2026-11-14T17:55+08:00",
-   "category": "intl",
-   "lang": "en",
-   "summary": "",
-   "image": null
-  },
-  {
-   "title": "AI 算力推升用電缺口美國電網擴建速度落後達九成- 財經新聞",
-   "source": "PChome Online 新聞",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZjd4RGxtczM3c1VXNzlvSjJINUVScjFyWmxIdjFtTkR2a29ubkpIWm9wUlRNbVRvcGxROGwzY0NJbFhIUzJXS2VkS2tKZlBWbnZ0MlhOdmxFNmZscGxTeVN4ZFNvTUJFRlRJa3hMRXhfWlE3NjBVNEhneXFxVzVfTHFaSnpqbXIydktLTA?oc=5",
-   "time": "2026-11-14T16:40+08:00",
-   "category": "aidc",
    "lang": "zh",
    "summary": "",
    "image": null

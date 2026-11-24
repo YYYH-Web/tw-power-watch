@@ -1,73 +1,64 @@
 {
- "updated": "2026-11-23T20:49:02+08:00",
+ "updated": "2026-11-24T08:55:05+08:00",
  "source": {
   "name": "台灣電力公司｜各機組發電量即時資訊（含外購電力）",
   "url": "https://data.gov.tw/dataset/8931"
  },
- "time": "2026-11-23 20:40",
- "units": 150,
+ "time": "2026-11-24 08:40",
+ "units": 158,
  "by_fuel": {
   "gas": {
    "cap_mw": 23606.2,
-   "gen_mw": 16850.2,
+   "gen_mw": 13030.1,
    "units": 37
   },
   "coal": {
    "cap_mw": 10258.6,
-   "gen_mw": 7522.8,
+   "gen_mw": 5765.8,
    "units": 16
   },
   "cogen": {
    "cap_mw": 627.3,
-   "gen_mw": 855.1,
+   "gen_mw": 885.0,
    "units": 1
+  },
+  "oil": {
+   "cap_mw": 1595.9,
+   "gen_mw": 169.5,
+   "units": 8
   },
   "solar": {
    "cap_mw": 15525.9,
-   "gen_mw": 0.0,
+   "gen_mw": 1963.9,
    "units": 5
   },
   "wind_onshore": {
    "cap_mw": 3279.4,
-   "gen_mw": 69.5,
+   "gen_mw": 2784.6,
    "units": 21
   },
   "wind_offshore": {
    "cap_mw": 907.7,
-   "gen_mw": 2.2,
+   "gen_mw": 847.8,
    "units": 4
   },
   "hydro": {
    "cap_mw": 2115.7,
-   "gen_mw": 338.9,
+   "gen_mw": 132.8,
    "units": 52
   },
   "storage": {
    "cap_mw": 3465.4,
-   "gen_mw": 689.4,
+   "gen_mw": 41.6,
    "units": 11
   },
   "other_re": {
-   "cap_mw": 68.0,
-   "gen_mw": 22.9,
+   "cap_mw": 67.9,
+   "gen_mw": 23.9,
    "units": 3
   }
  },
  "history": [
-  {
-   "time": "2026-11-09 14:30",
-   "gen": {
-    "gas": 13825.5,
-    "coal": 8421.9,
-    "cogen": 1169.6,
-    "solar": 3762.5,
-    "wind_onshore": 2748.6,
-    "wind_offshore": 839.2,
-    "hydro": 314.4,
-    "storage": 0.0,
-    "other_re": 39.3
-   }
-  },
   {
    "time": "2026-11-10 01:20",
    "gen": {
@@ -724,6 +715,21 @@
     "hydro": 338.9,
     "storage": 689.4,
     "other_re": 22.9
+   }
+  },
+  {
+   "time": "2026-11-24 08:40",
+   "gen": {
+    "gas": 13030.1,
+    "coal": 5765.8,
+    "cogen": 885.0,
+    "oil": 169.5,
+    "solar": 1963.9,
+    "wind_onshore": 2784.6,
+    "wind_offshore": 847.8,
+    "hydro": 132.8,
+    "storage": 41.6,
+    "other_re": 23.9
    }
   }
  ]

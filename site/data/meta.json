@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:12:28+08:00",
+ "updated": "2026-11-27T11:57:24+08:00",
  "sources": {
   "capacity_annual": {
    "last_attempt": "2026-11-15T15:43:46+08:00",
@@ -37,10 +37,10 @@
    "rows": 151
   },
   "news": {
-   "last_attempt": "2026-11-27T02:44:20+08:00",
-   "ok": false,
-   "message": "power: 503 Server Error: Service Unavailable for url: https://news.google.com/rss/search?q=%E5%8F%B0%E9%9B%BB%20OR%20%E4%BE%9B%E9%9B%BB%20OR%20%E9%9B%BB%E5%83%B9%20OR%20%E5%82%99%E8%BD%89%E5%AE%B9%E9%87%8F%20OR%20%E9%9B%BB%E7%B6%B2&hl=zh-TW&gl=TW&ceid=TW:zh-Hant; renewables: 503 Server Error: Servic",
-   "last_success": "2026-11-26T11:58:34+08:00",
+   "last_attempt": "2026-11-27T11:57:24+08:00",
+   "ok": true,
+   "message": "",
+   "last_success": "2026-11-27T11:57:24+08:00",
    "rows": 240
   }
  }
